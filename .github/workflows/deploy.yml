@@ -3,7 +3,7 @@ name: Deploy Quartz site to GitHub Pages
 on:
   push:
     branches:
-      - v4 # IMPORTANT: Change this to 'main' if your Git Bash branch is named main!
+      - v5 # IMPORTANT: Change this to 'main' if your Git Bash branch is named main!
 
 permissions:
   contents: read

@@ -25,7 +25,9 @@ jobs:
         with:
           node-version: 22
       - name: Install Dependencies
-        run: npm install
+        run: npm i
+      - name: Pre-generate Quartz Plugins Folder
+        run: npx quartz create -p
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact

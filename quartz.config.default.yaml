@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: "http://127.0.0.1:8080/"
+  baseUrl: "github.com/GobboLatte/gobbolatteDD.github.io.git"
   ignorePatterns:
     - private
     - templates

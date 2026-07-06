@@ -26,8 +26,8 @@ jobs:
           node-version: 22
       - name: Install Dependencies
         run: npm install
-      - name: Create Plugin Directories
-        run: mkdir -p .quartz/plugins
+      - name: Install Quartz Plugins Ecosystem
+        run: npx quartz plugin install
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
@@ -45,5 +45,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
-

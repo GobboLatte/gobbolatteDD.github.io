@@ -63,8 +63,8 @@ A defected criminal turned skilled huntress, the Falconer excels at disrupting e
     </tr>
     <tr style="border-bottom: 1px solid #383830;">
         <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">SPD</td>
-        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0</td>
-        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">5</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">7</td>
     </tr>
     <tr style="border-bottom: 1px solid #383830;">
         <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">ACC MOD</td>

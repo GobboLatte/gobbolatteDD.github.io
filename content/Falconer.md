@@ -63,8 +63,8 @@ A defected criminal turned skilled huntress, the Falconer excels at disrupting e
     </tr>
     <tr style="border-bottom: 1px solid #383830;">
         <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">SPD</td>
-        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">5</td>
-        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">7</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0</td>
     </tr>
     <tr style="border-bottom: 1px solid #383830;">
         <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">ACC MOD</td>
@@ -336,7 +336,7 @@ The Falconer's combat skills revolve around ranged attacks, battlefield control,
 
 <!-- BUFF/DEFENSE TYPE SKILL (BLUE) -->
 <div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
-    <div style="background-color: #244671; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+    <div style="background-color: #66645d; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
         <div style="display: flex; align-items: center; gap: 12px;">
             <img src="_assets/Falconer/falconer.ability.seven.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
             <span>Adapt</span>

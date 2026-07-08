@@ -361,16 +361,31 @@ The Beastmaster's combat skills reward adaptability, allowing him to shift betwe
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Heal</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Target</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span></td></td>
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px;"><span style="color:#dbd37b;" >Uses Per Battle: 1</span><br>Next Attack Kill: <span style="color:#43b55a; font-weight:bold;">Heal</span> 20% Max HP<br>-8 Stress<br><span style="color:#3ac2de; font-weight:bold;">Buff Target:</span> +10% DMG</td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 25%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 25%;">Target</th>
+                <th style="padding: 8px; text-align: left; width: 50%;">Effect</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; color: #e2d6b5;">
+                <td style="padding: 10px; text-align: center; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;">
+                    <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span>
+                </td>
+                <td style="padding: 10px; text-align: center; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;">
+                    <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span>
+                </td>
+                <td style="padding: 10px; text-align: left; line-height: 1.5; vertical-align: middle;">
+                    <span style="color:#dbd37b;">Uses Per Battle: 1</span><br>
+                    Next Attack Kill: <span style="color:#43b55a; font-weight:bold;">Heal</span> 20% Max HP<br>
+                    -8 Stress<br>
+                    <span style="color:#3ac2de; font-weight:bold;">Buff Target:</span> +10% DMG
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ---
 

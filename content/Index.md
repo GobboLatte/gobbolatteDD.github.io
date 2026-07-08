@@ -26,7 +26,7 @@
       transition: transform 0.15s ease, box-shadow 0.15s ease;
     ">
       <img src="_assets/Beastmaster/Beastmaster Art.webp"
-     style="width: 100%; height: 220px; object-fit: cover; object-position: center; display: block;">
+     style="width: 100%; height: 160px; object-fit: contain; background: #0a0a0a; display: block;">
       <div style="padding: 12px;">
         <div style="font-weight: bold; color: #e2d6b5; font-size: 1.1em;">
           Beastmaster

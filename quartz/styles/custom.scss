@@ -32,7 +32,12 @@
     object-position: center 15%;
     display: block;
     filter: sepia(20%) contrast(110%);
+    
+    // Add these two lines to force a uniform black background
+    background-color: #000000; 
+    background-blend-mode: multiply; 
   }
+
 
   .hero-card-content {
     padding: 12px;

@@ -1,6 +1,11 @@
 ---
 cssclasses:
   - wide-page
+title: Beastmaster
+tags: 
+- bleed
+- stealth
+- summoner
 ---
 # Beastmaster
 

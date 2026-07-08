@@ -1,6 +1,12 @@
 ---
 cssclasses:
   - wide-page
+title: Revenant
+tags:
+  - bleed
+  - frontline
+  - tank
+  - summoner
 ---
 # Revenant
 
@@ -10,7 +16,7 @@ cssclasses:
 <div style="flex: 2; min-width: 320px;">
 
 <div style="background-color: #141414 !important; border: 1px solid #3a1111 !important; border-left: 5px solid #cd1010 !important; padding: 16px; margin-bottom: 24px; border-radius: 4px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
-    <p style="margin: 0 0 8px 0 !important; color: #e2d6b5 !important; font-style: italic; font-size: 1.05em; line-height: 1.5;">"Death is said to be the great equalizer. Yet even it has become unreliable in these parts."</p>
+    <p style="margin: 0 0 8px 0 !important; color: #e2d6b5 !important; font-style: italic; font-size: 1.05em; line-height: 1.5;">"Death is said to be the great equalizer. Yet even it has become unreliable."</p>
     <p style="margin: 0 !important; color: #bfa67a !important; font-weight: bold; text-align: right; font-size: 0.95em;">— The Ancestor</p>
 </div>
 
@@ -234,7 +240,7 @@ Dark and corrupted, the Revenant is a sanguine knight with unmatched durability.
             <td style="padding: 10px;">90</td>
             <td style="padding: 10px;">+1.0%</td>
             <td style="padding: 10px;"> <span style="color:#a81919; font-weight:bold;">Bleed</span> (100% Base) 2 pts/rd for 3rds </td>
-            <td style="padding: 10px;"><span style="color:#bd7513; font-weight:bold;">Activates Riposte</span> <br> <span style="color:#b23522; font-weight:bold;">Marks Target</span> <br><span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> +30% Bleed Amount Received</td>
+            <td style="padding: 10px;">Activates <span style="color:#bd7513; font-weight:bold;">Riposte</span> <br> <span style="color:#b23522; font-weight:bold;">Marks Target</span> <br><span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> +30% Bleed Amount Received</td>
         </tr>
     </table>
 </div>

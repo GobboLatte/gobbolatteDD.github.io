@@ -14,7 +14,7 @@
 ">
 
  <!-- Beastmaster Card -->
-  <a href="Beastmaster" style="text-decoration: none; color: inherit;">
+  <a href="./Beastmaster.md" style="text-decoration: none; color: inherit;">
     <div style="
       width: 260px;
       background: #141414;
@@ -42,7 +42,7 @@
   </a>
 
   <!-- Falconer Card -->
-  <a href="./Falconer" style="text-decoration: none; color: inherit;">
+  <a href="./Falconer.md" style="text-decoration: none; color: inherit;">
     <div style="
       width: 260px;
       background: #141414;
@@ -70,7 +70,7 @@
   </a>
 
   <!-- Revenant Card -->
-  <a href="./Revenant" style="text-decoration: none; color: inherit;">
+  <a href="./Revenant.md" style="text-decoration: none; color: inherit;">
     <div style="
       width: 260px;
       background: #141414;

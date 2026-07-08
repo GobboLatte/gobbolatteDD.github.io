@@ -13,6 +13,34 @@
   margin: 0 auto;
 ">
 
+ <!-- Beastmaster Card -->
+  <a href="./beastmaster" style="text-decoration: none; color: inherit;">
+    <div style="
+      width: 260px;
+      background: #141414;
+      border: 1px solid #3a1111;
+      border-left: 5px solid #cd1010;
+      border-radius: 6px;
+      overflow: hidden;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.4);
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+    ">
+      <img src="_assets/Beastmaster/Beastmaster Art.webp"
+           style="width: 100%; height: 160px; object-fit: cover; display: block;">
+      <div style="padding: 12px;">
+        <div style="font-weight: bold; color: #e2d6b5; font-size: 1.1em;">
+          Falconer
+        </div>
+        <div style="color: #bfa67a; font-size: 0.85em; margin-top: 4px;">
+          Bleed / Stealth / Summoner
+        </div>
+        <div style="color: #8c7a5a; font-size: 0.8em; margin-top: 8px; font-style: italic;">
+          “Civilized men condemn the beast for its savagery, never realizing that the forest has long judged us the crueler species.”
+        </div>
+      </div>
+    </div>
+  </a>
+
   <!-- Falconer Card -->
   <a href="./falconer" style="text-decoration: none; color: inherit;">
     <div style="

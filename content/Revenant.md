@@ -206,7 +206,7 @@ Dark and corrupted, the Revenant is a sanguine knight with unmatched durability.
             <td style="padding: 10px;">-50%</td>
             <td style="padding: 10px;">85</td>
             <td style="padding: 10px;">-1.0%</td>
-            <td style="padding: 10px;"><span style="color:#a81919; font-weight:bold;">Bleed</span> (100% Base) 2pts/rd for 3rds <br> <span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> +30% <span style="color:#a81919; font-weight:bold;">Bleed</span> Duration Received (100% Base)</td>
+            <td style="padding: 10px;"><span style="color:#a81919; font-weight:bold;">Bleed</span> (100% Base) 2pts/rd for 3rds<br><span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: +30% <span style="color:#a81919; font-weight:bold;">Bleed</span> Duration Received (100% Base)</td>
             <td style="padding: 10px;">-</td>
         </tr>
     </table>
@@ -241,7 +241,7 @@ Dark and corrupted, the Revenant is a sanguine knight with unmatched durability.
             <td style="padding: 10px;">90</td>
             <td style="padding: 10px;">+1.0%</td>
             <td style="padding: 10px;"> <span style="color:#a81919; font-weight:bold;">Bleed</span> (100% Base) 2 pts/rd for 3rds </td>
-            <td style="padding: 10px;">Activates <span style="color:#bd7513; font-weight:bold;">Riposte</span> <br> <span style="color:#b23522; font-weight:bold;">Marks Target</span> <br><span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> +30% Bleed Amount Received</td>
+            <td style="padding: 10px;">Activates <span style="color:#bd7513; font-weight:bold;">Riposte</span> <br> <span style="color:#b23522; font-weight:bold;">Marks Target</span> <br><span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: +30% Bleed Amount Received</td>
         </tr>
     </table>
 </div>
@@ -273,8 +273,8 @@ Dark and corrupted, the Revenant is a sanguine knight with unmatched durability.
             <td style="padding: 10px;">-90%</td>
             <td style="padding: 10px;">95</td>
             <td style="padding: 10px;">-</td>
-            <td style="padding: 10px;">Bypass <span style="color:#3ac2de; font-weight:bold;">Guard</span> <br> Transfer All<span style="color:#a81919; font-weight:bold;"> Bleed </span>to Target <br> Enemy Party: Clear Corpses <br> <span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> +15% DMG Received (120% Base) </td>
-            <td style="padding: 10px;"><span style="color:#57871e; font-weight:bold;">Blight</span> (80% Base) 2pts/rd for 1/rds <br> <span style="color:#d4611e; font-weight:bold;">Debuff Self:</span> Disable Blighting Skills</td>
+            <td style="padding: 10px;">Bypass <span style="color:#3ac2de; font-weight:bold;">Guard</span> <br> Transfer All<span style="color:#a81919; font-weight:bold;"> Bleed </span>to Target <br> Enemy Party: Clear Corpses <br> <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: +15% DMG Received (120% Base) </td>
+            <td style="padding: 10px;"><span style="color:#57871e; font-weight:bold;">Blight</span> (80% Base) 2pts/rd for 1/rds <br> <span style="color:#d4611e; font-weight:bold;">Debuff Self</span>: Disable Blighting Skills</td>
         </tr>
     </table>
 </div>
@@ -307,7 +307,7 @@ Dark and corrupted, the Revenant is a sanguine knight with unmatched durability.
             <td style="padding: 10px;">100</td>
             <td style="padding: 10px;">-</td>
             <td style="padding: 10px;">Bypass <span style="color:#3ac2de; font-weight:bold;">Guard</span> <br> Enemy Party: Clear Enemy Corpses </td>
-            <td style="padding: 10px;"><span style="color:#27c722; font-weight:bold;">Heal</span> 3% HP<br><span style="color:#57871e; font-weight:bold;">Blight</span> (80% Base) 2pts/rd for 1/rds <br><span style="color:#d4611e; font-weight:bold;">Debuff Self:</span> Disable Blighting Skills</td>
+            <td style="padding: 10px;"><span style="color:#27c722; font-weight:bold;">Heal</span> 3% HP<br><span style="color:#57871e; font-weight:bold;">Blight</span> (80% Base) 2pts/rd for 1/rds <br><span style="color:#d4611e; font-weight:bold;">Debuff Self</span>: Disable Blighting Skills</td>
         </tr>
     </table>
 </div>
@@ -334,7 +334,7 @@ Dark and corrupted, the Revenant is a sanguine knight with unmatched durability.
         <tr style="border-bottom: 1px solid #383830; text-align: center;">
             <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
             <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px;"><span style="color:#27c722; font-weight:bold;">Heal</span> 4-5 <br> Stress: +4 <br> <span style="color:#3ac2de; font-weight:bold;">Buff Target:</span> +15% <span style="color:#27c722; font-weight:bold;">Healing</span> Received / -15% Stress</td>
+            <td style="padding: 10px;"><span style="color:#27c722; font-weight:bold;">Heal</span> 4-5 <br> Stress: +4 <br> <span style="color:#3ac2de; font-weight:bold;">Buff Target</span>: +15% <span style="color:#27c722; font-weight:bold;">Healing</span> Received / -15% Stress</td>
             <td style="padding: 10px;">Suffer 9 DMG</td>
         </tr>
     </table>
@@ -359,8 +359,8 @@ Dark and corrupted, the Revenant is a sanguine knight with unmatched durability.
         </tr>
         <tr style="border-bottom: 1px solid #383830; text-align: center;">
             <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px;">Allies: Stress +4 <br> <span style="color:#d4611e; font-weight:bold;">Debuff Enemies:</span> Reanimate a necrotic hound to fight for you (2rds). Requires one empty space on the enemy side.</td>
-            <td style="padding: 10px;"><span style="color:#bda662; font-weight:bold;">1 Blocks</span> <br> <span style="color:#3ac2de; font-weight:bold;">Buff Self:</span> -20% DMG Received</td>
+            <td style="padding: 10px;">Allies: Stress +4 <br> <span style="color:#d4611e; font-weight:bold;">Debuff Enemies</span>: Reanimate a necrotic hound to fight for you (2rds). Requires one empty space on the enemy side.</td>
+            <td style="padding: 10px;"><span style="color:#bda662; font-weight:bold;">1 Blocks</span> <br> <span style="color:#3ac2de; font-weight:bold;">Buff Self</span>: -20% DMG Received</td>
         </tr>
     </table>
 

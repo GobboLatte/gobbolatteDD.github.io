@@ -68,3 +68,17 @@
     padding-top: 6px;
   }
 }
+
+// Fix table overflow and eliminate horizontal scrollbars
+.page tr, .page table {
+  width: 100% !important;
+  display: table !important;
+  table-layout: fixed !important; // Forces columns to distribute space evenly
+  word-wrap: break-word !important; // Prevents long words from stretching rows
+}
+
+.page th, .page td {
+  padding: 6px 4px !important; // Slightly narrows padding to save space
+  font-size: 0.9em !important; // Slightly reduces text size for tight layouts
+  text-align: center !important;
+}

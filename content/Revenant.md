@@ -7,6 +7,7 @@ tags:
   - frontline
   - tank
   - summoner
+  - crimson-shrine
 ---
 # Revenant
 
@@ -369,7 +370,111 @@ Dark and corrupted, the Revenant is a sanguine knight with unmatched durability.
 
 Revenant is a blood knight from the ancient age. Despised by many for a very good reason, he weakens his group to strengthen himself however, we need all the help we can get in these dire times.
 
+<!-- CAMPING SKILL CARD -->
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #3e332a; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Revenant/camp_skill_sanguine_potion.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Sanguine Potion</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Cost: 2 Time</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: left; width: 25%;">Target</th>
+            <th style="padding: 8px; text-align: left; width: 75%;">Effects</th>
+        </tr>
+        <tr>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; border-right: 1px solid #383830; font-weight: bold;">
+                Self Only
+            </td>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; line-height: 1.4;">
+                +30% <span style="color:#a81919; font-weight:bold;"> Bleed </span> Resist (4 Battles)<br>+30% <span style="color:#57871e; font-weight:bold;">Blight</span> Resist (4 Battles)<br>+15% PROT<BR>All Companions: +5 Stress
+            </td>
+        </tr>
+    </table>
+</div>
 
+---
+
+<!-- CAMPING SKILL CARD -->
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #3e332a; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Revenant/camp_skill_blood_ritual.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Blood Ritual</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Cost: 3 Time</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: left; width: 25%;">Target</th>
+            <th style="padding: 8px; text-align: left; width: 75%;">Effects</th>
+        </tr>
+        <tr>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; border-right: 1px solid #383830; font-weight: bold;">
+                Self Only
+            </td>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; line-height: 1.4;">
+                <span style="color:#43b55a; font-weight:bold;">Heal</span> 20% HP<br>-10 Stress<br>All Companions: +5 Stress
+            </td>
+        </tr>
+    </table>
+</div>
+
+---
+
+<!-- CAMPING SKILL CARD -->
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #3e332a; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Revenant/camp_skill_appalling_apathy.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Appalling Apathy</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Cost: 2 Time</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: left; width: 25%;">Target</th>
+            <th style="padding: 8px; text-align: left; width: 75%;">Effects</th>
+        </tr>
+        <tr>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; border-right: 1px solid #383830; font-weight: bold;">
+                Self Only
+            </td>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; line-height: 1.4;">
+                -25 Stress<br>-25% Stress (4 Battles)<br>All Companions: +5 Stress
+            </td>
+        </tr>
+    </table>
+</div>
+
+---
+
+<!-- CAMPING SKILL CARD -->
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #3e332a; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Revenant/camp_skill_drain_life.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Drain Life</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Cost: 3 Time</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: left; width: 25%;">Target</th>
+            <th style="padding: 8px; text-align: left; width: 75%;">Effects</th>
+        </tr>
+        <tr>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; border-right: 1px solid #383830; font-weight: bold;">
+                Self Only
+            </td>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; line-height: 1.4;">
+                <span style="color:#43b55a; font-weight:bold;">Heal</span> 50% HP<br>All Companions: +10 Stress / Suffer 15% HP DMG
+            </td>
+        </tr>
+    </table>
+</div>
 
 ---
 
@@ -382,4 +487,3 @@ The Revenant is nothing without his reaver, his shield, and his heavy armor. All
 ## Trivia 
 * The Revenant was heavily inspired by Dragon Age, Warcraft and Darkness the video game. 
 * The Revenant utilizes the same skel and atlas files as the Man-at-Arms. 
-* The Revenant uses the Crimson Shrine district.

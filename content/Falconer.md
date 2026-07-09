@@ -210,7 +210,7 @@ The Falconer's combat skills revolve around ranged attacks, battlefield control,
             <td style="padding: 10px;">-75%</td>
             <td style="padding: 10px;">95</td>
             <td style="padding: 10px;">+8.0%</td>
-            <td style="padding: 10px;">Bypass <span style="color:#6d35a3; font-weight:bold;">Stealth <br> De-Stealth</span> <br><span style="color:#dbd37b" >Skill 1</span> <br> <span style="color:#b23522; font-weight:bold;">Mark</span> Target</td>
+            <td style="padding: 10px;">Bypass <span style="color:#6d35a3; font-weight:bold;">Stealth<br>De-Stealth</span> <br><span style="color:#dbd37b" >Skill 1</span> <br> <span style="color:#b23522; font-weight:bold;">Mark</span> Target</td>
             <td style="padding: 10px;"><span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> -10 ACC (100% Base) <br> <span style="color:#dbd37b" >Skill 2</span> <br><span style="color:#a81919; font-weight:bold;">Bleed</span> (100% Base) 2pts/rd for 2rds <br>+100% <span style="color:#a81919; font-weight:bold;">Bleed</span> Amount vs <span style="color:#b23522; font-weight:bold;">Marked</span></td>
         </tr>
     </table>
@@ -243,7 +243,7 @@ The Falconer's combat skills revolve around ranged attacks, battlefield control,
             <td style="padding: 10px;">+0%</td>
             <td style="padding: 10px;">85</td>
             <td style="padding: 10px;">+5.0%</td>
-            <td style="padding: 10px;"><span style="color:#1d6bb3; font-weight:bold;">Forward</span> 1<br>+50% DMG While <span style="color:#6d35a3; font-weight:bold;">Stealthed</span> <br><span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> -10 ACC (100% Base)<br><span style="color:#dbd37b" >Skill 1</span> <br> Armor Piercing vs <span style="color:#b23522; font-weight:bold;">Marked</span> <br><span style="color:#dbd37b" >Skill 2</span> <br>+35% DMG vs <span style="color:#a81919; font-weight:bold;">Bleeding</span></td>
+            <td style="padding: 10px;"><span style="color:#1d6bb3; font-weight:bold;">Forward</span> 1<br>+50% DMG While <span style="color:#6d35a3; font-weight:bold;">Stealthed</span> <br><span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> -10 ACC (100% Base)<br><span style="color:#dbd37b" >Skill 1</span><br>Armor Piercing vs <span style="color:#b23522; font-weight:bold;">Marked</span> <br><span style="color:#dbd37b" >Skill 2</span> <br>+35% DMG vs <span style="color:#a81919; font-weight:bold;">Bleeding</span></td>
             <td style="padding: 10px;">-</td>
         </tr>
     </table>

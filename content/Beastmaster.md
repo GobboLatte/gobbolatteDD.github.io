@@ -375,7 +375,7 @@ The Beastmaster's combat skills reward adaptability, allowing him to shift betwe
             </tr>
         </thead>
         <tbody>
-            <tr style="border-bottom: 1px solid #383830; color: #e2d6b5;">
+            <tr style="border-bottom: 1px solid #383830;">
                 <td style="padding: 10px; text-align: center; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;">
                     <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span>
                 </td>
@@ -385,7 +385,7 @@ The Beastmaster's combat skills reward adaptability, allowing him to shift betwe
                 <td style="padding: 10px; text-align: left; line-height: 1.5; vertical-align: middle;">
                     <span style="color:#dbd37b;">Uses Per Battle: 1</span><br>
                     Next Attack Kill: <span style="color:#27c722; font-weight:bold;">Heal</span> 20% Max HP<br>
-                    -8 Stress<br>
+                    <span style="font-weight:bold;">Stress</span> -8<br>
                     <span style="color:#3ac2de; font-weight:bold;">Buff Target:</span> +10% DMG
                 </td>
             </tr>

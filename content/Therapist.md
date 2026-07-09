@@ -4,8 +4,8 @@ cssclasses:
 title: Therapist
 tags:
   - backline
-  - debuff
   - athenaeum
+  - support
 ---
 # Therapist
 
@@ -202,7 +202,7 @@ The Therapist's combat skills focus on buffs, debuffs, healing, and battlefield 
         <tr style="border-bottom: 1px solid #383830; text-align: center;">
             <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
             <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#27c722;">● </span><span style="color:#27c722;"> ●</span><span style="color:#27c722;"> ●</span> <span style="color:#27c722;"> ●</span></td>
-            <td style="padding: 10px;"><span style="color:#dbd37b" >Uses Per Battle: 2</span><br><span style="color:#3ac2de; font-weight:bold;">Buff Target</span>: All Skill Chance +20% / +20% DMG / +11 CRIT<br><span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -1 SPD / +12% Stress (3 Battles)</td>
+            <td style="padding: 10px;"><span style="color:#3ac2de; font-weight:bold;">Buff Target</span>:  <span style="color:#dbd37b" >All</span> Skill Chance +20% / +20% DMG / +11 CRIT<br><span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -1 SPD / +12% <span style="font-weight:bold;">Stress</span> (3 Battles)</td>
             <td style="padding: 10px;">-</td>
         </tr>
     </table>
@@ -228,8 +228,133 @@ The Therapist's combat skills focus on buffs, debuffs, healing, and battlefield 
         <tr style="border-bottom: 1px solid #383830; text-align: center;">
             <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
             <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#27c722;">● </span><span style="color:#27c722;"> ●</span><span style="color:#27c722;"> ●</span> <span style="color:#27c722;"> ●</span></td>
-            <td style="padding: 10px;"><span style="color:#b23522; font-weight:bold;">Mark</span> Target<br>Stress +3pts/rd for 3 rds<br><span style="color:#1d6bb3; font-weight:bold;">Forward</span> 1 on Target<br><span style="color:#3ac2de; font-weight:bold;">Buff Target</span>: +17 PROT / +20% <span style="color:#a81919; font-weight:bold;">Bleed</span>/<span style="color:#57871e; font-weight:bold;">Blight</span> Resist</td>
+            <td style="padding: 10px;"><span style="color:#b23522; font-weight:bold;">Mark</span> Target<br><span style="font-weight:bold;">Stress</span> +3pts/rd for 3 rds<br><span style="color:#1d6bb3; font-weight:bold;">Forward</span> 1 on Target<br><span style="color:#3ac2de; font-weight:bold;">Buff Target</span>: +17 PROT / +20% <span style="color:#a81919; font-weight:bold;">Bleed</span>/<span style="color:#57871e; font-weight:bold;">Blight</span> Resist</td>
             <td style="padding: 10px;">-</td>
         </tr>
     </table>
 </div>
+
+---
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #244671; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Therapist/psychiatrist.ability.four.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Psychotherapy</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Buff</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: center;">Rank</th>
+            <th style="padding: 8px; text-align: center;">Target</th>
+            <th style="padding: 8px; text-align: center;">Effect</th>
+            <th style="padding: 8px; text-align: center;">Self</th>
+        </tr>
+        <tr style="border-bottom: 1px solid #383830; text-align: center;">
+            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#27c722;">● </span><span style="color:#27c722;"> ●</span><span style="color:#27c722;"> ●</span> <span style="color:#27c722;"> ●</span></td>
+            <td style="padding: 10px;"><span style="font-weight:bold;">Stress</span> -9<br>Grant one of the Following (3 rds): +10% DMG (40% Chance) / +25% <span style="font-weight:bold;">Stress</span> Heal Received (40%) / +15% <span style="font-weight:bold;">Stress</span> (20%)<br>(Effects Don't Apply to Self)</td>
+            <td style="padding: 10px;">-</td>
+        </tr>
+    </table>
+</div>
+
+---
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #244671; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Therapist/psychiatrist.ability.five.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Imprinting</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Buff</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: center;">Rank</th>
+            <th style="padding: 8px; text-align: center;">Target</th>
+            <th style="padding: 8px; text-align: center;">Effect</th>
+            <th style="padding: 8px; text-align: center;">Self</th>
+        </tr>
+        <tr style="border-bottom: 1px solid #383830; text-align: center;">
+            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#27c722;">● </span><span style="color:#27c722;"> ●</span><span style="color:#27c722;"> ●</span> <span style="color:#27c722;"> ●</span></td>
+            <td style="padding: 10px;"><span style="color:#dbd37b" >Uses Per Quest: 1</span><br>Grant a Positive Quirk<br><span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: +25% <span style="font-weight:bold;">Stress</span> (Until Quest End)</td>
+            <td style="padding: 10px;">-</td>
+        </tr>
+    </table>
+</div>
+
+---
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #7a1515; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Therapist/psychiatrist.ability.six.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Eldritch Intervention</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Ranged</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: center;">Rank</th>
+            <th style="padding: 8px; text-align: center;">Target</th>
+            <th style="padding: 8px; text-align: center;">Damage</th>
+            <th style="padding: 8px; text-align: center;">Accuracy</th>
+            <th style="padding: 8px; text-align: center;">Crit Mod</th>
+            <th style="padding: 8px; text-align: center;">Effect</th>
+            <th style="padding: 8px; text-align: center;">Self</th>
+        </tr>
+        <tr style="border-bottom: 1px solid #383830; text-align: center;">
+            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
+            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span></td>
+            <td style="padding: 10px;">-70%</td>
+            <td style="padding: 10px;">90</td>
+            <td style="padding: 10px;">+1.0%</td>
+            <td style="padding: 10px;">Bypass <span style="color:#3ac2de; font-weight:bold;">Guard</span> / Bypass <span style="color:#6d35a3; font-weight:bold;">Stealth</span><br>Break <span style="color:#3ac2de; font-weight:bold;">Guard</span> / <span style="color:#6d35a3; font-weight:bold;">Stealth</span> / <span style="color:#bd7513; font-weight:bold;">Riposte</span><br><span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -16% DMG (100% Base) / +11% DMG Received (100% Base)<br>-16% DMG / +11% DMG Taken Per Removed Staatus</td>
+            <td style="padding: 10px;">-</td>
+        </tr>
+    </table>
+</div>
+
+---
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #7a1515; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Therapist/psychiatrist.ability.seven.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Emergency Lockup</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Ranged</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: center;">Rank</th>
+            <th style="padding: 8px; text-align: center;">Target</th>
+            <th style="padding: 8px; text-align: center;">Damage</th>
+            <th style="padding: 8px; text-align: center;">Accuracy</th>
+            <th style="padding: 8px; text-align: center;">Crit Mod</th>
+            <th style="padding: 8px; text-align: center;">Effect</th>
+            <th style="padding: 8px; text-align: center;">Self</th>
+        </tr>
+        <tr style="border-bottom: 1px solid #383830; text-align: center;">
+            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
+            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#7a1515;">x</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span></td>
+            <td style="padding: 10px;">-80%</td>
+            <td style="padding: 10px;">90</td>
+            <td style="padding: 10px;">+5.0%</td>
+            <td style="padding: 10px;"><span style="color:#1d6bb3; font-weight:bold;">Pull</span> 2 (100% Base)<br><span style="color:#f5ce0c; font-weight:bold;">Daze</span> (100% Base) (1 full rd) (Based off of Debuff Chance and Resist)</td>
+            <td style="padding: 10px;">-</td>
+        </tr>
+    </table>
+</div>
+
+---
+
+## Camping Skills
+
+*Even during the expedition's respite, his work continues. Though his methods are dubious and sometimes downright damaging, his recipes are bound to work. With any measures he deems appropriate, he is hell bent on fixing any blight plaguing the companions.*
+
+The Therapist's camping skills revolve around recovery and mental conditioning. His unconventional therapies can relieve stress, remove ailments, and strengthen the party, though his questionable methods often blur the line between treatment and manipulation.
+

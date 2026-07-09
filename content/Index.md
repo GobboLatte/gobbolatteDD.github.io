@@ -42,4 +42,16 @@
     </div>
   </a>
 
+<!-- Therapist -->
+  <a href="/Therapist" style="text-decoration: none; color: inherit;">
+    <div class="hero-card">
+      <img src="_assets/Therapist/Therapist Art.png" alt="Revenant">
+      <div class="hero-card-content">
+        <div class="hero-title">Therapist</div>
+        <div class="hero-roles">Backline / Buff / Debuff / Stress Healer</div>
+        <div class="hero-quote">“Hail, the Vessel of your deliverance.”</div>
+      </div>
+    </div>
+  </a>
+
 </div>

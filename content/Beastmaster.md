@@ -324,7 +324,7 @@ The Beastmaster's combat skills reward adaptability, allowing him to shift betwe
             <td style="padding: 10px;">95</td>
             <td style="padding: 10px;">+8.0%</td>
             <td style="padding: 10px;"><span style="color:#a81919; font-weight:bold;">Bleed</span> (100% Base) 4pts/rd for 2 rds<br>Consume <span style="color:#dbd37b;" >Corpse</span></td>
-            <td style="padding: 10px;">If <span style="color:#dbd37b;" >Corpse</span> Consumed: <span style="color:#43b55a; font-weight:bold;">Heal</span> 1pts/rd for 2rds<br>+10% <span style="color:#a81919; font-weight:bold;">Bleed</span> Amount (Quest)</td>
+            <td style="padding: 10px;">If <span style="color:#dbd37b;" >Corpse</span> Consumed: <span style="color:#27c722; font-weight:bold;">Heal</span> 1pts/rd for 2rds<br>+10% <span style="color:#a81919; font-weight:bold;">Bleed</span> Amount (Quest)</td>
         </tr>
     </table>
 </div>
@@ -384,7 +384,7 @@ The Beastmaster's combat skills reward adaptability, allowing him to shift betwe
                 </td>
                 <td style="padding: 10px; text-align: left; line-height: 1.5; vertical-align: middle;">
                     <span style="color:#dbd37b;">Uses Per Battle: 1</span><br>
-                    Next Attack Kill: <span style="color:#43b55a; font-weight:bold;">Heal</span> 20% Max HP<br>
+                    Next Attack Kill: <span style="color:#27c722; font-weight:bold;">Heal</span> 20% Max HP<br>
                     -8 Stress<br>
                     <span style="color:#3ac2de; font-weight:bold;">Buff Target:</span> +10% DMG
                 </td>

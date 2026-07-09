@@ -307,7 +307,7 @@ Dark and corrupted, the Revenant is a sanguine knight with unmatched durability.
             <td style="padding: 10px;">100</td>
             <td style="padding: 10px;">-</td>
             <td style="padding: 10px;">Bypass <span style="color:#3ac2de; font-weight:bold;">Guard</span> <br> Enemy Party: Clear Enemy Corpses </td>
-            <td style="padding: 10px;"><span style="color:#43b55a; font-weight:bold;">Heal</span> 3% HP<br><span style="color:#57871e; font-weight:bold;">Blight</span> (80% Base) 2pts/rd for 1/rds <br><span style="color:#d4611e; font-weight:bold;">Debuff Self:</span> Disable Blighting Skills</td>
+            <td style="padding: 10px;"><span style="color:#27c722; font-weight:bold;">Heal</span> 3% HP<br><span style="color:#57871e; font-weight:bold;">Blight</span> (80% Base) 2pts/rd for 1/rds <br><span style="color:#d4611e; font-weight:bold;">Debuff Self:</span> Disable Blighting Skills</td>
         </tr>
     </table>
 </div>
@@ -334,7 +334,7 @@ Dark and corrupted, the Revenant is a sanguine knight with unmatched durability.
         <tr style="border-bottom: 1px solid #383830; text-align: center;">
             <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
             <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px;"><span style="color:#43b55a; font-weight:bold;">Heal</span> 4-5 <br> Stress: +4 <br> <span style="color:#3ac2de; font-weight:bold;">Buff Target:</span> <span style="color:#43b55a; font-weight:bold;">+15% Healing Received</span> / -15% Stress</td>
+            <td style="padding: 10px;"><span style="color:#27c722; font-weight:bold;">Heal</span> 4-5 <br> Stress: +4 <br> <span style="color:#3ac2de; font-weight:bold;">Buff Target:</span> +15% <span style="color:#27c722; font-weight:bold;">Healing</span> Received / -15% Stress</td>
             <td style="padding: 10px;">Suffer 9 DMG</td>
         </tr>
     </table>
@@ -416,7 +416,7 @@ Revenant is a blood knight from the ancient age. Despised by many for a very goo
                 Self Only
             </td>
             <td style="padding: 12px; color: #e2d6b5; vertical-align: top; line-height: 1.4;">
-                <span style="color:#43b55a; font-weight:bold;">Heal</span> 20% HP<br>-10 Stress<br>All Companions: +5 Stress
+                <span style="color:#27c722; font-weight:bold;">Heal</span> 20% HP<br>-10 Stress<br>All Companions: +5 Stress
             </td>
         </tr>
     </table>
@@ -470,7 +470,7 @@ Revenant is a blood knight from the ancient age. Despised by many for a very goo
                 Self Only
             </td>
             <td style="padding: 12px; color: #e2d6b5; vertical-align: top; line-height: 1.4;">
-                <span style="color:#43b55a; font-weight:bold;">Heal</span> 50% HP<br>All Companions: +10 Stress / Suffer 15% HP DMG
+                <span style="color:#27c722; font-weight:bold;">Heal</span> 50% HP<br>All Companions: +10 Stress / Suffer 15% HP DMG
             </td>
         </tr>
     </table>

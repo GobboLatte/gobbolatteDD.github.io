@@ -69,16 +69,29 @@
   }
 }
 
-// Fix table overflow and eliminate horizontal scrollbars
-.page tr, .page table {
-  width: 100% !important;
-  display: table !important;
-  table-layout: fixed !important; // Forces columns to distribute space evenly
-  word-wrap: break-word !important; // Prevents long words from stretching rows
+// 1. Force the Quartz v5 Markdown content containers to stop scrolling horizontally
+article, 
+.popover, 
+.page-content,
+div[class*="table-"] {
+  overflow-x: visible !important;
 }
 
-.page th, .page td {
-  padding: 6px 4px !important; // Slightly narrows padding to save space
-  font-size: 0.9em !important; // Slightly reduces text size for tight layouts
+// 2. Mathematically clamp the tables flush inside the parent container width
+table {
+  width: 100% !important;
+  max-width: 100% !important;
+  table-layout: fixed !important; 
+  display: table !important;
+  margin: 1.5rem 0 !important;
+  border-collapse: collapse !important;
+}
+
+// 3. Ensure cells tightly wrap their text strings down instead of pushing outward
+th, td {
+  padding: 8px 4px !important;
+  font-size: 0.85em !important;
   text-align: center !important;
+  word-break: break-word !important; 
+  white-space: normal !important; 
 }

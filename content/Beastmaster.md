@@ -2,10 +2,11 @@
 cssclasses:
   - wide-page
 title: Beastmaster
-tags: 
-- bleed
-- stealth
-- summoner
+tags:
+  - bleed
+  - stealth
+  - summoner
+  - outsiders-bonfire
 ---
 # Beastmaster
 

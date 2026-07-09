@@ -7,6 +7,7 @@ tags:
   - backline
   - mark
   - stealth
+  - outsiders-bonfire
 ---
 # Falconer
 
@@ -482,7 +483,6 @@ The Falconer wields a finely crafted hunting bow and commands a trained falcon t
 ---
 ## Trivia 
 * The Falconer's canon name is Quinn.
-* The Falconer uses the Outsider's Bonfire district.
 
 ---
 

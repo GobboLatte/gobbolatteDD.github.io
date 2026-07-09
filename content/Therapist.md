@@ -6,6 +6,7 @@ tags:
   - backline
   - athenaeum
   - support
+  - stress-healer
 ---
 # Therapist
 
@@ -358,3 +359,122 @@ The Therapist's combat skills focus on buffs, debuffs, healing, and battlefield 
 
 The Therapist's camping skills revolve around recovery and mental conditioning. His unconventional therapies can relieve stress, remove ailments, and strengthen the party, though his questionable methods often blur the line between treatment and manipulation.
 
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #3e332a; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Therapist/camp_skill_psychiatrist_lobotomy.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Leucotomy</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Cost: 2 Time</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: left; width: 25%;">Target</th>
+            <th style="padding: 8px; text-align: left; width: 75%;">Effects</th>
+        </tr>
+        <tr>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; border-right: 1px solid #383830; font-weight: bold;">
+                One Companion
+            </td>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; line-height: 1.4;">
+                Cure <span style="color:#768c56; font-weight:bold;">Disease</span><br>-10% Max HP (Quest)
+            </td>
+        </tr>
+    </table>
+</div>
+
+---
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #3e332a; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Therapist/camp_skill_psychiatrist_hypnotize.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Psychological Assessment</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Cost: 2 Time</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: left; width: 25%;">Target</th>
+            <th style="padding: 8px; text-align: left; width: 75%;">Effects</th>
+        </tr>
+        <tr>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; border-right: 1px solid #383830; font-weight: bold;">
+                One Companion
+            </td>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; line-height: 1.4;">
+                <span style="font-weight:bold;">Stress</span> +10 (25% Chance)<br><span style="font-weight:bold;">Stress</span> -30 (75% Chance)
+            </td>
+        </tr>
+    </table>
+</div>
+
+---
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #3e332a; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Therapist/camp_skill_psychiatrist_commune.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Abominable Commune</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Cost: 3 Time</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: left; width: 25%;">Target</th>
+            <th style="padding: 8px; text-align: left; width: 75%;">Effects</th>
+        </tr>
+        <tr>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; border-right: 1px solid #383830; font-weight: bold;">
+                Self Only
+            </td>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; line-height: 1.4;">
+                Prevents Nighttime Ambush<br>All Companions: <span style="font-weight:bold;">Stress</span> +7
+            </td>
+        </tr>
+    </table>
+</div>
+
+---
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #3e332a; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Therapist/camp_skill_psychiatrist_cocaine.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Panacea</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Cost: 2 Time</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: left; width: 25%;">Target</th>
+            <th style="padding: 8px; text-align: left; width: 75%;">Effects</th>
+        </tr>
+        <tr>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; border-right: 1px solid #383830; font-weight: bold;">
+                One Companion
+            </td>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; line-height: 1.4;">
+                +5 SPD (4 Battles)<br>-2 SPD (6 Battles)
+            </td>
+        </tr>
+    </table>
+</div>
+
+---
+
+## Equipment
+
+*To say the least, the Therapist's garb and equipment is not fit for the battlefield and the bloodshed that it brings. Relying on an untrustworthy pistol and unpadded suit, he will prove to be nothing more than a burden in hand to hand combat. However, whatever is hidden behind the veil might be more than what meets the eye.
+
+---
+
+## Trivia
+
+* The Therapist's canon name is 'Charles', which is based on 'Charles Ponzi'. As the last name of this person may suggest, he is famous for 'Ponzi Scheme'.
+* There can only be one Therapist per party.
+
+<!-- Lore Comic Section -->
+<div style="text-align: center; background-color: #141414; border: 1px solid #383830; border-radius: 6px; padding: 16px; margin-top: 24px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); page-break-inside: avoid; break-inside: avoid;">
+    <img src="_assets/Therapist/Therapist Comic Art.jpeg" style="width: 100% !important; max-width: 800px !important; height: auto !important; border: 1px solid #383830; display: inline-block; object-fit: contain; background-color: #000;">
+</div>

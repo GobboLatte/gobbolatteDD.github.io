@@ -476,11 +476,13 @@ The Falconer's camping skills reflect her expertise as a seasoned hunter and sur
 </div>
 
 ---
+
 ## Equipment
 
 The Falconer wields a finely crafted hunting bow and commands a trained falcon that serves as both scout and hunting companion. Her light leather attire favors agility and stealth, allowing her to maneuver swiftly while striking from a distance.
 
 ---
+
 ## Trivia 
 * The Falconer's canon name is Quinn.
 

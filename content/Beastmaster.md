@@ -540,6 +540,14 @@ The Beastmaster wields a hunting spear alongside the spiritual essence of beasts
 
 ---
 
+## Trivia
+
+* Canon name is Mukanda.
+* Cannot visit Disease Treatment, Gambling Hall and Transcept.
+* Cannot develop quirks which are negative vs beast or in Weald.
+* Can't go with other Beastmasters in party.
+
+
 <!-- Lore Comic Section -->
 <div style="text-align: center; background-color: #141414; border: 1px solid #383830; border-radius: 6px; padding: 16px; margin-top: 24px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); page-break-inside: avoid; break-inside: avoid;">
     <img src="_assets/Beastmaster/Beastmaster Comic.png" style="width: 100% !important; max-width: 800px !important; height: auto !important; border: 1px solid #383830; display: inline-block; object-fit: contain; background-color: #000;">

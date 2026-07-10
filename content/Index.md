@@ -48,7 +48,7 @@
       <img src="_assets/Therapist/Therapist Art.png" alt="Revenant">
       <div class="hero-card-content">
         <div class="hero-title">Therapist</div>
-        <div class="hero-roles">Backline / Buff / Debuff / Stress Healer</div>
+        <div class="hero-roles">Backline / Stress Healer / Support</div>
         <div class="hero-quote">“Hail, the Vessel of your deliverance.”</div>
       </div>
     </div>

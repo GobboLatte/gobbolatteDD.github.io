@@ -178,7 +178,7 @@ The Falconer's combat skills revolve around ranged attacks, battlefield control,
             <td style="padding: 10px;">90</td>
             <td style="padding: 10px;">+9.0%</td>
             <td style="padding: 10px;">+35% DMG vs <span style="color:#b23522; font-weight:bold;">Marked</span><br><span style="color:#dbd37b" >Skill 2</span><br><span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> -10 DODGE (100% Base) / -2 SPD (100% Base)</td>
-            <td style="padding: 10px;"> <span style="color:#dbd37b" >Skill 1</span><br> <span style="color:#3ac2de; font-weight:bold;">Buff Self:</span> +2 SPD</td>
+            <td style="padding: 10px;"> <span style="color:#dbd37b" >Skill 1</span><br> <span style="color:#3ac2de; font-weight:bold;">Buff Self</span>: +2 SPD</td>
         </tr>
     </table>
 </div>

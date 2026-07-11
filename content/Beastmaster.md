@@ -143,7 +143,7 @@ The **Beastmaster** is a versatile front-line hunter who adapts his tactics to o
     </tr>
 </table>
 
-<div style="page-break-before: always;"></div>
+
 
 ---
 
@@ -522,8 +522,8 @@ The Beastmaster's camping skills emphasize wilderness survival, exploration, and
             <th style="padding: 8px; text-align: left; width: 75%;">Effects</th>
         </tr>
         <tr>
-            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; border-right: 1px solid #383830; font-weight: bold;">
-                Self Only<br><span style="color:#9c000d;">Uses Remaining: 2</span>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; border-right: 1px solid #383830;">
+                <span style="font-weight:bold;">Self Only</span><br><span style="color:#9c000d;">Uses Remaining: 2</span>
             </td>
             <td style="padding: 12px; color: #e2d6b5; vertical-align: top; line-height: 1.4;">
                 +5% <span style="color:#32718f; font-weight:bold;">Scouting</span> Chance (4 Battles)<br>Search for Herbs<br>Search for Food
@@ -537,6 +537,90 @@ The Beastmaster's camping skills emphasize wilderness survival, exploration, and
 ## Equipment
 
 The Beastmaster wields a hunting spear alongside the spiritual essence of beasts that inhabit his tattooed body. His tribal attire, adorned with hides, bones, and ritual fetishes, reflects his role as both hunter and shaman of the wilds.
+
+---
+
+## Monsters
+
+<div style="display: flex; gap: 24px; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; margin-top: 16px;">
+<div style="flex: 2; min-width: 320px;">
+<div style="background-color: #1a1a1a; border: 1px solid #383830; border-radius: 4px; padding: 12px; margin-bottom: 20px;">
+<div style="font-weight: bold; color: #bfa67a; text-transform: uppercase; font-size: 0.9em; letter-spacing: 1px; border-bottom: 1px solid #383830; padding-bottom: 6px; margin-bottom: 10px;">Base Stats</div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 12px; font-size: 0.9em;">
+<div><span style="color: #8c7a5a;">MAX HP:</span> <strong style="color: #e2d6b5;">6</strong></div>
+<div><span style="color: #8c7a5a;">DODGE:</span> <strong style="color: #e2d6b5;">0</strong></div>
+<div><span style="color: #8c7a5a;">PROT:</span> <strong style="color: #e2d6b5;">0%</strong></div>
+<div><span style="color: #8c7a5a;">SPD:</span> <strong style="color: #e2d6b5;">5</strong></div>
+<div><span style="color: #8c7a5a;">Actions:</span> <strong style="color: #e2d6b5;">1</strong></div>
+<div><span style="color: #8c7a5a;">Type:</span> <strong style="color: #e2d6b5;">Vegetation</strong></div>
+</div>
+</div>
+<table style="width: 100%; border-collapse: collapse; background-color: #242424; font-size: 0.85em; margin-bottom: 24px; border: 1px solid #383830;">
+<tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+<th style="padding: 6px 10px; text-align: left; width: 35%;">Resistance</th>
+<th style="padding: 6px 10px; text-align: center; width: 15%;">Base</th>
+<th style="padding: 6px 10px; text-align: left; width: 35%;">Resistance</th>
+<th style="padding: 6px 10px; text-align: center; width: 15%;">Base</th>
+</tr>
+<tr style="border-bottom: 1px solid #383830;">
+<td style="padding: 6px 10px; color: #e2d6b5;"><img src="_assets/Poptext_stun.webp" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 6px; display: inline-block; object-fit: contain;"> <strong style="font-weight: bold;">Stun</strong></td>
+<td style="padding: 6px 10px; text-align: center; color: #e2d6b5;">300%</td>
+<td style="padding: 6px 10px; color: #e2d6b5;"><img src="_assets/Poptext_bleed.webp" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 6px; display: inline-block; object-fit: contain;"> <strong style="font-weight: bold;">Bleed</strong></td>
+<td style="padding: 6px 10px; text-align: center; color: #e2d6b5;">300%</td>
+</tr>
+<tr style="border-bottom: 1px solid #383830;">
+<td style="padding: 6px 10px; color: #e2d6b5;"><img src="_assets/Poptext_poison.webp" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 6px; display: inline-block; object-fit: contain;"> <strong style="font-weight: bold;">Blight</strong></td>
+<td style="padding: 6px 10px; text-align: center; color: #e2d6b5;">0%</td>
+<td style="padding: 6px 10px; color: #e2d6b5;"><img src="_assets/Poptext_move.webp" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 6px; display: inline-block; object-fit: contain;"> <strong style="font-weight: bold;">Move</strong></td>
+<td style="padding: 6px 10px; text-align: center; color: #e2d6b5;">300%</td>
+</tr>
+<tr>
+<td style="padding: 6px 10px; color: #e2d6b5;"><img src="_assets/Poptext_debuff.webp" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 6px; display: inline-block; object-fit: contain;"> <strong style="font-weight: bold;">Debuff</strong></td>
+<td style="padding: 6px 10px; text-align: center; color: #e2d6b5;">300%</td>
+<td style="padding: 6px 10px; color: #e2d6b5;"><img src="_assets/Poptext_disease.webp" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 6px; display: inline-block; object-fit: contain;"> <strong style="font-weight: bold;">Disease</strong></td>
+<td style="padding: 6px 10px; text-align: center; color: #e2d6b5;">-</td>
+</tr>
+</table>
+<div style="font-size: 1.1em; font-weight: bold; margin-bottom: 12px; color: #bfa67a; text-transform: uppercase; letter-spacing: 0.5px;">Combat Skills</div>
+<div style="background-color: #242424; border: 1px solid #383830; border-radius: 4px; padding: 12px; display: flex; flex-direction: column; gap: 14px;">
+<div style="border-bottom: 1px solid #1a1a1a; padding-bottom: 10px;">
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
+<strong style="color: #fffb82; font-size: 0.95em;">Entangle</strong>
+<span style="font-size: 0.75em; letter-spacing: 1px; color: #ffbc42;">● ● ● ●  |  ● ● ● ●</span>
+</div>
+<div style="font-size: 0.85em; color: #e2d6b5; line-height: 1.4;">Base ACC: 92.5 | CRIT: -10%<br><span style="color:#f5ce0c; font-weight:bold;">Stun</span> (90% Base) / <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -5 DODGE</div>
+</div>
+<div style="border-bottom: 1px solid #1a1a1a; padding-bottom: 10px;">
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
+<strong style="color: #fffb82; font-size: 0.95em;">Thornsnap</strong>
+<span style="font-size: 0.75em; letter-spacing: 1px; color: #ffbc42;">● ● ● ●  |  ● ● ● ●</span>
+</div>
+<div style="font-size: 0.85em; color: #e2d6b5; line-height: 1.4;">Base ACC: 92.5 | CRIT: 10%<br>1-7 DMG / <span style="color:#cd1010; font-weight:bold;">Bleed</span> (2 pts/rd for 1 rds).</div>
+</div>
+<div style="border-bottom: 1px solid #1a1a1a; padding-bottom: 10px;">
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
+<strong style="color: #fffb82; font-size: 0.95em;">Bloom</strong>
+<span style="font-size: 0.75em; letter-spacing: 1px; color: #ffbc42;"><span style="color:#ff4d4d;">● ● ● ● </span>|  ● ● ● ●</span>
+</div>
+<div style="font-size: 0.85em; color: #e2d6b5; line-height: 1.4;">Base ACC: 192.5 | CRIT: 0%<br><span style="color:#27c722; font-weight:bold;">Heal</span> 2pts/rd for 2 rds</div>
+</div>
+<div style="padding-bottom: 2px;">
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
+<strong style="color: #fffb82; font-size: 0.95em;">Proliferate</strong>
+<span style="font-size: 0.75em; letter-spacing: 1px; color: #ffbc42;">● ● ● ●</span>
+</div>
+<div style="font-size: 0.85em; color: #e2d6b5; line-height: 1.4;">Base ACC: 192.5 | CRIT: 0%<br>Remove Enemy Corpses / Summon Corpseflower</div>
+</div>
+</div>
+</div>
+<div style="flex: 1; min-width: 240px; max-width: 280px; background-color: #141414; border: 1px solid #3a1111; border-top: 4px solid #8a0c0c; border-radius: 4px; padding: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.4);">
+<div style="text-align: center; font-weight: bold; font-size: 1.05em; color: #e2d6b5; padding-bottom: 8px; margin-bottom: 10px; border-bottom: 1px solid #3a1111; text-transform: uppercase; letter-spacing: 0.5px;">Corpseflower</div>
+<div style="background: #000; padding: 4px; border-radius: 4px; border: 1px solid #383830;">
+<img src="_assets/Beastmaster/Corpseflower.webp" style="width: 100%; height: 180px; object-fit: contain; background-color: #0d0d0d; display: block;">
+</div>
+<div style="color: #8c7a5a; font-size: 0.75em; text-align: center; margin-top: 8px; font-style: italic;">Summoned when "Circle of Life" is used.</div>
+</div>
+</div>
 
 ---
 

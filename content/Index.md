@@ -30,6 +30,18 @@
     </div>
   </a>
 
+<!-- Monk -->
+  <a href="/Monk" style="text-decoration: none; color: inherit;">
+    <div class="hero-card">
+      <img src="_assets/Monk/Monk Portrait Art.png" alt="Monk">
+      <div class="hero-card-content">
+        <div class="hero-title">Monk</div>
+        <div class="hero-roles">Healer / Melee / Mobile</div>
+        <div class="hero-quote">"The enlightened claim that suffering is merely a path to wisdom. Such faith is admirable... and often exploited."</div>
+      </div>
+    </div>
+  </a>
+
   <!-- Revenant -->
   <a href="/Revenant" style="text-decoration: none; color: inherit;">
     <div class="hero-card">
@@ -45,10 +57,10 @@
 <!-- Therapist -->
   <a href="/Therapist" style="text-decoration: none; color: inherit;">
     <div class="hero-card">
-      <img src="_assets/Therapist/Therapist Art.png" alt="Revenant">
+      <img src="_assets/Therapist/Therapist Art.png" alt="Therapist">
       <div class="hero-card-content">
         <div class="hero-title">Therapist</div>
-        <div class="hero-roles">Backline / Stress Healer / Support</div>
+        <div class="hero-roles">Backline / Buff / Debuff / Stress Healer</div>
         <div class="hero-quote">“Hail, the Vessel of your deliverance.”</div>
       </div>
     </div>

@@ -274,7 +274,7 @@ Dark and corrupted, the Revenant is a sanguine knight with unmatched durability.
             <td style="padding: 10px;">95</td>
             <td style="padding: 10px;">-</td>
             <td style="padding: 10px;">Bypass <span style="color:#3ac2de; font-weight:bold;">Guard</span> <br> Transfer All<span style="color:#a81919; font-weight:bold;"> Bleed </span>to Target <br> Enemy Party: Clear Corpses <br> <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: +15% DMG Received (120% Base) </td>
-            <td style="padding: 10px;"><span style="color:#57871e; font-weight:bold;">Blight</span> (80% Base) 2pts/rd for 1/rds <br> <span style="color:#d4611e; font-weight:bold;">Debuff Self</span>: Disable Blighting Skills</td>
+            <td style="padding: 10px;"><span style="color:#57871e; font-weight:bold;">Blight</span> (80% Base) 2pts/rd for 1/rds <br><span style="color:#d4611e; font-weight:bold;">Debuff Self</span>: Disable Blighting Skills</td>
         </tr>
     </table>
 </div>

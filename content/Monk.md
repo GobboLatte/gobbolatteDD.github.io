@@ -148,3 +148,259 @@ The **Monk** is a mobile support fighter who combines martial prowess with resto
 ---
 
 ## Combat Skills Overview
+
+
+The Monk's combat skills emphasize movement, critical strikes, and party support. His martial arts techniques allow him to reposition while applying control and pressure, whereas his spiritual abilities provide healing, protection, and powerful buffs at the cost of his own wellbeing.
+
+---
+
+## Move List
+
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #7a1515; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Monk/monk.ability.one.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Dragon Tail</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Melee</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Damage</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Accuracy</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Crit Mod</th>
+                <th style="padding: 8px; text-align: left; width: 15%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 25%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; vertical-align: middle;">-</td>
+                <td style="padding: 10px; vertical-align: middle;">95</td>
+                <td style="padding: 10px; vertical-align: middle;">+6.0%</td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">-</td>
+                <td style="padding: 10px; text-align: left; line-height: 1.4; vertical-align: middle;">
+                    <span style="color:#1d6bb3; font-weight:bold;">Forward</span> 1<br>
+                    <span style="color:#3ac2de; font-weight:bold;">Buff Self</span>: +10 CRIT Except for Dragon Tail
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+---
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #7a1515; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Monk/monk.ability.two.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Howling Fist</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Melee</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Damage</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Accuracy</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Crit Mod</th>
+                <th style="padding: 8px; text-align: left; width: 15%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 25%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#7a1515">x</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; vertical-align: middle;">-20%</td>
+                <td style="padding: 10px; vertical-align: middle;">100</td>
+                <td style="padding: 10px; vertical-align: middle;">+10.0%</td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;"><span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -20 PROT (110% Base)</td>
+                <td style="padding: 10px; text-align: left; line-height: 1.4; vertical-align: middle;">
+                    <span style="color:#1d6bb3; font-weight:bold;">Back</span> 1<br>When Used in 1st Position: Heal HP<br>With Mantram: Heals the Additional HP Regardless of Position<br>
+                    <span style="color:#3ac2de; font-weight:bold;">Buff Self</span>: +25% DMG Except for Howling Fist
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+---
+
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #7a1515; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Monk/monk.ability.three.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Iron Mountain</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Melee</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Damage</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Accuracy</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Crit Mod</th>
+                <th style="padding: 8px; text-align: left; width: 15%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 25%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●-</span><span style="color:#ff4d4d;">●</span> <span style="color:#7a1515;;">x</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; vertical-align: middle;">-40%</td>
+                <td style="padding: 10px; vertical-align: middle;">90</td>
+                <td style="padding: 10px; vertical-align: middle;">-2.0%</td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">Armor Piercing<br><span style="color:#1d6bb3; font-weight:bold;">Knockback</span> 3 (110% Base)<br>Enemy Party: Clear Corpses</td>
+                <td style="padding: 10px; text-align: left; line-height: 1.4; vertical-align: middle;">
+                    <span style="color:#1d6bb3; font-weight:bold;">Forward</span> 2<br>-20 DODGE / -10 PROT
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+---
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #7a1515; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Monk/monk.ability.four.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Sweeping Kick</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Melee</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Damage</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Accuracy</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Crit Mod</th>
+                <th style="padding: 8px; text-align: left; width: 15%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 25%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#7a1515">x</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; vertical-align: middle;">-50%</td>
+                <td style="padding: 10px; vertical-align: middle;">90</td>
+                <td style="padding: 10px; vertical-align: middle;">+3.0%</td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;"><span style="color:#f5ce0c; font-weight:bold;">Stun</span> (100 Base)<br><span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -5 SPD (100% Base)</td>
+                <td style="padding: 10px; text-align: left; line-height: 1.4; vertical-align: middle;">
+                    <span style="color:#3ac2de; font-weight:bold;">Buff Self</span>: +15% DMG Except for Sweeping Kick / +7 CRIT Except for Sweeping Kick
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+---
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #2e5c35; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Monk/monk.ability.five.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Transfer</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Heal</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 25%;">Rank<br>Valid Above 25% HP</th>
+                <th style="padding: 8px; text-align: center; width: 25%;">Target</th>
+                <th style="padding: 8px; text-align: left; width: 50%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 50%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830;">
+                <td style="padding: 10px; text-align: center; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;">
+                    <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span>
+                </td>
+                <td style="padding: 10px; text-align: center; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;">
+                    <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span>
+                </td>
+                <td style="padding: 10px; text-align: left; line-height: 1.5; vertical-align: middle;">
+                    <span style="color:#27c722; font-weight:bold;">Heal</span> 1-1<br><span style="color:#27c722; font-weight:bold;">Heal</span> 20% HP
+                </td>
+                <td style="padding: 10px; text-align: left; line-height: 1.5; vertical-align: middle;">
+                    Suffer 5 DMG / -10 DODGE / -10 PROT
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+---
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #2e5c35; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Monk/monk.ability.six.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Mantram</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Heal</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 25%;">Rank</th>
+                <th style="padding: 8px; text-align: left; width: 50%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 50%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830;">
+                <td style="padding: 10px; text-align: center; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;">
+                    <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span>
+                </td>
+                <td style="padding: 10px; text-align: left; line-height: 1.5; vertical-align: middle;">
+                    <span style="color:#27c722; font-weight:bold;">Heal</span> Party 1-2 / +20 PROT
+                </td>
+                <td style="padding: 10px; text-align: left; line-height: 1.5; vertical-align: middle;">
+                    Howling Fist: +1 <span style="color:#27c722; font-weight:bold;">Healing</span> Done<br>-10 DODGE / -10 PROT / -100% <span style="font-weight:bold;">Stress Relief</span> Received<br>+100 CRIT / -40% DMG Except for <span style="color:#bd7513; font-weight:bold;">Riposte</span>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+---
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #244671; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Monk/monk.ability.seven.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Inner Fire</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Buff</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+    <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: center;">Rank</th>
+            <th style="padding: 8px; text-align: center;">Effect</th>
+            <th style="padding: 8px; text-align: center;">Self</th>
+        </tr>
+        <tr style="border-bottom: 1px solid #383830; text-align: center;">
+            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+            <td style="padding: 10px;">-</td>
+	            <td style="padding: 10px;"><span style="color:#27c722; font-weight:bold;">Heal</span> 0-4<br><span style="font-weight:bold;">Stress</span> -5 (67% Chance)<br>Activates <span style="color:#bd7513; font-weight:bold;">Riposte</span><br><span style="color:#3ac2de; font-weight:bold;">Buff Self</span>: +15% DMG Except for <span style="color:#bd7513; font-weight:bold;">Riposte</span> / +10% DMG<br><span style="color:#d4611e; font-weight:bold;">Debuff Self</span>: <span style="color:#bd7513; font-weight:bold;">Riposte</span>: -40% DMG / -10 CRIT</td>
+        </tr>
+    </table>

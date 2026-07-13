@@ -66,4 +66,16 @@
     </div>
   </a>
 
+<!-- Twilight Knight -->
+  <a href="/Twilight Knight" style="text-decoration: none; color: inherit;">
+    <div class="hero-card">
+      <img src="_assets/Twilight Knight/Twilight Knight Art.png" alt="Twilight Knight">
+      <div class="hero-card-content">
+        <div class="hero-title">Twilight Knight</div>
+        <div class="hero-roles">Frontline / Melee / Stress Healer</div>
+        <div class="hero-quote">“A blade that whispers promises of glory is no less dangerous than one that thirsts for blood. The tragedy lies not in hearing its voice... but in learning to answer.”</div>
+      </div>
+    </div>
+  </a>
+
 </div>

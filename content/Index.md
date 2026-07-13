@@ -1,4 +1,54 @@
 # The Hamlet Roster
+<style>
+  .roster-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: flex-start;
+  }
+  .roster-grid a {
+    text-decoration: none;
+    color: inherit;
+  }
+  .hero-card {
+    width: 260px;
+    height: 100%;
+    min-height: 250px; /* Forces cards to stay identical in height */
+    background: #141414;
+    border: 1px solid #3a1111;
+    border-left: 5px solid #cd1010;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.4);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    display: flex;
+    flex-direction: column; /* Stretches the interior content down */
+  }
+  .hero-card img {
+    width: 100%;
+    height: 160px; /* Enforces uniform image crop boxes */
+    object-fit: cover;
+    object-position: center 15%;
+    display: block;
+  }
+  .hero-card-content {
+    padding: 12px;
+    flex-grow: 1; /* Pushes the card contents to fill remaining space */
+    display: flex;
+    flex-direction: column;
+  }
+  .hero-title {
+    font-weight: bold;
+    color: #e2d6b5;
+    font-size: 1.1em;
+  }
+  .hero-roles {
+    color: #bfa67a;
+    font-size: 0.85em;
+    margin-top: 4px;
+    line-height: 1.3;
+  }
+</style>
 
 > Modded Darkest Dungeon Heroes
 

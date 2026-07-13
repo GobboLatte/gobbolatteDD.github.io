@@ -27,26 +27,32 @@ A herd of sheep needs its shepherd. Then, with a lion leading the herd, those me
 
 <!-- WIKI RIGHT COLUMN: INFOBOX -->
 <div style="flex: 1; min-width: 280px; max-width: 320px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); border-radius: 6px; padding: 14px; font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">
-    <div style="text-align: center; font-weight: bold; font-size: 1.2em; letter-spacing: 1px; background-color:  #8a0c0c; color: white; padding: 8px; margin: -14px -14px 12px -14px; border-radius: 6px 6px 0 0; text-transform: uppercase;">THERAPIST</div>
+    <div style="text-align: center; font-weight: bold; font-size: 1.2em; letter-spacing: 1px; background-color: #8a0c0c; color: white; padding: 8px; margin: -14px -14px 12px -14px; border-radius: 6px 6px 0 0; text-transform: uppercase;">THERAPIST</div>
     <div style="margin-bottom: 12px; background: #000; padding: 4px; border-radius: 4px;">
-    <img src="_assets/Therapist/Therapist Art.png"
-         style="width: 100%; max-width: 300px; height: auto; display: block; margin-left: auto; margin-right: 0;">
-</div>
-    <table style="width: 100%; margin: 0; border-collapse: collapse; font-size: 0.95em; clear: both;">
-        <tr style="border-bottom: 1px solid var(--background-modifier-border);"><td style="padding: 6px 0;"><b>Movement</b></td><td style="text-align: right; padding: 6px 0;">0 Fwd, 2 Back</td></tr>
-       <tr style="border-bottom: 1px solid var(--background-modifier-border);">
-    <td style="padding: 6px 0; vertical-align: middle;"><b>Crit Buff</b></td>
-    <td style="text-align: right; padding: 6px 0;">
-        <div style="line-height: 1.4; display: inline-block; text-align: right; color: #ffbc42;">
-            Enemy Party: -10 DODGE (150% Base) (3 rds)
-        </div>
-    </td>
-</tr>
-        <tr style="border-bottom: 1px solid var(--background-modifier-border);"><td style="padding: 6px 0;"><b>Religious</b></td><td style="text-align: right; padding: 6px 0;">No</td></tr>
-        <tr><td style="padding: 6px 0;"><b>Provisions</b></td><td style="text-align: right; padding: 6px 0;">Laudanum x2</td></tr>
+        <img src="_assets/Therapist/Therapist Art.png" style="width: 100%; max-width: 300px; height: auto; display: block; margin-left: auto; margin-right: 0;">
+    </div>
+    <table style="width: 100%; margin: 0; border-collapse: collapse; font-size: 0.95em; clear: both; line-height: 1.3;">
+        <tr style="border-bottom: 1px solid var(--background-modifier-border);">
+            <td style="padding: 6px 0; vertical-align: middle;"><b>Movement</b></td>
+            <td style="text-align: right; padding: 6px 0; vertical-align: middle;">0 Fwd, 2 Back</td>
+        </tr>
+        <tr style="border-bottom: 1px solid var(--background-modifier-border);">
+            <td style="padding: 6px 0; vertical-align: middle;"><b>Crit Buff</b></td>
+            <td style="text-align: right; padding: 6px 0; vertical-align: middle;">
+                <div style="line-height: 1.3; display: inline-block; text-align: right; color: #ffbc42;">
+                    Enemy Party: -10 DODGE (150% Base) (3 rds)
+                </div>
+            </td>
+        </tr>
+        <tr style="border-bottom: 1px solid var(--background-modifier-border);">
+            <td style="padding: 6px 0; vertical-align: middle;"><b>Religious</b></td>
+            <td style="text-align: right; padding: 6px 0; vertical-align: middle;">No</td>
+        </tr>
+        <tr>
+            <td style="padding: 6px 0; vertical-align: middle;"><b>Provisions</b></td>
+            <td style="text-align: right; padding: 6px 0; vertical-align: middle;">Laudanum x2</td>
+        </tr>
     </table>
-</div>
-
 </div>
 
 ---

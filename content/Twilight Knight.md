@@ -147,6 +147,8 @@ The **Twilight Knight** is a resilient front-line warrior who excels at confront
 
 The Twilight Knight's combat skills emphasize powerful melee attacks, crowd control, and stress management. Capable of stunning, repositioning, and punishing formidable enemies, she also provides support through morale-boosting abilities, often bearing the psychological burden herself.
 
+### Move List
+
 <!-- COMBAT TYPE SKILL (RED) -->
 <div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
     <div style="background-color: #7a1515; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
@@ -364,6 +366,7 @@ The Twilight Knight's combat skills emphasize powerful melee attacks, crowd cont
 </div>
 
 ---
+
 <!-- BUFF/SUPPORT TYPE SKILL (BLUE) -->
 <div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
     <div style="background-color: #244671; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
@@ -457,3 +460,121 @@ The Twilight Knight's combat skills emphasize powerful melee attacks, crowd cont
 </div>
 
 ---
+
+## Camping Skills
+
+The Twilight Knight's camping skills reflect both her experience as a monster hunter and her fragile mental state. She can inspire courage, improve the party's preparedness, and manipulate stress through stories, meditation, and unsettling conversations with her cursed sword.
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #3e332a; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Twilight Knight/camp_skill_first_story.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>The First Story</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Cost: 4 Time</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: left; width: 25%;">Target</th>
+            <th style="padding: 8px; text-align: left; width: 75%;">Effects</th>
+        </tr>
+        <tr>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; border-right: 1px solid #383830; font-weight: bold;">
+                Party
+            </td>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; line-height: 1.4;">
+                +10 DODGE / -20% <span style="font-weight:bold;">Stress</span> Received (4 Battles)
+            </td>
+        </tr>
+    </table>
+</div>
+
+---
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #3e332a; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Twilight Knight/camp_skill_sword_talk.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Tal to the Sword</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Cost: 3 Time</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: left; width: 25%;">Target</th>
+            <th style="padding: 8px; text-align: left; width: 75%;">Effects</th>
+        </tr>
+        <tr>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; border-right: 1px solid #383830; font-weight: bold;">
+                Self Only
+            </td>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; line-height: 1.4;">
+                +5 CRIT / +10 ACC / <span style="font-weight:bold;">Stress</span>: -40<br>All Companions: <span style="font-weight:bold;">Stress</span>: +13
+            </td>
+        </tr>
+    </table>
+</div>
+
+---
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #3e332a; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Twilight Knight/camp_skill_edge_of_reason.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>The Edge of Reason</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Cost: 2 Time</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: left; width: 25%;">Target</th>
+            <th style="padding: 8px; text-align: left; width: 75%;">Effects</th>
+        </tr>
+        <tr>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; border-right: 1px solid #383830; font-weight: bold;">
+                Self Only
+            </td>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; line-height: 1.4;">
+                +15% Max HP (4 Battles) (45% Chance)<br>+15% DMG (4 Battles) (45% Chance)<br>+3 SPD (4 Battles) (45% Chance)<br>-10% Max HP (3 Battles) (35% Chance)<br>-10% DMG (3 Battles) (35% Chance)<br>-2 SPD (3 Battles) (35% Chance)
+            </td>
+        </tr>
+    </table>
+</div>
+
+---
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #3e332a; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Twilight Knight/camp_skill_murmur_lantern.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Murmuring Lantern</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Cost: 2 Time</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: left; width: 25%;">Target</th>
+            <th style="padding: 8px; text-align: left; width: 75%;">Effects</th>
+        </tr>
+        <tr>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; border-right: 1px solid #383830; font-weight: bold;">
+                Self Only
+            </td>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; line-height: 1.4;">
+                Prevents Nighttime Ambush<br>-20% Chance Party <span style="color:#32718f; font-weight:bold;">Surprised</span> (4 Battles)
+            </td>
+        </tr>
+    </table>
+</div>
+
+---
+
+## Equipment
+
+The Twilight Knight wields an ancient sentient greatsword and carries a softly glowing lantern that offers comfort amidst encroaching darkness. Beneath a weathered cloak and sturdy armor, she bears the scars of countless hunts—and an unending battle against the will of her own weapon.
+
+---
+
+## Trivia
+
+* The Twilight Knight's canon name is Allison. 

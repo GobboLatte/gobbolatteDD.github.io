@@ -16,12 +16,12 @@ tags:
 <div style="flex: 2; min-width: 320px;">
 
 <div style="background-color: #141414 !important; border: 1px solid #3a1111 !important; border-left: 5px solid #cd1010 !important; padding: 16px; margin-bottom: 24px; border-radius: 4px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
-    <p style="margin: 0 0 8px 0 !important; color: #e2d6b5 !important; font-style: italic; font-size: 1.05em; line-height: 1.5;">"The enlightened claim that suffering is merely a path to wisdom. Such faith is admirable... and often exploited."</p>
+    <p style="margin: 0 0 8px 0 !important; color: #e2d6b5 !important; font-style: italic; font-size: 1.05em; line-height: 1.5;">"Through years of enlightened discipline, his body has been forged into a weapon; his spirit a sanctuary. If either will withstand is yet known."</p>
     <p style="margin: 0 !important; color: #bfa67a !important; font-weight: bold; text-align: right; font-size: 0.95em;">— The Ancestor</p>
 </div>
 
 ### Class Description
-The **Monk** is a mobile support fighter who combines martial prowess with restoration techniques. Flowing between ranks with disciplined strikes and selfless healing, he sustains his allies through sacrifice while punishing foes with relentless precision.
+The **Monk** is a mobile support fighter who channels his inner Ki to strengthen both himself and his companions. Combining disciplined martial arts with restorative techniques, he excels at sustaining the party through healing, protection, and strikes fueled by self-sacrifice.
 
 </div>
 
@@ -150,7 +150,7 @@ The **Monk** is a mobile support fighter who combines martial prowess with resto
 ## Combat Skills Overview
 
 
-The Monk's combat skills emphasize movement, critical strikes, and party support. His martial arts techniques allow him to reposition while applying control and pressure, whereas his spiritual abilities provide healing, protection, and powerful buffs at the cost of his own wellbeing.
+The Monk's combat skills blend fluid movement with supportive martial arts. His techniques allow him to reposition across the battlefield, disable enemies, and unleash powerful blows that restore allies through the flow of Ki, while his spiritual abilities offer healing and defensive support at the expense of his own vitality.
 
 ---
 
@@ -401,6 +401,121 @@ The Monk's combat skills emphasize movement, critical strikes, and party support
         <tr style="border-bottom: 1px solid #383830; text-align: center;">
             <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
             <td style="padding: 10px;">-</td>
-	            <td style="padding: 10px;"><span style="color:#27c722; font-weight:bold;">Heal</span> 0-4<br><span style="font-weight:bold;">Stress</span> -5 (67% Chance)<br>Activates <span style="color:#bd7513; font-weight:bold;">Riposte</span><br><span style="color:#3ac2de; font-weight:bold;">Buff Self</span>: +15% DMG Except for <span style="color:#bd7513; font-weight:bold;">Riposte</span> / +10% DMG<br><span style="color:#d4611e; font-weight:bold;">Debuff Self</span>: <span style="color:#bd7513; font-weight:bold;">Riposte</span>: -40% DMG / -10 CRIT</td>
+	            <td style="padding: 10px;"><span style="color:#27c722; font-weight:bold;">Heal</span> 0-4<br><span style="font-weight:bold;">Stress</span>: -5 (67% Chance)<br>Activates <span style="color:#bd7513; font-weight:bold;">Riposte</span><br><span style="color:#3ac2de; font-weight:bold;">Buff Self</span>: +15% DMG Except for <span style="color:#bd7513; font-weight:bold;">Riposte</span> / +10% DMG<br><span style="color:#d4611e; font-weight:bold;">Debuff Self</span>: <span style="color:#bd7513; font-weight:bold;">Riposte</span>: -40% DMG / -10 CRIT</td>
         </tr>
     </table>
+
+---
+
+## Camping Skills
+
+The Monk's camping skills reflect years of meditation and spiritual discipline. He can relieve stress, cure diseases, restore vitality, and prepare the party for the trials ahead through wisdom, meditation, and traditional spiritual techniques.
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #3e332a; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Monk/camp_skill_cleanse_incense.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Cleanse</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Cost: 4 Time</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: left; width: 25%;">Target</th>
+            <th style="padding: 8px; text-align: left; width: 75%;">Effects</th>
+        </tr>
+        <tr>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; border-right: 1px solid #383830; font-weight: bold;">
+                One Companion
+            </td>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; line-height: 1.4;">
+                <span style="color:#27c722; font-weight:bold;">Heal</span> 15% HP<br>Cure <span style="color:#57871e; font-weight:bold;">Blight</span><br>Cure <span style="color:#768c56; font-weight:bold;">Disease</span><br>Remove <span style="color:#d4611e; font-weight:bold;">Mortality Debuffs</span>
+            </td>
+        </tr>
+    </table>
+</div>
+
+---
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #3e332a; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Monk/camp_skill_acupressure.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Acupressure</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Cost: 3 Time</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: left; width: 25%;">Target</th>
+            <th style="padding: 8px; text-align: left; width: 75%;">Effects</th>
+        </tr>
+        <tr>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; border-right: 1px solid #383830; font-weight: bold;">
+                One Companion
+            </td>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; line-height: 1.4;">
+                +4 SPD<br>+10 DODGE
+            </td>
+        </tr>
+    </table>
+</div>
+
+---
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #3e332a; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Monk/camp_skill_tranquility.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Tranquility</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Cost: 4 Time</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: left; width: 25%;">Target</th>
+            <th style="padding: 8px; text-align: left; width: 75%;">Effects</th>
+        </tr>
+        <tr>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; border-right: 1px solid #383830; font-weight: bold;">
+                Self Only
+            </td>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; line-height: 1.4;">
+                <span style="font-weight:bold;">Stress</span>: -20<br>-20% <span style="font-weight:bold;">Stress</span> Received<br> Remove <span style="color:#d4611e; font-weight:bold;">Mortality Debuffs</span>
+            </td>
+        </tr>
+    </table>
+</div>
+
+---
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #3e332a; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Monk/camp_skill_conviction_mantra.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Conviction Mantra</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Cost: 4 Time</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: left; width: 25%;">Target</th>
+            <th style="padding: 8px; text-align: left; width: 75%;">Effects</th>
+        </tr>
+        <tr>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; border-right: 1px solid #383830; font-weight: bold;">
+                Party
+            </td>
+            <td style="padding: 12px; color: #e2d6b5; vertical-align: top; line-height: 1.4;">
+                +15% DMG (4 Battles) (50% Chance)<br>+7 CRIT (4 Battles) (50% Chance)<br>-15% <span style="font-weight:bold;">Stress</span> Received
+            </td>
+        </tr>
+    </table>
+</div>
+
+---
+
+## Equipment
+
+The monk practices an unarmed combat style that relies on neither heavy armor nor weapons to be effective, preferring light equipment that minimizes the burden on his movements.
+

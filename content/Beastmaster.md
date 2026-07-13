@@ -7,6 +7,7 @@ tags:
   - stealth
   - summoner
   - outsiders-bonfire
+  - versatile
 ---
 # Beastmaster
 

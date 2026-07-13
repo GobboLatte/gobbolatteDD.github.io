@@ -7,6 +7,7 @@ tags:
   - melee
   - healer
   - mobile
+  - support
 ---
 # Monk
 

@@ -8,6 +8,7 @@ tags:
   - mark
   - stealth
   - outsiders-bonfire
+  - ranged
 ---
 # Falconer
 

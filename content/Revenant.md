@@ -35,7 +35,7 @@ style="width: 100%; max-width: 300px; height: auto; display: block; margin-left:
 </div>
     <table style="width: 100%; margin: 0; border-collapse: collapse; font-size: 0.95em; clear: both;">
         <tr style="border-bottom: 1px solid var(--background-modifier-border);"><td style="padding: 6px 0;"><b>Movement</b></td><td style="text-align: right; padding: 6px 0;">1 Fwd, 1 Back</td></tr>
-        <tr style="border-bottom: 1px solid var(--background-modifier-border);"><td style="padding: 6px 0;"><b>Crit Buff</b></td><td style="text-align: right; padding: 6px 0; color: #ffbc42;">Bleed Chance</td></tr>
+        <tr style="border-bottom: 1px solid var(--background-modifier-border);"><td style="padding: 6px 0;"><b>Crit Buff</b></td><td style="text-align: right; padding: 6px 0; color: #ffbc42;">+20% Bleed Chance</td></tr>
         <tr style="border-bottom: 1px solid var(--background-modifier-border);"><td style="padding: 6px 0;"><b>Religious</b></td><td style="text-align: right; padding: 6px 0;">No</td></tr>
         <tr><td style="padding: 6px 0;"><b>Provisions</b></td><td style="text-align: right; padding: 6px 0;">Skeleton Key</td></tr>
     </table>

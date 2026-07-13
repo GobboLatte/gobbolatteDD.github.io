@@ -62,7 +62,7 @@
       <img src="_assets/Beastmaster/Beastmaster Art.webp" alt="Beastmaster">
       <div class="hero-card-content">
         <div class="hero-title">Beastmaster</div>
-        <div class="hero-roles">Bleed / Stealth / Summoner</div>
+        <div class="hero-roles">Corpses / Stealth / Versatile</div>
       </div>
     </div>
   </a>
@@ -73,7 +73,7 @@
       <img src="_assets/Falconer/Falconer Art.webp" alt="Falconer">
       <div class="hero-card-content">
         <div class="hero-title">Falconer</div>
-        <div class="hero-roles">Bleed / Mark / Range</div>
+        <div class="hero-roles">Bleed / Mark / Ranged</div>
       </div>
     </div>
   </a>
@@ -84,7 +84,7 @@
       <img src="_assets/Monk/Monk Portrait Art.png" alt="Monk">
       <div class="hero-card-content">
         <div class="hero-title">Monk</div>
-        <div class="hero-roles">Healer / Melee / Mobile</div>
+        <div class="hero-roles">Healer / Mobile / Support</div>
       </div>
     </div>
   </a>
@@ -106,7 +106,7 @@
       <img src="_assets/Therapist/Therapist Art.png" alt="Therapist">
       <div class="hero-card-content">
         <div class="hero-title">Therapist</div>
-        <div class="hero-roles">Backline / Stress Healer / Support</div>
+        <div class="hero-roles">Debuff / Stress Healer / Support</div>
       </div>
     </div>
   </a>
@@ -118,6 +118,17 @@
       <div class="hero-card-content">
         <div class="hero-title">Twilight Knight</div>
         <div class="hero-roles">Frontline / Melee / Stress Healer</div>
+      </div>
+    </div>
+  </a>
+
+<!-- Veiled -->
+  <a href="/Veiled" style="text-decoration: none; color: inherit;">
+    <div class="hero-card">
+      <img src="_assets/Veiled/Veiled Portrait Art.webp" alt="Veiled">
+      <div class="hero-card-content">
+        <div class="hero-title">Veiled</div>
+        <div class="hero-roles">Death's Door / Healer / Support</div>
       </div>
     </div>
   </a>

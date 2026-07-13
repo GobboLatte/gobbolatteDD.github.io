@@ -158,28 +158,42 @@ Dark and corrupted, the Revenant is a sanguine knight with unmatched durability.
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Melee</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Target</th>
-            <th style="padding: 8px; text-align: center;">Damage</th>
-            <th style="padding: 8px; text-align: center;">Accuracy</th>
-            <th style="padding: 8px; text-align: center;">Crit Mod</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
-            <td style="padding: 10px;">+0%</td>
-            <td style="padding: 10px;">95</td>
-            <td style="padding: 10px;">+2.0%</td>
-            <td style="padding: 10px;">Bypass <span style="color:#3ac2de; font-weight:bold;">Guard</span><br><span style="color:#1d6bb3; font-weight:bold;">Knockback</span> 1 (85% Base)<br>+20 DMG vs <span style="color:#a81919; font-weight:bold;">Bleeding</span></td>
-            <td style="padding: 10px;">-</td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Damage</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Accuracy</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Crit Mod</th>
+                <th style="padding: 8px; text-align: left; width: 25%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 15%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; vertical-align: middle;">+0%</td>
+                <td style="padding: 10px; vertical-align: middle;">95</td>
+                <td style="padding: 10px; vertical-align: middle;">+2.0%</td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        Bypass <span style="color:#3ac2de; font-weight:bold;">Guard</span><br>
+                        <span style="color:#1d6bb3; font-weight:bold;">Knockback</span> 1 (85% Base)<br>
+                        +20 DMG vs <span style="color:#a81919; font-weight:bold;">Bleeding</span>
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        -
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
 </div>
 
-***
+---
 
 <!-- COMBAT TYPE SKILL (RED) -->
 <div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
@@ -191,24 +205,37 @@ Dark and corrupted, the Revenant is a sanguine knight with unmatched durability.
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Melee</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Target</th>
-            <th style="padding: 8px; text-align: center;">Damage</th>
-            <th style="padding: 8px; text-align: center;">Accuracy</th>
-            <th style="padding: 8px; text-align: center;">Crit Mod</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ff4d4d;">●</span><span style="color:#ff4d4d;">-●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
-            <td style="padding: 10px;">-50%</td>
-            <td style="padding: 10px;">85</td>
-            <td style="padding: 10px;">-1.0%</td>
-            <td style="padding: 10px;"><span style="color:#a81919; font-weight:bold;">Bleed</span> (100% Base) 2pts/rd for 3rds<br><span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: +30% <span style="color:#a81919; font-weight:bold;">Bleed</span> Duration Received (100% Base)</td>
-            <td style="padding: 10px;">-</td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Damage</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Accuracy</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Crit Mod</th>
+                <th style="padding: 8px; text-align: left; width: 25%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 15%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●-●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; vertical-align: middle;">-50%</td>
+                <td style="padding: 10px; vertical-align: middle;">85</td>
+                <td style="padding: 10px; vertical-align: middle;">-1.0%</td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#a81919; font-weight:bold;">Bleed</span> (100% Base) 2pts/rd for 3rds<br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: +30% <span style="color:#a81919; font-weight:bold;">Bleed</span> Duration Received (100% Base)
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        -
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
 </div>
 <div style="page-break-before: always;"></div>
@@ -225,24 +252,38 @@ Dark and corrupted, the Revenant is a sanguine knight with unmatched durability.
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Melee</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Target</th>
-            <th style="padding: 8px; text-align: center;">Damage</th>
-            <th style="padding: 8px; text-align: center;">Accuracy</th>
-            <th style="padding: 8px; text-align: center;">Crit Mod</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
-            <td style="padding: 10px;">-50%</td>
-            <td style="padding: 10px;">90</td>
-            <td style="padding: 10px;">+1.0%</td>
-            <td style="padding: 10px;"> <span style="color:#a81919; font-weight:bold;">Bleed</span> (100% Base) 2 pts/rd for 3rds </td>
-            <td style="padding: 10px;">Activates <span style="color:#bd7513; font-weight:bold;">Riposte</span><br><span style="color:#b23522; font-weight:bold;">Marks Target</span> <br><span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: +30% Bleed Amount Received</td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Damage</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Accuracy</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Crit Mod</th>
+                <th style="padding: 8px; text-align: left; width: 20%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 20%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; vertical-align: middle;">-50%</td>
+                <td style="padding: 10px; vertical-align: middle;">90</td>
+                <td style="padding: 10px; vertical-align: middle;">+1.0%</td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#a81919; font-weight:bold;">Bleed</span> (100% Base) 2 pts/rd for 3rds
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        Activates <span style="color:#bd7513; font-weight:bold;">Riposte</span><br>
+                        <span style="color:#b23522; font-weight:bold;">Mark Target</span><br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Self</span>: +30% Bleed Amount Received
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
 </div>
 
@@ -258,24 +299,40 @@ Dark and corrupted, the Revenant is a sanguine knight with unmatched durability.
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Ranged</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Target</th>
-            <th style="padding: 8px; text-align: center;">Damage</th>
-            <th style="padding: 8px; text-align: center;">Accuracy</th>
-            <th style="padding: 8px; text-align: center;">Crit Mod</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ff4d4d;">● </span><span style="color:#ff4d4d;"> ●</span><span style="color:#ff4d4d;"> ●</span> <span style="color:#ff4d4d;"> ●</span></td>
-            <td style="padding: 10px;">-90%</td>
-            <td style="padding: 10px;">95</td>
-            <td style="padding: 10px;">-</td>
-            <td style="padding: 10px;">Bypass <span style="color:#3ac2de; font-weight:bold;">Guard</span> <br> Transfer All<span style="color:#a81919; font-weight:bold;"> Bleed </span>to Target <br> Enemy Party: Clear Corpses <br> <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: +15% DMG Received (120% Base) </td>
-            <td style="padding: 10px;"><span style="color:#57871e; font-weight:bold;">Blight</span> (80% Base) 2pts/rd for 1/rds <br><span style="color:#d4611e; font-weight:bold;">Debuff Self</span>: Disable Blighting Skills</td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Damage</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Accuracy</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Crit Mod</th>
+                <th style="padding: 8px; text-align: left; width: 25%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 15%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●-●-●-●</span></td>
+                <td style="padding: 10px; vertical-align: middle;">-90%</td>
+                <td style="padding: 10px; vertical-align: middle;">95</td>
+                <td style="padding: 10px; vertical-align: middle;">-</td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        Bypass <span style="color:#3ac2de; font-weight:bold;">Guard</span><br>
+                        Transfer All<span style="color:#a81919; font-weight:bold;"> Bleed </span>to Target<br>
+                        Enemy Party: Clear Corpses<br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: +15% DMG Received (120% Base)
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#57871e; font-weight:bold;">Blight</span> (80% Base) 2pts/rd for 1 rds<br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Self</span>: Disable Blighting Skills
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
 </div>
 
@@ -291,24 +348,39 @@ Dark and corrupted, the Revenant is a sanguine knight with unmatched durability.
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Ranged</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank <br> Valid Below 33% HP</th>
-            <th style="padding: 8px; text-align: center;">Target</th>
-            <th style="padding: 8px; text-align: center;">Damage</th>
-            <th style="padding: 8px; text-align: center;">Accuracy</th>
-            <th style="padding: 8px; text-align: center;">Crit Mod</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ff4d4d;">●-</span><span style="color:#ff4d4d;">●-</span><span style="color:#ff4d4d;">●</span><span style="color:#ff4d4d;">-●</span></td>
-            <td style="padding: 10px;">-75%</td>
-            <td style="padding: 10px;">100</td>
-            <td style="padding: 10px;">-</td>
-            <td style="padding: 10px;">Bypass <span style="color:#3ac2de; font-weight:bold;">Guard</span> <br> Enemy Party: Clear Enemy Corpses </td>
-            <td style="padding: 10px;"><span style="color:#27c722; font-weight:bold;">Heal</span> 3% HP<br><span style="color:#57871e; font-weight:bold;">Blight</span> (80% Base) 2pts/rd for 1/rds <br><span style="color:#d4611e; font-weight:bold;">Debuff Self</span>: Disable Blighting Skills</td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank<br><span style="font-size: 0.85em; font-weight: normal; color: #8c7a5a;">Valid Below 33% HP</span></th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Damage</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Accuracy</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Crit Mod</th>
+                <th style="padding: 8px; text-align: left; width: 20%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 20%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●-●-●-●</span></td>
+                <td style="padding: 10px; vertical-align: middle;">-75%</td>
+                <td style="padding: 10px; vertical-align: middle;">100</td>
+                <td style="padding: 10px; vertical-align: middle;">-</td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        Bypass <span style="color:#3ac2de; font-weight:bold;">Guard</span><br>
+                        Enemy Party: Clear Enemy Corpses
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#27c722; font-weight:bold;">Heal</span> 3% HP<br>
+                        <span style="color:#57871e; font-weight:bold;">Blight</span> (80% Base) 2pts/rd for 1 rds<br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Self</span>: Disable Blighting Skills
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
 </div>
 <div style="page-break-before: always;"></div>
@@ -325,18 +397,32 @@ Dark and corrupted, the Revenant is a sanguine knight with unmatched durability.
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Ranged</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Target</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px;"><span style="color:#27c722; font-weight:bold;">Heal</span> 4-5 <br> <span style="font-weight:bold;">Stress</span> +4 <br><span style="color:#3ac2de; font-weight:bold;">Buff Target</span>: +15% <span style="color:#27c722; font-weight:bold;">Healing</span> Received / -15% Stress</td>
-            <td style="padding: 10px;">Suffer 9 DMG</td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 20%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 20%;">Target</th>
+                <th style="padding: 8px; text-align: left; width: 35%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 25%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#27c722; font-weight:bold;">Heal</span> 4-5<br>
+                        <span style="font-weight:bold;">Stress</span> +4<br>
+                        <span style="color:#3ac2de; font-weight:bold;">Buff Target</span>: +15% <span style="color:#27c722; font-weight:bold;">Healing</span> Received / -15% Stress
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        Suffer 9 DMG
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
 </div>
 
@@ -352,17 +438,34 @@ Dark and corrupted, the Revenant is a sanguine knight with unmatched durability.
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Buff</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-    <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px;">Allies: <span style="font-weight:bold;">Stress</span> +4 <br> <span style="color:#d4611e; font-weight:bold;">Debuff Enemies</span>: Reanimate a necrotic hound to fight for you (2rds). Requires one empty space on the enemy side.</td>
-            <td style="padding: 10px;"><span style="color:#bda662; font-weight:bold;">1 Blocks</span> <br> <span style="color:#3ac2de; font-weight:bold;">Buff Self</span>: -20% DMG Received</td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 20%;">Rank</th>
+                <th style="padding: 8px; text-align: left; width: 45%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 35%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;">
+                    <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        Allies: <span style="font-weight:bold;">Stress</span> +4<br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Enemies</span>: Reanimate a necrotic hound to fight for you (2rds). Requires one empty space on the enemy side.
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#bda662; font-weight:bold;">1 Blocks</span><br>
+                        <span style="color:#3ac2de; font-weight:bold;">Buff Self</span>: -20% DMG Received
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
+</div>
 
 ---
 

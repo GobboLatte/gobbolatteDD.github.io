@@ -162,24 +162,39 @@ The Falconer's combat skills revolve around ranged attacks, battlefield control,
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Ranged</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Target</th>
-            <th style="padding: 8px; text-align: center;">Damage</th>
-            <th style="padding: 8px; text-align: center;">Accuracy</th>
-            <th style="padding: 8px; text-align: center;">Crit Mod</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#7a1515;">x</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span></td>
-            <td style="padding: 10px;">+0%</td>
-            <td style="padding: 10px;">90</td>
-            <td style="padding: 10px;">+9.0%</td>
-            <td style="padding: 10px;">+35% DMG vs <span style="color:#b23522; font-weight:bold;">Marked</span><br><span style="color:#dbd37b" >Skill 2</span><br><span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> -10 DODGE (100% Base) / -2 SPD (100% Base)</td>
-            <td style="padding: 10px;"> <span style="color:#dbd37b" >Skill 1</span><br> <span style="color:#3ac2de; font-weight:bold;">Buff Self</span>: +2 SPD</td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Damage</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Accuracy</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Crit Mod</th>
+                <th style="padding: 8px; text-align: left; width: 25%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 15%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span></td>
+                <td style="padding: 10px; vertical-align: middle;">+0%</td>
+                <td style="padding: 10px; vertical-align: middle;">90</td>
+                <td style="padding: 10px; vertical-align: middle;">+9.0%</td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        +35% DMG vs <span style="color:#b23522; font-weight:bold;">Marked</span><br>
+                        <span style="color:#dbd37b">Skill 2</span><br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> -10 DODGE (100% Base) / -2 SPD (100% Base)
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#dbd37b">Skill 1</span><br>
+                        <span style="color:#3ac2de; font-weight:bold;">Buff Self</span>: +2 SPD
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
 </div>
 
@@ -195,24 +210,43 @@ The Falconer's combat skills revolve around ranged attacks, battlefield control,
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Ranged</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Target</th>
-            <th style="padding: 8px; text-align: center;">Damage</th>
-            <th style="padding: 8px; text-align: center;">Accuracy</th>
-            <th style="padding: 8px; text-align: center;">Crit Mod</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span></td>
-            <td style="padding: 10px;">-75%</td>
-            <td style="padding: 10px;">95</td>
-            <td style="padding: 10px;">+8.0%</td>
-            <td style="padding: 10px;">Bypass <span style="color:#6d35a3; font-weight:bold;">Stealth<br>De-Stealth</span><br><span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> -10 ACC (100% Base) <br><span style="color:#dbd37b" >Skill 1</span><br> <span style="color:#b23522; font-weight:bold;">Mark</span> Target<br><span style="color:#dbd37b" >Skill 2</span><br><span style="color:#a81919; font-weight:bold;">Bleed</span> (100% Base) 2pts/rd for 2rds<br>+100% <span style="color:#a81919; font-weight:bold;">Bleed</span> Amount vs <span style="color:#b23522; font-weight:bold;">Marked</span></td>
-            <td style="padding: 10px;">-</td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Damage</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Accuracy</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Crit Mod</th>
+                <th style="padding: 8px; text-align: left; width: 25%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 15%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span></td>
+                <td style="padding: 10px; vertical-align: middle;">-75%</td>
+                <td style="padding: 10px; vertical-align: middle;">95</td>
+                <td style="padding: 10px; vertical-align: middle;">+8.0%</td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        Bypass <span style="color:#6d35a3; font-weight:bold;">Stealth</span><br>
+                        <span style="color:#6d35a3; font-weight:bold;">De-Stealth</span><br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> -10 ACC (100% Base)<br>
+                        <span style="color:#dbd37b">Skill 1</span><br>
+                        <span style="color:#b23522; font-weight:bold;">Mark</span> Target<br>
+                        <span style="color:#dbd37b">Skill 2</span><br>
+                        <span style="color:#a81919; font-weight:bold;">Bleed</span> (100% Base) 2pts/rd for 2rds<br>
+                        +100% <span style="color:#a81919; font-weight:bold;">Bleed</span> Amount vs <span style="color:#b23522; font-weight:bold;">Marked</span>
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        -
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
 </div>
 
@@ -228,24 +262,42 @@ The Falconer's combat skills revolve around ranged attacks, battlefield control,
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Melee</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Target</th>
-            <th style="padding: 8px; text-align: center;">Damage</th>
-            <th style="padding: 8px; text-align: center;">Accuracy</th>
-            <th style="padding: 8px; text-align: center;">Crit Mod</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
-            <td style="padding: 10px;">+0%</td>
-            <td style="padding: 10px;">85</td>
-            <td style="padding: 10px;">+5.0%</td>
-            <td style="padding: 10px;"><span style="color:#1d6bb3; font-weight:bold;">Forward</span> 1<br>+50% DMG While <span style="color:#6d35a3; font-weight:bold;">Stealthed</span> <br><span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> -10 ACC (100% Base)<br><span style="color:#dbd37b" >Skill 1</span><br>Armor Piercing vs <span style="color:#b23522; font-weight:bold;">Marked</span> <br><span style="color:#dbd37b" >Skill 2</span> <br>+35% DMG vs <span style="color:#a81919; font-weight:bold;">Bleeding</span></td>
-            <td style="padding: 10px;">-</td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Damage</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Accuracy</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Crit Mod</th>
+                <th style="padding: 8px; text-align: left; width: 25%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 15%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; vertical-align: middle;">+0%</td>
+                <td style="padding: 10px; vertical-align: middle;">85</td>
+                <td style="padding: 10px; vertical-align: middle;">+5.0%</td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#1d6bb3; font-weight:bold;">Forward</span> 1<br>
+                        +50% DMG While <span style="color:#6d35a3; font-weight:bold;">Stealthed</span><br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> -10 ACC (100% Base)<br>
+                        <span style="color:#dbd37b">Skill 1</span><br>
+                        Armor Piercing vs <span style="color:#b23522; font-weight:bold;">Marked</span><br>
+                        <span style="color:#dbd37b">Skill 2</span><br>
+                        +35% DMG vs <span style="color:#a81919; font-weight:bold;">Bleeding</span>
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        -
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
 </div>
 
@@ -261,28 +313,42 @@ The Falconer's combat skills revolve around ranged attacks, battlefield control,
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Ranged</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Target</th>
-            <th style="padding: 8px; text-align: center;">Damage</th>
-            <th style="padding: 8px; text-align: center;">Accuracy</th>
-            <th style="padding: 8px; text-align: center;">Crit Mod</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#7a1515;">x</span> <span style="color:#ff4d4d;">●-</span><span style="color:#ff4d4d;">●-</span><span style="color:#ff4d4d;">●</span></td>
-            <td style="padding: 10px;">-40%</td>
-            <td style="padding: 10px;">90</td>
-            <td style="padding: 10px;">-4.0%</td>
-            <td style="padding: 10px;"><span style="color:#dbd37b" >Skill 1</span> <br>None</td>
-            <td style="padding: 10px;"><span style="color:#dbd37b" >Skill 2</span> <br><span style="color:#1d6bb3; font-weight:bold;">Shuffle Target</span> (90% Base) <br>-75% DMG <br><span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> -10 ACC (100% Base)</td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Damage</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Accuracy</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Crit Mod</th>
+                <th style="padding: 8px; text-align: left; width: 25%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 15%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#ff4d4d;">●-●-●</span></td>
+                <td style="padding: 10px; vertical-align: middle;">-40%</td>
+                <td style="padding: 10px; vertical-align: middle;">90</td>
+                <td style="padding: 10px; vertical-align: middle;">-4.0%</td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#dbd37b">Skill 1</span><br>
+                        None
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#dbd37b">Skill 2</span><br>
+                        <span style="color:#1d6bb3; font-weight:bold;">Shuffle Target</span> (90% Base)<br>
+                        -75% DMG<br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> -10 ACC (100% Base)
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
 </div>
-
----
 
 <!-- BUFF/DEFENSE TYPE SKILL (BLUE) -->
 <div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
@@ -294,17 +360,35 @@ The Falconer's combat skills revolve around ranged attacks, battlefield control,
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Buff</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-    <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
-            <td style="padding: 10px;"><span style="color:#dbd37b" >Skill 1 <br><span style="color:#6d35a3; font-weight:bold;">De-Stealth</span><br></span>All Heroes: Clear <span style="color:#d49e1e; font-weight:bold;">Stun</span> / +7 CRIT / Stress: -1</td>
-            <td style="padding: 10px;"><span style="color:#dbd37" >Skill 2</span><br><span style="color:#6d35a3; font-weight:bold;">Stealth</span> (4rds) / +15 CRIT while <span style="color:#6d35a3; font-weight:bold;">Stealthed</span></td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 20%;">Rank</th>
+                <th style="padding: 8px; text-align: left; width: 40%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 40%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;">
+                    <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#dbd37b">Skill 1</span><br>
+                        <span style="color:#6d35a3; font-weight:bold;">De-Stealth</span><br>
+                        All Heroes: Clear <span style="color:#d49e1e; font-weight:bold;">Stun</span> / +7 CRIT / Stress: -1
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#dbd37b">Skill 2</span><br>
+                        <span style="color:#6d35a3; font-weight:bold;">Stealth</span> (4rds) / +15 CRIT while <span style="color:#6d35a3; font-weight:bold;">Stealthed</span>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
+</div>
 
 ---
 
@@ -315,27 +399,45 @@ The Falconer's combat skills revolve around ranged attacks, battlefield control,
             <img src="_assets/Falconer/falconer.ability.six.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
             <span>Fleeting Escape / Harrier</span>
         </div>
-        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Range</span>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Ranged</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Target</th>
-            <th style="padding: 8px; text-align: center;">Damage</th>
-            <th style="padding: 8px; text-align: center;">Accuracy</th>
-            <th style="padding: 8px; text-align: center;">Crit Mod</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ff4d4d;">●-</span><span style="color:#ff4d4d;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
-            <td style="padding: 10px;">-66%</td>
-            <td style="padding: 10px;">95</td>
-            <td style="padding: 10px;">-1.0%</td>
-            <td style="padding: 10px;"><span style="color:#1d6bb3; font-weight:bold;">Back 2</span> <br><span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> -7 ACC (100% Base) <br><span style="color:#dbd37b" >Skill 2</span> <br><span style="color:#1d6bb3; font-weight:bold;">Knockback 1 </span>(90% Base)<br>+100% DMG</td>
-            <td style="padding: 10px;"><span style="color:#dbd37b" >Skill 1</span><br> <span style="color:#6d35a3; font-weight:bold;">Stealth</span> (2rds) (66% Chance)<br>Clear <span style="color:#b23522; font-weight:bold;">Marked</span> Target</td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Damage</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Accuracy</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Crit Mod</th>
+                <th style="padding: 8px; text-align: left; width: 25%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 15%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●-●</span></td>
+                <td style="padding: 10px; vertical-align: middle;">-66%</td>
+                <td style="padding: 10px; vertical-align: middle;">95</td>
+                <td style="padding: 10px; vertical-align: middle;">-1.0%</td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#1d6bb3; font-weight:bold;">Back 2</span><br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> -7 ACC (100% Base)<br>
+                        <span style="color:#dbd37b">Skill 2</span><br>
+                        <span style="color:#1d6bb3; font-weight:bold;">Knockback 1</span> (90% Base)<br>
+                        +100% DMG
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#dbd37b">Skill 1</span><br>
+                        <span style="color:#6d35a3; font-weight:bold;">Stealth</span> (2rds) (66% Chance)<br>
+                        Clear <span style="color:#b23522; font-weight:bold;">Marked</span> Target
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
 </div>
 
@@ -351,17 +453,36 @@ The Falconer's combat skills revolve around ranged attacks, battlefield control,
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Swap</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-    <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px;">Does Not End Turn<br>Always Reverts to Skill Set 1 After Every Combat Action</td>
-            <td style="padding: 10px;"><span style="color:#dbd37b" >Skill 1</span><br>Change to Mode: Skill Set 2<br><span style="color:#dbd37b" >Skill 2</span><br>Change to Mode: Skill Set 1</td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 20%;">Rank</th>
+                <th style="padding: 8px; text-align: left; width: 40%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 40%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;">
+                    <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        Does Not End Turn<br>
+                        Always Reverts to Skill Set 1 After Every Combat Action
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#dbd37b">Skill 1</span><br>
+                        Change to Mode: Skill Set 2<br>
+                        <span style="color:#dbd37b">Skill 2</span><br>
+                        Change to Mode: Skill Set 1
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
+</div>
 
 ---
 

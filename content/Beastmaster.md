@@ -163,16 +163,27 @@ The Beastmaster's combat skills reward adaptability, allowing him to shift betwe
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Move</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-    <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px;"><span style="color:#1d6bb3; font-weight:bold;">Back</span> 3<br><span style="color:#6d35a3; font-weight:bold;">Stealth</span> (1 rd)</td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 30%;">Rank</th>
+                <th style="padding: 8px; text-align: left; width: 70%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;">
+                    <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#1d6bb3; font-weight:bold;">Back</span> 3<br>
+                        <span style="color:#6d35a3; font-weight:bold;">Stealth</span> (1 rd)
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
-    </div>
+</div>
 
 ---
 
@@ -186,24 +197,37 @@ The Beastmaster's combat skills reward adaptability, allowing him to shift betwe
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Melee</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Target</th>
-            <th style="padding: 8px; text-align: center;">Damage</th>
-            <th style="padding: 8px; text-align: center;">Accuracy</th>
-            <th style="padding: 8px; text-align: center;">Crit Mod</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#7a1515;">x</span></td>
-            <td style="padding: 10px;">-60%</td>
-            <td style="padding: 10px;">90</td>
-            <td style="padding: 10px;">+4.0%</td>
-            <td style="padding: 10px;">+5 CRIT vs Beasts<br><span style="color:#dbd37b; font-weight:bold;" >Doublestrike</span> (Attacks Twice / May Use Prowl After the First)</td>
-            <td style="padding: 10px;"><span style="color:#6d35a3; font-weight:bold;">De-Stealth</span></td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Damage</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Accuracy</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Crit Mod</th>
+                <th style="padding: 8px; text-align: left; width: 25%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 15%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; vertical-align: middle;">-60%</td>
+                <td style="padding: 10px; vertical-align: middle;">90</td>
+                <td style="padding: 10px; vertical-align: middle;">+4.0%</td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        +5 CRIT vs Beasts<br>
+                        <span style="color:#dbd37b; font-weight:bold;">Doublestrike</span> (Attacks Twice / May Use Prowl After the First)
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#6d35a3; font-weight:bold;">De-Stealth</span>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
 </div>
 
@@ -219,18 +243,31 @@ The Beastmaster's combat skills reward adaptability, allowing him to shift betwe
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Buff</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-    <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px;"><span style="color:#dbd37b;" >Cooldown: 1 rd</span></td>
-            <td style="padding: 10px;">1 <span style="color:#dbd37b; font-weight:bold;" >Block</span><br>When Hit: <span style="color:#bd7513; font-weight:bold;">Counter</span> Once: 95 ACC Base/+20% DMG/+2% CRIT</td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 20%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 20%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 60%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;">
+                    <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span>
+                </td>
+                <td style="padding: 10px; vertical-align: middle;">
+                    <span style="color:#dbd37b;">Cooldown: 1 rd</span>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        1 <span style="color:#dbd37b; font-weight:bold;">Block</span><br>
+                        When Hit: <span style="color:#bd7513; font-weight:bold;">Counter</span> Once: 95 ACC Base / +20% DMG / +2% CRIT
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
-    </div>
+</div>
 
 ---
 
@@ -244,29 +281,44 @@ The Beastmaster's combat skills reward adaptability, allowing him to shift betwe
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Melee</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Target</th>
-            <th style="padding: 8px; text-align: center;">Damage</th>
-            <th style="padding: 8px; text-align: center;">Accuracy</th>
-            <th style="padding: 8px; text-align: center;">Crit Mod</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#7a1515;">x</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span></td>
-            <td style="padding: 10px;">+10%</td>
-            <td style="padding: 10px;">90</td>
-            <td style="padding: 10px;">+2.0%</td>
-            <td style="padding: 10px;">Bypass <span style="color:#6d35a3; font-weight:bold;">Stealth</span><br>Transfer <span style="color:#6d35a3; font-weight:bold;">Stealth</span><br>+10 ACC vs <span style="color:#6d35a3; font-weight:bold;">Stealthed</span> / +30% DMG vs <span style="color:#6d35a3; font-weight:bold;">Stealthed</span></td>
-            <td style="padding: 10px;"><span style="color:#1d6bb3; font-weight:bold;">Forward</span> 3</td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Damage</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Accuracy</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Crit Mod</th>
+                <th style="padding: 8px; text-align: left; width: 25%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 15%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span></td>
+                <td style="padding: 10px; vertical-align: middle;">+10%</td>
+                <td style="padding: 10px; vertical-align: middle;">90</td>
+                <td style="padding: 10px; vertical-align: middle;">+2.0%</td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        Bypass <span style="color:#6d35a3; font-weight:bold;">Stealth</span><br>
+                        Transfer <span style="color:#6d35a3; font-weight:bold;">Stealth</span><br>
+                        +10 ACC vs <span style="color:#6d35a3; font-weight:bold;">Stealthed</span> / +30% DMG vs <span style="color:#6d35a3; font-weight:bold;">Stealthed</span>
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#1d6bb3; font-weight:bold;">Forward</span> 3
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
 </div>
 
 ---
 
+<!-- COMBAT TYPE SKILL (RED) -->
 <div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
     <div style="background-color: #7a1515; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
         <div style="display: flex; align-items: center; gap: 12px;">
@@ -276,29 +328,44 @@ The Beastmaster's combat skills reward adaptability, allowing him to shift betwe
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Melee</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Target</th>
-            <th style="padding: 8px; text-align: center;">Damage</th>
-            <th style="padding: 8px; text-align: center;">Accuracy</th>
-            <th style="padding: 8px; text-align: center;">Crit Mod</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
-            <td style="padding: 10px;">-40%</td>
-            <td style="padding: 10px;">85</td>
-            <td style="padding: 10px;">+2.0%</td>
-            <td style="padding: 10px;"><span style="color:#a81919; font-weight:bold;">Bleed</span> (110% Base) 3pts/rd for 2 rds<br>+25 CRIT While <span style="color:#6d35a3; font-weight:bold;">Stealthed</span></td>
-            <td style="padding: 10px;"><span style="color:#1d6bb3; font-weight:bold;">Forward</span> 1<br>On Miss: <span style="color:#6d35a3; font-weight:bold;">Stealth</span> (1 rd)</td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Damage</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Accuracy</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Crit Mod</th>
+                <th style="padding: 8px; text-align: left; width: 25%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 15%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; vertical-align: middle;">-40%</td>
+                <td style="padding: 10px; vertical-align: middle;">85</td>
+                <td style="padding: 10px; vertical-align: middle;">+2.0%</td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#a81919; font-weight:bold;">Bleed</span> (110% Base) 3pts/rd for 2 rds<br>
+                        +25 CRIT While <span style="color:#6d35a3; font-weight:bold;">Stealthed</span>
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#1d6bb3; font-weight:bold;">Forward</span> 1<br>
+                        On Miss: <span style="color:#6d35a3; font-weight:bold;">Stealth</span> (1 rd)
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
 </div>
 
----
 
+---
+<!-- COMBAT TYPE SKILL (RED) -->
 <div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
     <div style="background-color: #7a1515; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
         <div style="display: flex; align-items: center; gap: 12px;">
@@ -308,29 +375,44 @@ The Beastmaster's combat skills reward adaptability, allowing him to shift betwe
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Melee</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Target</th>
-            <th style="padding: 8px; text-align: center;">Damage</th>
-            <th style="padding: 8px; text-align: center;">Accuracy</th>
-            <th style="padding: 8px; text-align: center;">Crit Mod</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
-            <td style="padding: 10px;">-70%</td>
-            <td style="padding: 10px;">95</td>
-            <td style="padding: 10px;">+8.0%</td>
-            <td style="padding: 10px;"><span style="color:#a81919; font-weight:bold;">Bleed</span> (100% Base) 4pts/rd for 2 rds<br>Consume <span style="color:#dbd37b;" >Corpse</span></td>
-            <td style="padding: 10px;">If <span style="color:#dbd37b;" >Corpse</span> Consumed: <span style="color:#27c722; font-weight:bold;">Heal</span> 1pts/rd for 2rds<br>+10% <span style="color:#a81919; font-weight:bold;">Bleed</span> Amount (Quest)</td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Damage</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Accuracy</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Crit Mod</th>
+                <th style="padding: 8px; text-align: left; width: 20%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 20%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; vertical-align: middle;">-70%</td>
+                <td style="padding: 10px; vertical-align: middle;">95</td>
+                <td style="padding: 10px; vertical-align: middle;">+8.0%</td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#a81919; font-weight:bold;">Bleed</span> (100% Base) 4pts/rd for 2 rds<br>
+                        Consume <span style="color:#dbd37b;">Corpse</span>
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        If <span style="color:#dbd37b;">Corpse</span> Consumed: <span style="color:#27c722; font-weight:bold;">Heal</span> 1pts/rd for 2rds<br>
+                        +10% <span style="color:#a81919; font-weight:bold;">Bleed</span> Amount (Quest)
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
 </div>
 
 ---
 
+<!-- SUMMON TYPE SKILL (RED) -->
 <div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
     <div style="background-color: #7a1515; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
         <div style="display: flex; align-items: center; gap: 12px;">
@@ -340,18 +422,31 @@ The Beastmaster's combat skills reward adaptability, allowing him to shift betwe
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Summon</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Target</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span></td>
-            <td style="padding: 10px;"><span style="color:#dbd37b;" >Uses Per Battle: 1</span><br>Consume <span style="color:#dbd37b;" >Corpse</span></td>
-            <td style="padding: 10px;">Summon Corpsebud</td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 20%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 20%;">Target</th>
+                <th style="padding: 8px; text-align: left; width: 30%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 30%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span></td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#dbd37b;">Uses Per Battle: 1</span><br>
+                        Consume <span style="color:#dbd37b;">Corpse</span>
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        Summon Corpsebud
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
 </div>
 

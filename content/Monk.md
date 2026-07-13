@@ -257,15 +257,26 @@ The Monk's combat skills blend fluid movement with supportive martial arts. His 
             </tr>
         </thead>
         <tbody>
-            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+            <tr style="border-bottom: 1px solid #383830; text-align: center;;">
                 <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span></td>
-                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●-</span><span style="color:#ff4d4d;">●</span> <span style="color:#7a1515;;">x</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●-●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
                 <td style="padding: 10px; vertical-align: middle;">-40%</td>
                 <td style="padding: 10px; vertical-align: middle;">90</td>
                 <td style="padding: 10px; vertical-align: middle;">-2.0%</td>
-                <td style="padding: 10px; text-align: left; vertical-align: middle;">Armor Piercing<br><span style="color:#1d6bb3; font-weight:bold;">Knockback</span> 3 (110% Base)<br>Enemy Party: Clear Corpses</td>
-                <td style="padding: 10px; text-align: left; line-height: 1.4; vertical-align: middle;">
-                    <span style="color:#1d6bb3; font-weight:bold;">Forward</span> 2<br>-20 DODGE / -10 PROT
+                <!-- EFFECT COLUMN FIX -->
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        Armor Piercing<br>
+                        <span style="color:#1d6bb3; font-weight:bold;">Knockback</span> 3 (110% Base)<br>
+                        Enemy Party: Clear Corpses
+                    </div>
+                </td>
+                <!-- SELF COLUMN -->
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#1d6bb3; font-weight:bold;">Forward</span> 2<br>
+                        -20 DODGE / -10 PROT
+                    </div>
                 </td>
             </tr>
         </tbody>
@@ -297,11 +308,17 @@ The Monk's combat skills blend fluid movement with supportive martial arts. His 
         <tbody>
             <tr style="border-bottom: 1px solid #383830; text-align: center;">
                 <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#7a1515">x</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
                 <td style="padding: 10px; vertical-align: middle;">-50%</td>
                 <td style="padding: 10px; vertical-align: middle;">90</td>
                 <td style="padding: 10px; vertical-align: middle;">+3.0%</td>
-                <td style="padding: 10px; text-align: left; vertical-align: middle;"><span style="color:#f5ce0c; font-weight:bold;">Stun</span> (100 Base)<br><span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -5 SPD (100% Base)</td>
+                <!-- WRAPPED EFFECT TEXT WITH LINE HEIGHT REINFORCEMENT -->
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#f5ce0c; font-weight:bold;">Stun</span> (100 Base)<br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -5 SPD (100% Base)
+                    </div>
+                </td>
                 <td style="padding: 10px; text-align: left; line-height: 1.4; vertical-align: middle;">
                     <span style="color:#3ac2de; font-weight:bold;">Buff Self</span>: +15% DMG Except for Sweeping Kick / +7 CRIT Except for Sweeping Kick
                 </td>
@@ -323,7 +340,7 @@ The Monk's combat skills blend fluid movement with supportive martial arts. His 
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
         <thead>
             <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-                <th style="padding: 8px; text-align: center; width: 25%;">Rank<br>Valid Above 25% HP</th>
+                <th style="padding: 8px; text-align: center; width: 25%;">Rank<br><span style="font-size: 0.85em; font-weight: normal; color: #8c7a5a;">Valid Above 25% HP</span></th>
                 <th style="padding: 8px; text-align: center; width: 25%;">Target</th>
                 <th style="padding: 8px; text-align: left; width: 50%;">Effect</th>
                 <th style="padding: 8px; text-align: left; width: 50%;">Self</th>
@@ -338,7 +355,7 @@ The Monk's combat skills blend fluid movement with supportive martial arts. His 
                     <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span>
                 </td>
                 <td style="padding: 10px; text-align: left; line-height: 1.5; vertical-align: middle;">
-                    <span style="color:#27c722; font-weight:bold;">Heal</span> 1-1<br><span style="color:#27c722; font-weight:bold;">Heal</span> 20% HP
+                    <span style="color:#27c722; font-weight:bold;">Heal</span> 1-1<br><span style="color:#27c722; font-weight:bold;">Heal</span> 20% HP<br>(Cannot Target Self)
                 </td>
                 <td style="padding: 10px; text-align: left; line-height: 1.5; vertical-align: middle;">
                     Suffer 5 DMG / -10 DODGE / -10 PROT
@@ -393,17 +410,33 @@ The Monk's combat skills blend fluid movement with supportive martial arts. His 
         <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Buff</span>
     </div>
     <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
-    <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-            <th style="padding: 8px; text-align: center;">Rank</th>
-            <th style="padding: 8px; text-align: center;">Effect</th>
-            <th style="padding: 8px; text-align: center;">Self</th>
-        </tr>
-        <tr style="border-bottom: 1px solid #383830; text-align: center;">
-            <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-            <td style="padding: 10px;">-</td>
-	            <td style="padding: 10px;"><span style="color:#27c722; font-weight:bold;">Heal</span> 0-4<br><span style="font-weight:bold;">Stress</span>: -5 (67% Chance)<br>Activates <span style="color:#bd7513; font-weight:bold;">Riposte</span><br><span style="color:#3ac2de; font-weight:bold;">Buff Self</span>: +15% DMG Except for <span style="color:#bd7513; font-weight:bold;">Riposte</span> / +10% DMG<br><span style="color:#d4611e; font-weight:bold;">Debuff Self</span>: <span style="color:#bd7513; font-weight:bold;">Riposte</span>: -40% DMG / -10 CRIT</td>
-        </tr>
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 20%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 20%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 60%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;">
+                    <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span>
+                </td>
+                <td style="padding: 10px; vertical-align: middle;">-</td>
+                <!-- SELF COLUMN FIX -->
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#27c722; font-weight:bold;">Heal</span> 0-4<br>
+                        <span style="font-weight:bold;">Stress</span>: -5 (67% Chance)<br>
+                        Activates <span style="color:#bd7513; font-weight:bold;">Riposte</span><br>
+                        <span style="color:#3ac2de; font-weight:bold;">Buff Self</span>: +15% DMG Except for <span style="color:#bd7513; font-weight:bold;">Riposte</span> / +10% DMG<br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Self</span>: <span style="color:#bd7513; font-weight:bold;">Riposte</span>: -40% DMG / -10 CRIT
+                    </div>
+                </td>
+            </tr>
+        </tbody>
     </table>
+</div>
 
 ---
 

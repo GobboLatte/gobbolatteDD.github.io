@@ -34,7 +34,15 @@ The **Twilight Knight** is a resilient front-line warrior who excels at confront
 </div>
     <table style="width: 100%; margin: 0; border-collapse: collapse; font-size: 0.95em; clear: both;">
         <tr style="border-bottom: 1px solid var(--background-modifier-border);"><td style="padding: 6px 0;"><b>Movement</b></td><td style="text-align: right; padding: 6px 0;">1 Fwd, 1 Back</td></tr>
-        <tr style="border-bottom: 1px solid var(--background-modifier-border);"><td style="padding: 6px 0;"><b>Crit Buff</b></td><td style="text-align: right; padding: 6px 0; color: #ffbc42;">Buff Self: +10% PROT If Torch Below 50<br>Buff Self: +2 SPD if Torch Above 50</td></tr>
+        <tr style="border-bottom: 1px solid var(--background-modifier-border);">
+    <td style="padding: 6px 0; vertical-align: top;"><b>Crit Buff</b></td>
+    <td style="text-align: right; padding: 6px 0;">
+        <div style="line-height: 1.4; display: inline-block; text-align: right; color: #ffbc42;">
+            Buff Self: +10% PROT If Torch Below 50<br>
+            Buff Self: +2 SPD if Torch Above 50
+        </div>
+    </td>
+</tr>
         <tr style="border-bottom: 1px solid var(--background-modifier-border);"><td style="padding: 6px 0;"><b>Religious</b></td><td style="text-align: right; padding: 6px 0;">No</td></tr>
         <tr><td style="padding: 6px 0;"><b>Provisions</b></td><td style="text-align: right; padding: 6px 0;">None</td></tr>
     </table>

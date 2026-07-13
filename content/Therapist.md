@@ -34,7 +34,14 @@ A herd of sheep needs its shepherd. Then, with a lion leading the herd, those me
 </div>
     <table style="width: 100%; margin: 0; border-collapse: collapse; font-size: 0.95em; clear: both;">
         <tr style="border-bottom: 1px solid var(--background-modifier-border);"><td style="padding: 6px 0;"><b>Movement</b></td><td style="text-align: right; padding: 6px 0;">0 Fwd, 2 Back</td></tr>
-        <tr style="border-bottom: 1px solid var(--background-modifier-border);"><td style="padding: 6px 0;"><b>Crit Buff</b></td><td style="text-align: right; padding: 6px 0; color: #ffbc42;">Enemy Party: -10 DODGE (150% Base) (3 rds)</td></tr>
+       <tr style="border-bottom: 1px solid var(--background-modifier-border);">
+    <td style="padding: 6px 0; vertical-align: middle;"><b>Crit Buff</b></td>
+    <td style="text-align: right; padding: 6px 0;">
+        <div style="line-height: 1.4; display: inline-block; text-align: right; color: #ffbc42;">
+            Enemy Party: -10 DODGE (150% Base) (3 rds)
+        </div>
+    </td>
+</tr>
         <tr style="border-bottom: 1px solid var(--background-modifier-border);"><td style="padding: 6px 0;"><b>Religious</b></td><td style="text-align: right; padding: 6px 0;">No</td></tr>
         <tr><td style="padding: 6px 0;"><b>Provisions</b></td><td style="text-align: right; padding: 6px 0;">Laudanum x2</td></tr>
     </table>

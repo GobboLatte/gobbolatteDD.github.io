@@ -444,7 +444,7 @@ The Twilight Knight's combat skills emphasize powerful melee attacks, crowd cont
         </thead>
         <tbody>
             <tr style="border-bottom: 1px solid #383830; text-align: center;">
-                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span></td>
                 <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
                 <td style="padding: 10px; vertical-align: middle;">+10%</td>
                 <td style="padding: 10px; vertical-align: middle;">90</td>

@@ -313,7 +313,7 @@ The Revenant's combat skills revolve around durability, life-draining attacks, a
         <tbody>
             <tr style="border-bottom: 1px solid #383830; text-align: center;">
                 <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●-●-●-●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">● ● ● ●</span></td>
                 <td style="padding: 10px; vertical-align: middle;">-90%</td>
                 <td style="padding: 10px; vertical-align: middle;">95</td>
                 <td style="padding: 10px; vertical-align: middle;">-</td>
@@ -374,7 +374,7 @@ The Revenant's combat skills revolve around durability, life-draining attacks, a
                 </td>
                 <td style="padding: 10px; text-align: left; vertical-align: middle;">
                     <div style="line-height: 1.4; display: block;">
-                        <span style="color:#27c722; font-weight:bold;">Heal</span> 3% HP<br>
+                        <span style="color:#27c722; font-weight:bold;">Heal</span> 3% HP Per Enemy Hit<br>
                         <span style="color:#57871e; font-weight:bold;">Blight</span> (80% Base) 2pts/rd for 1 rds<br>
                         <span style="color:#d4611e; font-weight:bold;">Debuff Self</span>: Disable Blighting Skills
                     </div>
@@ -408,12 +408,12 @@ The Revenant's combat skills revolve around durability, life-draining attacks, a
         <tbody>
             <tr style="border-bottom: 1px solid #383830; text-align: center;">
                 <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#27c722;">●</span> <span style="color:#27c722;">●</span> <span style="color:#27c722;">●</span> <span style="color:#27c722;">●</span></td>
                 <td style="padding: 10px; text-align: left; vertical-align: middle;">
                     <div style="line-height: 1.4; display: block;">
                         <span style="color:#27c722; font-weight:bold;">Heal</span> 4-5<br>
                         <span style="font-weight:bold;">Stress</span> +4<br>
-                        <span style="color:#3ac2de; font-weight:bold;">Buff Target</span>: +15% <span style="color:#27c722; font-weight:bold;">Healing</span> Received / -15% Stress
+                        <span style="color:#3ac2de; font-weight:bold;">Buff Target</span>: +15% <span style="color:#27c722; font-weight:bold;">Healing</span> Received / -15% <span style="font-weight:bold;">Stress</span> Received
                     </div>
                 </td>
                 <td style="padding: 10px; text-align: left; vertical-align: middle;">
@@ -453,7 +453,7 @@ The Revenant's combat skills revolve around durability, life-draining attacks, a
                 <td style="padding: 10px; text-align: left; vertical-align: middle;">
                     <div style="line-height: 1.4; display: block;">
                         Allies: <span style="font-weight:bold;">Stress</span> +4<br>
-                        <span style="color:#d4611e; font-weight:bold;">Debuff Enemies</span>: Reanimate a necrotic hound to fight for you (2rds). Requires one empty space on the enemy side.
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Enemies</span>: Reanimate a necrotic hound to fight for you (2 rds). Requires one empty space on the enemy side.
                     </div>
                 </td>
                 <td style="padding: 10px; text-align: left; vertical-align: middle;">

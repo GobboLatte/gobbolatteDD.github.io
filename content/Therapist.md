@@ -189,7 +189,7 @@ The Therapist's combat skills focus on buffs, debuffs, healing, and battlefield 
         <tbody>
             <tr style="border-bottom: 1px solid #383830; text-align: center;">
                 <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●-●-●-●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">● ● ● ●</span></td>
                 <td style="padding: 10px; vertical-align: middle;">+0%</td>
                 <td style="padding: 10px; vertical-align: middle;">95</td>
                 <td style="padding: 10px; vertical-align: middle;">+5.0%</td>
@@ -234,7 +234,7 @@ The Therapist's combat skills focus on buffs, debuffs, healing, and battlefield 
                     <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span>
                 </td>
                 <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;">
-                    <span style="color:#27c722;">●-●-●-●</span>
+                    <span style="color:#27c722;">● ● ● ●</span>
                 </td>
                 <td style="padding: 10px; text-align: left; vertical-align: middle;">
                     <div style="line-height: 1.4; display: block;">
@@ -274,7 +274,7 @@ The Therapist's combat skills focus on buffs, debuffs, healing, and battlefield 
         <tbody>
             <tr style="border-bottom: 1px solid #383830; text-align: center;">
                 <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#27c722;">●-●-●-●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#27c722;">● ● ● ●</span></td>
                 <td style="padding: 10px; text-align: left; vertical-align: middle;">
                     <div style="line-height: 1.4; display: block;">
                         <span style="color:#b23522; font-weight:bold;">Mark</span> Target<br>
@@ -316,7 +316,7 @@ The Therapist's combat skills focus on buffs, debuffs, healing, and battlefield 
         <tbody>
             <tr style="border-bottom: 1px solid #383830; text-align: center;">
                 <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#27c722;">●-●-●-●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#27c722;">● ● ● ●</span></td>
                 <td style="padding: 10px; text-align: left; vertical-align: middle;">
                     <div style="line-height: 1.4; display: block;">
                         <span style="font-weight:bold;">Stress</span> -9<br>
@@ -357,7 +357,7 @@ The Therapist's combat skills focus on buffs, debuffs, healing, and battlefield 
         <tbody>
             <tr style="border-bottom: 1px solid #383830; text-align: center;">
                 <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#27c722;">●-●-●-●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#27c722;">● ● ● ●</span></td>
                 <td style="padding: 10px; text-align: left; vertical-align: middle;">
                     <div style="line-height: 1.4; display: block;">
                         <span style="color:#dbd37b">Uses Per Quest: 1</span><br>
@@ -401,7 +401,7 @@ The Therapist's combat skills focus on buffs, debuffs, healing, and battlefield 
         <tbody>
             <tr style="border-bottom: 1px solid #383830; text-align: center;">
                 <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
-                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●-●-●-●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">● ● ● ●</span></td>
                 <td style="padding: 10px; vertical-align: middle;">-70%</td>
                 <td style="padding: 10px; vertical-align: middle;">90</td>
                 <td style="padding: 10px; vertical-align: middle;">+1.0%</td>
@@ -449,7 +449,7 @@ The Therapist's combat skills focus on buffs, debuffs, healing, and battlefield 
         <tbody>
             <tr style="border-bottom: 1px solid #383830; text-align: center;">
                 <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
-                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#ff4d4d;">●-●-●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#ff4d4d;">● ● ●</span></td>
                 <td style="padding: 10px; vertical-align: middle;">-80%</td>
                 <td style="padding: 10px; vertical-align: middle;">90</td>
                 <td style="padding: 10px; vertical-align: middle;">+5.0%</td>

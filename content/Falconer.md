@@ -186,7 +186,7 @@ The Falconer's combat skills emphasize disruption, positioning, and sustained pr
                     <div style="line-height: 1.4; display: block;">
                         +35% DMG vs <span style="color:#b23522; font-weight:bold;">Marked</span><br>
                         <span style="color:#dbd37b">Skill 2</span><br>
-                        <span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> -10 DODGE (100% Base) / -2 SPD (100% Base)
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -10 DODGE (100% Base) / -2 SPD (100% Base)
                     </div>
                 </td>
                 <td style="padding: 10px; text-align: left; vertical-align: middle;">
@@ -234,7 +234,7 @@ The Falconer's combat skills emphasize disruption, positioning, and sustained pr
                     <div style="line-height: 1.4; display: block;">
                         Bypass <span style="color:#6d35a3; font-weight:bold;">Stealth</span><br>
                         <span style="color:#6d35a3; font-weight:bold;">De-Stealth</span><br>
-                        <span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> -10 ACC (100% Base)<br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -10 ACC (100% Base)<br>
                         <span style="color:#dbd37b">Skill 1</span><br>
                         <span style="color:#b23522; font-weight:bold;">Mark</span> Target<br>
                         <span style="color:#dbd37b">Skill 2</span><br>
@@ -286,7 +286,7 @@ The Falconer's combat skills emphasize disruption, positioning, and sustained pr
                     <div style="line-height: 1.4; display: block;">
                         <span style="color:#1d6bb3; font-weight:bold;">Forward</span> 1<br>
                         +50% DMG While <span style="color:#6d35a3; font-weight:bold;">Stealthed</span><br>
-                        <span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> -10 ACC (100% Base)<br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -10 ACC (100% Base)<br>
                         <span style="color:#dbd37b">Skill 1</span><br>
                         Armor Piercing vs <span style="color:#b23522; font-weight:bold;">Marked</span><br>
                         <span style="color:#dbd37b">Skill 2</span><br>
@@ -344,7 +344,7 @@ The Falconer's combat skills emphasize disruption, positioning, and sustained pr
                         <span style="color:#dbd37b">Skill 2</span><br>
                         <span style="color:#1d6bb3; font-weight:bold;">Shuffle Target</span> (90% Base)<br>
                         -75% DMG<br>
-                        <span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> -10 ACC (100% Base)
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -10 ACC (100% Base)
                     </div>
                 </td>
             </tr>
@@ -418,14 +418,14 @@ The Falconer's combat skills emphasize disruption, positioning, and sustained pr
         <tbody>
             <tr style="border-bottom: 1px solid #383830; text-align: center;">
                 <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
-                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●-●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●-●</span><span style="color:#7a1515;"> x</span> <span style="color:#7a1515;"> x</span></td>
                 <td style="padding: 10px; vertical-align: middle;">-66%</td>
                 <td style="padding: 10px; vertical-align: middle;">95</td>
                 <td style="padding: 10px; vertical-align: middle;">-1.0%</td>
                 <td style="padding: 10px; text-align: left; vertical-align: middle;">
                     <div style="line-height: 1.4; display: block;">
                         <span style="color:#1d6bb3; font-weight:bold;">Back 2</span><br>
-                        <span style="color:#d4611e; font-weight:bold;">Debuff Target:</span> -7 ACC (100% Base)<br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -7 ACC (100% Base)<br>
                         <span style="color:#dbd37b">Skill 2</span><br>
                         <span style="color:#1d6bb3; font-weight:bold;">Knockback 1</span> (90% Base)<br>
                         +100% DMG

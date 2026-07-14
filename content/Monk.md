@@ -365,7 +365,7 @@ The Monk's combat skills blend agile martial arts with restorative techniques fu
                     <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span>
                 </td>
                 <td style="padding: 10px; text-align: center; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;">
-                    <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span>
+                    <span style="color:#27c722;">●</span> <span style="color:#27c722;">●</span> <span style="color:#27c722;">●</span> <span style="color:#27c722;">●</span>
                 </td>
                 <td style="padding: 10px; text-align: left; line-height: 1.5; vertical-align: middle;">
                     <span style="color:#27c722; font-weight:bold;">Heal</span> 1-1<br><span style="color:#27c722; font-weight:bold;">Heal</span> 20% HP<br><span style="font-style: italic; opacity: 0.8;">(Effects Don't Apply to Self)</span>

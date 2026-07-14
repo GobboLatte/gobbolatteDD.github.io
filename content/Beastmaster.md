@@ -486,7 +486,7 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                     <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span>
                 </td>
                 <td style="padding: 10px; text-align: center; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;">
-                    <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span>
+                    <span style="color:#27c722;">●</span> <span style="color:#27c722;">●</span> <span style="color:#27c722;">●</span> <span style="color:#27c722;">●</span>
                 </td>
                 <td style="padding: 10px; text-align: left; line-height: 1.5; vertical-align: middle;">
                     <span style="color:#dbd37b;">Uses Per Battle: 1</span><br>

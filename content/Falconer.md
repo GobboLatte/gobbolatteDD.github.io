@@ -9,6 +9,7 @@ tags:
   - stealth
   - outsiders-bonfire
   - ranged
+  - debuff
 ---
 # Falconer
 
@@ -23,7 +24,7 @@ tags:
 </div>
 
 ### Class Description
-A defected criminal turned skilled huntress, the Falconer excels at disrupting enemy formations and exploiting exposed prey alongside her loyal falcon. A highly adaptable ranged combatant, she combines precision archery, mobility, and coordinated attacks to remain effective in nearly any situation.
+A fugitive huntress accompanied by her loyal falcon, the **Falconer** excels at harassing enemies through cunning tactics and coordinated strikes. Though most effective from the back ranks, her mobility, battlefield awareness, and adaptability allow her to survive even when cornered.
 
 </div>
 
@@ -149,7 +150,7 @@ A defected criminal turned skilled huntress, the Falconer excels at disrupting e
 
 ## Combat Skills Overview
 
-The Falconer's combat skills revolve around ranged attacks, battlefield control, and adaptability. She can mark and debilitate enemies, inflict Bleed, reposition herself with ease, and coordinate devastating strikes with her falcon to capitalize on weakened foes.
+The Falconer's combat skills emphasize disruption, positioning, and sustained pressure rather than overwhelming force. Through precise archery and coordinated attacks with her falcon, she weakens priority targets, inflicts Bleed, and exploits enemy vulnerabilities while remaining highly mobile.
 
 ### Move List
 
@@ -489,7 +490,7 @@ The Falconer's combat skills revolve around ranged attacks, battlefield control,
 
 ## Camping Skills
 
-The Falconer's camping skills reflect her expertise as a seasoned hunter and survivalist. She provides scouting and anti-ambush utility while granting buffs that improve the party's awareness, accuracy, and effectiveness during expeditions.
+The Falconer's camping skills showcase her experience as a fugitive and wilderness hunter. She improves scouting, reduces the chance of nighttime ambushes, and grants survival-focused buffs that reflect her keen instincts and ability to evade pursuit.
 
 <!-- CAMPING SKILL CARD -->
 <div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
@@ -601,7 +602,7 @@ The Falconer's camping skills reflect her expertise as a seasoned hunter and sur
 
 ## Equipment
 
-The Falconer wields a finely crafted hunting bow and commands a trained falcon that serves as both scout and hunting companion. Her light leather attire favors agility and stealth, allowing her to maneuver swiftly while striking from a distance.
+The Falconer carries a finely crafted hunting bow and fights alongside a fiercely loyal falcon trained to harass and distract her prey. Clad in light leathers suited for stealth and travel, she favors speed, awareness, and precision over brute protection.
 
 ---
 

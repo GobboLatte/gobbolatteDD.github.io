@@ -73,7 +73,7 @@
       <img src="_assets/Falconer/Falconer Art.webp" alt="Falconer">
       <div class="hero-card-content">
         <div class="hero-title">Falconer</div>
-        <div class="hero-roles">Bleed / Mark / Ranged</div>
+        <div class="hero-roles">Bleed / Debuff / Ranged</div>
       </div>
     </div>
   </a>

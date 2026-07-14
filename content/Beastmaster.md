@@ -8,6 +8,7 @@ tags:
   - summoner
   - outsiders-bonfire
   - versatile
+  - corpses
 ---
 # Beastmaster
 
@@ -22,28 +23,37 @@ tags:
 </div>
 
 ### Class Description
-The **Beastmaster** is a versatile front-line hunter who adapts his tactics to overcome any quarry. Channeling the spirits of nature and embracing the cycle of life and death, he exploits corpses as a resource to grow stronger or unleash new threats upon his enemies.
+The **Beastmaster** is a versatile front-line hunter who embodies both the ferocity of a predator and the wisdom of a shaman. Harnessing the cycle of life and death, he fights alongside nature's spirits, exploiting corpses to empower himself or summon temporary allies in battle.
 
 </div>
 
 <!-- WIKI RIGHT COLUMN: INFOBOX -->
 <div style="flex: 1; min-width: 280px; max-width: 320px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); border-radius: 6px; padding: 14px; font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">
     <div style="text-align: center; font-weight: bold; font-size: 1.2em; letter-spacing: 1px; background-color: #8a0c0c; color: white; padding: 8px; margin: -14px -14px 12px -14px; border-radius: 6px 6px 0 0; text-transform: uppercase;">BEASTMASTER</div>
-<div style="margin-bottom: 12px; background: #000; padding: 4px; border-radius: 4px;">
-    <img src="_assets/Beastmaster/Beastmaster Art.webp"
-         style="width: 100%; max-width: 300px; height: auto; display: block; margin-left: auto; margin-right: 0;">
-</div>
-    <table style="width: 100%; margin: 0; border-collapse: collapse; font-size: 0.95em; clear: both;">
-        <tr style="border-bottom: 1px solid var(--background-modifier-border);"><td style="padding: 6px 0;"><b>Movement</b></td><td style="text-align: right; padding: 6px 0;">See "Prowl"</td></tr>
-        <tr style="border-bottom: 1px solid var(--background-modifier-border);"><td style="padding: 6px 0;"><b>Crit Buff</b></td><td style="text-align: right; padding: 6px 0; color: #ffbc42;">Bleed Target 1pt/rd for 2rds / +7 CRIT vs Bleeding</td></tr>
-        <tr style="border-bottom: 1px solid var(--background-modifier-border);"><td style="padding: 6px 0;"><b>Religious</b></td><td style="text-align: right; padding: 6px 0;">No</td></tr>
-        <tr><td style="padding: 6px 0;"><b>Provisions</b></td><td style="text-align: right; padding: 6px 0;">Medicinal Herb x1</td></tr>
+    <div style="margin-bottom: 12px; background: #000; padding: 4px; border-radius: 4px;">
+        <img src="_assets/Beastmaster/Beastmaster Art.webp" style="width: 100%; max-width: 300px; height: auto; display: block; margin-left: auto; margin-right: 0;">
+    </div>
+    <table style="width: 100%; margin: 0; border-collapse: collapse; font-size: 0.95em; clear: both; line-height: 1.3;">
+        <tr style="border-bottom: 1px solid var(--background-modifier-border);">
+            <td style="padding: 6px 0; vertical-align: middle;"><b>Movement</b></td>
+            <td style="text-align: right; padding: 6px 0; vertical-align: middle;">See "Prowl"</td>
+        </tr>
+        <tr style="border-bottom: 1px solid var(--background-modifier-border);">
+            <td style="padding: 6px 0; vertical-align: middle;"><b>Crit Buff</b></td>
+            <td style="text-align: right; padding: 6px 0; vertical-align: middle; color: #ffbc42;">
+                <div style="display: inline-block; text-align: right; line-height: 1.3;">Bleed Target 1pt/rd for 2rds / +7 CRIT vs Bleeding</div>
+            </td>
+        </tr>
+        <tr style="border-bottom: 1px solid var(--background-modifier-border);">
+            <td style="padding: 6px 0; vertical-align: middle;"><b>Religious</b></td>
+            <td style="text-align: right; padding: 6px 0; vertical-align: middle;">No</td>
+        </tr>
+        <tr>
+            <td style="padding: 6px 0; vertical-align: middle;"><b>Provisions</b></td>
+            <td style="text-align: right; padding: 6px 0; vertical-align: middle;">Medicinal Herb x1</td>
+        </tr>
     </table>
 </div>
-
-</div>
-
-<div style="page-break-before: always;"></div>
 
 ---
 
@@ -150,7 +160,7 @@ The **Beastmaster** is a versatile front-line hunter who adapts his tactics to o
 
 ## Combat Skills Overview
 
-The Beastmaster's combat skills reward adaptability, allowing him to shift between aggressive assaults, tactical repositioning, stealth, and powerful counterattacks. He can consume or manipulate corpses to fuel his abilities, while calling upon spirits and shamanic magic to support both himself and his allies.
+The Beastmaster's combat skills reward adaptability through a blend of aggressive melee combat and spiritual guidance. He inflicts Bleed, shifts between frontline aggression and tactical repositioning, and manipulates corpses to strengthen himself or call forth allies born from nature's endless cycle.
 
 ### Move List
 
@@ -493,7 +503,7 @@ The Beastmaster's combat skills reward adaptability, allowing him to shift betwe
 
 ## Camping Skills
 
-The Beastmaster's camping skills emphasize wilderness survival, exploration, and natural healing. He can gather resources unique to the surrounding environment, improve the party's scouting capabilities, and use shamanic remedies to cure his own diseases while producing rare medicinal ingredients.
+The Beastmaster's camping skills emphasize survival, exploration, and communion with the natural world. Through herbal remedies, spiritual rituals, and expert tracking, he improves scouting, gathers useful resources, and prepares the party for the dangers ahead.
 
 <!-- CAMPING SKILL CARD -->
 <div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
@@ -632,7 +642,7 @@ The Beastmaster's camping skills emphasize wilderness survival, exploration, and
 
 ## Equipment
 
-The Beastmaster wields a hunting spear alongside the spiritual essence of beasts that inhabit his tattooed body. His tribal attire, adorned with hides, bones, and ritual fetishes, reflects his role as both hunter and shaman of the wilds.
+The Beastmaster fights with paired hunting blades and ritual tattoos that bind the spirits of nature to his flesh. Eschewing heavy armor, he relies upon speed, instinct, and shamanic magic to survive where steel alone would fail.
 
 ---
 

@@ -17,12 +17,12 @@ tags:
 <div style="flex: 2; min-width: 320px;">
 
 <div style="background-color: #141414 !important; border: 1px solid #3a1111 !important; border-left: 5px solid #cd1010 !important; padding: 16px; margin-bottom: 24px; border-radius: 4px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
-    <p style="margin: 0 0 8px 0 !important; color: #e2d6b5 !important; font-style: italic; font-size: 1.05em; line-height: 1.5;">"Death is said to be the great equalizer. Yet even it has become unreliable."</p>
+    <p style="margin: 0 0 8px 0 !important; color: #e2d6b5 !important; font-style: italic; font-size: 1.05em; line-height: 1.5;">"Blood is a curious thing. It nourishes the body, seals sacred oaths... and, in the wrong hands, becomes a weapon more terrible than any forged of steel."</p>
     <p style="margin: 0 !important; color: #bfa67a !important; font-weight: bold; text-align: right; font-size: 0.95em;">— The Ancestor</p>
 </div>
 
 ### Class Description
-The **Revenant** is an undead warrior driven by unfinished purpose. They excel at enduring overwhelming punishment. His abilities reward fighting at Death's Door, allowing him to shield allies and retaliate with relentless determination.
+The **Revenant** is a heavily armored blood knight who thrives amidst chaos and suffering. Drawing strength from dark magic and the lifeblood of those around him, he endures relentless punishment while weakening friend and foe alike to fuel his own unholy power.
 
 </div>
 
@@ -144,7 +144,7 @@ style="width: 100%; max-width: 300px; height: auto; display: block; margin-left:
 
 ## Combat Skills Overview
 
-Dark and corrupted, the Revenant is a sanguine knight with unmatched durability. As a master of the dark arts, he saps the blood of his adversaries at a cost, weakens them and empowers himself as his enemies bleed. He strives to preserve order through chaos and destruction.
+The Revenant's combat skills revolve around durability, life-draining attacks, and self-empowerment. He inflicts Bleed, weakens his enemies, and sacrifices the wellbeing of his allies to sustain himself, becoming increasingly difficult to bring down as battle drags on.
 
 ### Move List
 
@@ -471,7 +471,7 @@ Dark and corrupted, the Revenant is a sanguine knight with unmatched durability.
 
 ## Camping Skills
 
-Revenant is a blood knight from the ancient age. Despised by many for a very good reason, he weakens his group to strengthen himself however, we need all the help we can get in these dire times.
+The Revenant's camping skills emphasize ruthless preparation and grim endurance. Through dark rituals and martial discipline, he hardens himself for the battles ahead, often demanding sacrifices from the party in exchange for greater strength.
 
 <!-- CAMPING SKILL CARD -->
 <div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
@@ -583,7 +583,7 @@ Revenant is a blood knight from the ancient age. Despised by many for a very goo
 
 ## Equipment
 
-The Revenant is nothing without his reaver, his shield, and his heavy armor. All of his gear is imbued with powerful dark magic - some even say it's possessed. His unbreakable shield bleeds his enemies, and his bloodthirsty reaver breaks them.
+The Revenant marches into battle clad in heavy armor and bearing an enchanted shield alongside a cursed reaver, each imbued with ancient blood magic. These possessed relics feed upon the suffering of the living, transforming spilled blood into terrifying resilience and strength.
 
 ---
 

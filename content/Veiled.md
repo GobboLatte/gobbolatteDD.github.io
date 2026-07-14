@@ -154,7 +154,8 @@ The **Veiled** is a risk-reward support hero whose necromantic powers grow stron
 
 ## Passive Effects
 
-* Upon reaching <span style="color:#7d0800;">Death's Door</span>: Party: +10% <span style="color:#7d0800;">Death Blow</span> Resist / +3 SPD / +10 ACC / +5 CRIT / +25% <span style="color:#27c722;">Healing</span> Received
+* Upon reaching <span style="color:#7d0800;">Death's Door</span>: Self: +10% <span style="color:#7d0800;">Death Blow</span> Resist / +3 SPD / +10 ACC / +5 CRIT
+* Upon reaching <span style="color:#7d0800;">Death's Door</span>:  Party: +25% <span style="color:#27c722;">Healing</span> Received (2 rds)
 * On <span style="color:#7d0800;">Death</span>: Party: +20% <span style="color:#7d0800;">Death Blow</span> Resist (Quest)
 * Immune to <span style="color:#7d0800;">Death Blow</span> from <span style="color:#57871e;">Blight</span>
 
@@ -165,4 +166,107 @@ The **Veiled** is a risk-reward support hero whose necromantic powers grow stron
 The Veiled's combat skills revolve around controlled self-sacrifice. As his health declines, his abilities gain increasingly powerful effects, allowing him to heal allies, stun enemies, and ultimately unlock devastating techniques while standing upon Death's Door.
 
 ### Move List
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #7a1515; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Veiled/veiled.ability.one.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Disfigure</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Melee</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Damage</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Accuracy</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Crit Mod</th>
+                <th style="padding: 8px; text-align: left; width: 25%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 15%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#ffbc42;;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; vertical-align: middle;">+0%</td>
+                <td style="padding: 10px; vertical-align: middle;">85</td>
+                <td style="padding: 10px; vertical-align: middle;">+1.0%</td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#f5ce0c; font-weight:bold;">Stun</span> (65% Base)<br>
+                        <span style="color:#dbd37b;">If Below 70% HP</span><br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -5% <span style="color:#7d0800; font-weight:bold;">Death Blow</span> Chance (100% Base)<br>
+                        <span style="color:#dbd37b;">If Below 40% HP</span><br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -5% <span style="color:#7d0800; font-weight:bold;">Death Blow</span> Chance (100% Base) / -10% DMG (100% Base)<br>
+                        <span style="color:#dbd37b;">If Below 10% HP</span><br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -5% <span style="color:#7d0800; font-weight:bold;">Death Blow</span> Chance (100% Base) / -10% DMG (100% Base) / -6 CRIT (100% Base)
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        -
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+---
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #7a1515; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Veiled/veiled.ability.two.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Enfeeblement</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Ranged</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank</th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Damage</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Accuracy</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Crit Mod</th>
+                <th style="padding: 8px; text-align: left; width: 25%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 15%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span></td>
+                <td style="padding: 10px; vertical-align: middle;">-100%</td>
+                <td style="padding: 10px; vertical-align: middle;">95</td>
+                <td style="padding: 10px; vertical-align: middle;">-</td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#b23522; font-weight:bold;">Mark</span> Target / <span style="color:#f5ce0c; font-weight:bold;">Stun</span> (65% Base)<br>
+                        <span style="color:#dbd37b;">If Below 70% HP</span><br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -6 DODGE (100% Base)<br>
+                        <span style="color:#dbd37b;">If Below 40% HP</span><br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -6 DODGE (100% Base)<br>
+                        <span style="color:#6d35a3; font-weight:bold;">De-Stealth</span> / Ignores <span style="color:#6d35a3; font-weight:bold;">Stealth</span><br>
+                        <span style="color:#dbd37b;">If Below 10% HP</span><br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -6 DODGE (100% Base)<br>
+                        <span style="color:#6d35a3; font-weight:bold;">De-Stealth</span> / Ignores <span style="color:#6d35a3; font-weight:bold;">Stealth</span><br>
+                        <span style="color:#f5ce0c; font-weight:bold;">Stun</span> (110% Base)
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        Suffer 2 DMG
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+---
 

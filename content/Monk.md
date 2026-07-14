@@ -8,6 +8,7 @@ tags:
   - healer
   - mobile
   - support
+  - frontline
 ---
 # Monk
 
@@ -22,28 +23,40 @@ tags:
 </div>
 
 ### Class Description
-The **Monk** is a mobile support fighter who channels his inner Ki to strengthen both himself and his companions. Combining disciplined martial arts with restorative techniques, he excels at sustaining the party through healing, protection, and strikes fueled by self-sacrifice.
+The **Monk** is a disciplined martial artist who channels the flow of Ki to empower both himself and his companions. Through fluid movement, devastating unarmed strikes, and selfless sacrifice, he balances offense and support while remaining steadfast in the face of adversity.
 
 </div>
 
 <!-- WIKI RIGHT COLUMN: INFOBOX -->
 <div style="flex: 1; min-width: 280px; max-width: 320px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); border-radius: 6px; padding: 14px; font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">
     <div style="text-align: center; font-weight: bold; font-size: 1.2em; letter-spacing: 1px; background-color: #8a0c0c; color: white; padding: 8px; margin: -14px -14px 12px -14px; border-radius: 6px 6px 0 0; text-transform: uppercase;">MONK</div>
-<div style="margin-bottom: 12px; background: #000; padding: 4px; border-radius: 4px;">
-    <img src="_assets/Monk/Monk Portrait Art.png"
-         style="width: 100%; max-width: 300px; height: auto; display: block; margin-left: auto; margin-right: 0;">
-</div>
-    <table style="width: 100%; margin: 0; border-collapse: collapse; font-size: 0.95em; clear: both;">
-        <tr style="border-bottom: 1px solid var(--background-modifier-border);"><td style="padding: 6px 0;"><b>Movement</b></td><td style="text-align: right; padding: 6px 0;">3 Fwd, 1 Back</td></tr>
-        <tr style="border-bottom: 1px solid var(--background-modifier-border);"><td style="padding: 6px 0;"><b>Crit Buff</b></td><td style="text-align: right; padding: 6px 0; color: #ffbc42;">Self: +10 DODGE<br>Party: Heal 4% HP</td></tr>
-        <tr style="border-bottom: 1px solid var(--background-modifier-border);"><td style="padding: 6px 0;"><b>Religious</b></td><td style="text-align: right; padding: 6px 0;">Yes</td></tr>
-        <tr><td style="padding: 6px 0;"><b>Provisions</b></td><td style="text-align: right; padding: 6px 0;">None</td></tr>
+    <div style="margin-bottom: 12px; background: #000; padding: 4px; border-radius: 4px;">
+        <img src="_assets/Monk/Monk Portrait Art.png" style="width: 100%; max-width: 300px; height: auto; display: block; margin-left: auto; margin-right: 0;">
+    </div>
+    <table style="width: 100%; margin: 0; border-collapse: collapse; font-size: 0.95em; clear: both; line-height: 1.3;">
+        <tr style="border-bottom: 1px solid var(--background-modifier-border);">
+            <td style="padding: 6px 0; vertical-align: middle;"><b>Movement</b></td>
+            <td style="text-align: right; padding: 6px 0; vertical-align: middle;">3 Fwd, 1 Back</td>
+        </tr>
+        <tr style="border-bottom: 1px solid var(--background-modifier-border);">
+            <td style="padding: 10px 0 6px 0; vertical-align: top;"><b>Crit Buff</b></td>
+            <td style="text-align: right; padding: 10px 0 6px 0; vertical-align: top;">
+                <div style="display: inline-block; text-align: right; line-height: 1.3; color: #ffbc42;">
+                    Self: +10 DODGE<br>
+                    Party: Heal 4% HP
+                </div>
+            </td>
+        </tr>
+        <tr style="border-bottom: 1px solid var(--background-modifier-border);">
+            <td style="padding: 6px 0; vertical-align: middle;"><b>Religious</b></td>
+            <td style="text-align: right; padding: 6px 0; vertical-align: middle;">Yes</td>
+        </tr>
+        <tr>
+            <td style="padding: 6px 0; vertical-align: middle;"><b>Provisions</b></td>
+            <td style="text-align: right; padding: 6px 0; vertical-align: middle;">None</td>
+        </tr>
     </table>
 </div>
-
-</div>
-
-<div style="page-break-before: always;"></div>
 
 ---
 
@@ -150,8 +163,7 @@ The **Monk** is a mobile support fighter who channels his inner Ki to strengthen
 
 ## Combat Skills Overview
 
-
-The Monk's combat skills blend fluid movement with supportive martial arts. His techniques allow him to reposition across the battlefield, disable enemies, and unleash powerful blows that restore allies through the flow of Ki, while his spiritual abilities offer healing and defensive support at the expense of his own vitality.
+The Monk's combat skills blend agile martial arts with restorative techniques fueled by Ki. He flows across the battlefield with powerful strikes, stunning and repositioning enemies while healing, protecting, and inspiring allies at the cost of his own vitality.
 
 ---
 
@@ -356,7 +368,7 @@ The Monk's combat skills blend fluid movement with supportive martial arts. His 
                     <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span>
                 </td>
                 <td style="padding: 10px; text-align: left; line-height: 1.5; vertical-align: middle;">
-                    <span style="color:#27c722; font-weight:bold;">Heal</span> 1-1<br><span style="color:#27c722; font-weight:bold;">Heal</span> 20% HP<br>(Cannot Target Self)
+                    <span style="color:#27c722; font-weight:bold;">Heal</span> 1-1<br><span style="color:#27c722; font-weight:bold;">Heal</span> 20% HP<br><span style="font-style: italic; opacity: 0.8;">(Effects Don't Apply to Self)</span>
                 </td>
                 <td style="padding: 10px; text-align: left; line-height: 1.5; vertical-align: middle;">
                     Suffer 5 DMG / -10 DODGE / -10 PROT
@@ -443,7 +455,7 @@ The Monk's combat skills blend fluid movement with supportive martial arts. His 
 
 ## Camping Skills
 
-The Monk's camping skills reflect years of meditation and spiritual discipline. He can relieve stress, cure diseases, restore vitality, and prepare the party for the trials ahead through wisdom, meditation, and traditional spiritual techniques.
+The Monk's camping skills reflect years of meditation, spiritual discipline, and holistic healing. Through guidance, acupressure, and traditional remedies, he relieves stress, cures disease, and restores the party's strength before the next battle.
 
 <div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
     <div style="background-color: #3e332a; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
@@ -551,5 +563,5 @@ The Monk's camping skills reflect years of meditation and spiritual discipline. 
 
 ## Equipment
 
-The monk practices an unarmed combat style that relies on neither heavy armor nor weapons to be effective, preferring light equipment that minimizes the burden on his movements.
+The monk practices an unarmed combat style that relies on neither heavy armor nor weapons to be effective, preferring light equipment that minimizes the burden on his movements. His body, tempered through years of rigorous training, serves as both a deadly weapon and a conduit through which Ki flows to aid his companions.
 

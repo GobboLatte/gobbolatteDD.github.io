@@ -491,8 +491,8 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                 <td style="padding: 10px; text-align: left; line-height: 1.5; vertical-align: middle;">
                     <span style="color:#dbd37b;">Uses Per Battle: 1</span><br>
                     Next Attack Kill: <span style="color:#27c722; font-weight:bold;">Heal</span> 20% Max HP<br>
-                    <span style="font-weight:bold;">Stress</span> -8<br>
-                    <span style="color:#3ac2de; font-weight:bold;">Buff Target:</span> +10% DMG
+                    <span style="font-weight:bold;">Stress</span>: -8<br>
+                    <span style="color:#3ac2de; font-weight:bold;">Buff Target</span>: +10% DMG
                 </td>
             </tr>
         </tbody>

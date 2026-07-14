@@ -290,21 +290,23 @@ The Veiled's combat skills revolve around controlled self-sacrifice. As his heal
         <tbody>
             <tr style="border-bottom: 1px solid #383830; text-align: center;">
                 <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
-                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">●</span> <span style="color:#ff4d4d;">●</span> <span style="color:#7a1515;">x</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;">
+                    <span style="color:#27c722;">● ● ● ●</span>
+                </td>
                 <td style="padding: 10px; text-align: left; vertical-align: middle;">
                     <div style="line-height: 1.4; display: block;">
-                        <span style="color:#f5ce0c; font-weight:bold;">Stun</span> (65% Base)<br>
+                        <span style="color:#27c722; font-weight:bold;">Heal</span> 4-6<br>
                         <span style="color:#dbd37b;">If Below 70% HP</span><br>
-                        <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -5% <span style="color:#7d0800; font-weight:bold;">Death Blow</span> Chance (100% Base)<br>
+                        Cure <span style="color:#a81919; font-weight:bold;">Bleed</span><br>
                         <span style="color:#dbd37b;">If Below 40% HP</span><br>
-                        <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -5% <span style="color:#7d0800; font-weight:bold;">Death Blow</span> Chance (100% Base) / -10% DMG (100% Base)<br>
+                        Cure <span style="color:#a81919; font-weight:bold;">Bleed</span> / Clear Horror<br>
                         <span style="color:#dbd37b;">If Below 10% HP</span><br>
-                        <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -5% <span style="color:#7d0800; font-weight:bold;">Death Blow</span> Chance (100% Base) / -10% DMG (100% Base) / -6 CRIT (100% Base)
+                        Cure <span style="color:#a81919; font-weight:bold;">Bleed</span> / Clear Horror / +10% <span style="color:#27c722; font-weight:bold;">Healing</span> Received
                     </div>
                 </td>
                 <td style="padding: 10px; text-align: left; vertical-align: middle;">
                     <div style="line-height: 1.4; display: block;">
-                        -
+                        Suffer 2 DMG
                     </div>
                 </td>
             </tr>

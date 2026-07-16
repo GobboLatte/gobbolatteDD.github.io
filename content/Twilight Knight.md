@@ -586,3 +586,4 @@ The Twilight Knight wields an ancient sentient greatsword and carries a softly g
 ## Trivia
 
 * The Twilight Knight's canon name is Allison. 
+* The Twilight Knight originates from Kingdom of Death.

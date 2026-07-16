@@ -409,3 +409,96 @@ The Veiled's combat skills revolve around controlled self-sacrifice. As his heal
         </tbody>
     </table>
 </div>
+
+---
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #7a1515; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Veiled/veiled.ability.six.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Pierce the Veil</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Ranged</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank<br><span style="font-size: 0.85em; font-weight: normal; color: #8c7a5a;">Valid Below 0% HP</span></th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Damage</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Accuracy</th>
+                <th style="padding: 8px; text-align: center; width: 10%;">Crit Mod</th>
+                <th style="padding: 8px; text-align: left; width: 25%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 15%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#7a1515;">x</span> <span style="color:#ffbc42;;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ff4d4d;">● ● ●</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; vertical-align: middle;">+90%</td>
+                <td style="padding: 10px; vertical-align: middle;">140</td>
+                <td style="padding: 10px; vertical-align: middle;">+8.0%</td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#dbd37b">Uses Per Battle: 2</span><br>
+                        <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -15 CRIT (120% Base)<br>
+                        Enemy Party: <span style="color:#f5ce0c; font-weight:bold;">Stun</span> (110% Base)
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#27c722; font-weight:bold;">Heal</span> 30% HP<br>
+                        +15% <span style="font-weight:bold;">Stress</span> Received / -20% <span style="color:#27c722; font-weight:bold;">Healing</span> Received
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+---
+
+<div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
+    <div style="background-color: #2e5c35; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+            <img src="_assets/Veiled/veiled.ability.seven.png" style="width: 42px !important; height: 42px !important; background: #000; border: 1px solid #383830; display: inline-block; object-fit: contain;">
+            <span>Death Wish</span>
+        </div>
+        <span style="font-size: 0.8em; color: #e2d6b5; text-transform: uppercase; background: rgba(0,0,0,0.3); padding: 2px 8px; border-radius: 3px;">Heal</span>
+    </div>
+    <table style="width: 100%; border-collapse: collapse; margin: 0; font-size: 0.9em; background-color: #242424;">
+        <thead>
+            <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+                <th style="padding: 8px; text-align: center; width: 15%;">Rank<br><span style="font-size: 0.85em; font-weight: normal; color: #8c7a5a;">Valid Below 0% HP</span></th>
+                <th style="padding: 8px; text-align: center; width: 15%;">Target</th>
+                <th style="padding: 8px; text-align: left; width: 25%;">Effect</th>
+                <th style="padding: 8px; text-align: left; width: 15%;">Self</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid #383830; text-align: center;">
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#7a1515;">x</span></td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;">
+                    <span style="color:#27c722;">● ● ● ●</span>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#dbd37b">Uses Per Battle: 2</span><br>
+                        <span style="font-weight:bold;">Stress</span>: +2 / Clear <span style="color:#f5ce0c; font-weight:bold;">Stun</span> / Clear <span style="color:#d4611e; font-weight:bold;">Debuffs</span><br>
+                        <span style="color:#27c722; font-weight:bold;">Heal</span> Party 2pts/rd for 3 rds
+                    </div>
+                </td>
+                <td style="padding: 10px; text-align: left; vertical-align: middle;">
+                    <div style="line-height: 1.4; display: block;">
+                        <span style="color:#27c722; font-weight:bold;">Heal</span> 30% HP<br>
+                        +10% <span style="font-weight:bold;">Stress</span> Received / -50% <span style="color:#27c722; font-weight:bold;">Healing</span> Received
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+---
+

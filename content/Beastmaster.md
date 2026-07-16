@@ -61,46 +61,71 @@ The **Beastmaster** is a versatile front-line hunter who embodies both the feroc
 
 <table style="width: 100%; border-collapse: collapse; background-color: #242424; margin-top: 10px; margin-bottom: 24px;">
     <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-        <th style="padding: 8px; text-align: left; width: 40%;">Attribute</th>
-        <th style="padding: 8px; text-align: center; width: 30%;">Resolve 1</th>
-        <th style="padding: 8px; text-align: center; width: 30%;">Resolve 5</th>
+        <th style="padding: 8px; text-align: left; width: 25%;">Attribute</th>
+        <th style="padding: 8px; text-align: center; width: 15%;">Resolve 1</th>
+        <th style="padding: 8px; text-align: center; width: 15%;">Resolve 2</th>
+        <th style="padding: 8px; text-align: center; width: 15%;">Resolve 3</th>
+        <th style="padding: 8px; text-align: center; width: 15%;">Resolve 4</th>
+        <th style="padding: 8px; text-align: center; width: 15%;">Resolve 5</th>
     </tr>
     <tr style="border-bottom: 1px solid #383830;">
         <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">MAX HP</td>
         <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">21</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">25</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">29</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">33</td>
         <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">37</td>
     </tr>
     <tr style="border-bottom: 1px solid #383830;">
         <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">DODGE</td>
         <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">10</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">15</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">20</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">25</td>
         <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">30</td>
     </tr>
     <tr style="border-bottom: 1px solid #383830;">
         <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">PROT</td>
         <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0%</td>
         <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0%</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0%</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0%</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0%</td>
     </tr>
     <tr style="border-bottom: 1px solid #383830;">
         <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">SPD</td>
         <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">6</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">7</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">8</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">9</td>
         <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">10</td>
     </tr>
     <tr style="border-bottom: 1px solid #383830;">
         <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">ACC MOD</td>
         <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0</td>
         <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0</td>
     </tr>
     <tr style="border-bottom: 1px solid #383830;">
         <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">CRIT</td>
         <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">5%</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">6%</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">7%</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">8%</td>
         <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">9%</td>
     </tr>
     <tr>
         <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">DMG</td>
         <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">6 - 9</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">7 - 10</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">8 - 11</td>
+        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">9 - 11</td>
         <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">10 - 13</td>
     </tr>
 </table>
+
 
 
 ### Resistances
@@ -164,7 +189,7 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
 
 ### Move List
 
-<!-- BUFF/DEFENSE TYPE SKILL (BLUE) -->
+<!-- MOVEMENT TYPE SKILL (BLUE) -->
 <div style="margin-bottom: 28px; background-color: #242424; border: 1px solid #383830; border-radius: 4px; overflow: hidden; page-break-inside: avoid; break-inside: avoid;">
     <div style="background-color: #244671; padding: 10px 14px; font-weight: bold; font-size: 1.15em; color: #fffb82; display: flex; align-items: center; justify-content: space-between;">
         <div style="display: flex; align-items: center; gap: 12px;">
@@ -238,6 +263,58 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                     </div>
                 </td>
             </tr>
+            <!-- COLLAPSABLE DETAILS ROW -->
+            <tr>
+                <td colspan="7" style="padding: 0;">
+                    <details style="width: 100%;">
+                        <summary style="display: flex; justify-content: space-between; align-items: center; padding: 8px 14px; background-color: #1a1a1a; color: #bfa67a; font-weight: bold; cursor: pointer; font-size: 0.95em; outline: none; border-bottom: 1px solid #383830; user-select: none;">
+                            <span style="letter-spacing: 0.5px;">Further levels</span>
+                            <span style="color: #ffbc42; font-size: 0.9em; font-weight: bold;">[Expand/Collapse]</span>
+                        </summary>
+                        <table style="width: 100%; border-collapse: collapse; margin: 0; background-color: #1c1c1c; font-size: 0.95em;">
+                            <thead>
+                                <tr style="background-color: #151515; color: #8c7a5a; font-size: 0.85em; border-bottom: 1px solid #2a2a25; text-transform: uppercase;">
+                                    <th style="padding: 6px; text-align: right; width: 30%;">Level</th>
+                                    <th style="padding: 6px; text-align: center; width: 10%;">Damage</th>
+                                    <th style="padding: 6px; text-align: center; width: 10%;">Accuracy</th>
+                                    <th style="padding: 6px; text-align: center; width: 10%;">Crit Mod</th>
+                                    <th style="padding: 6px; text-align: left; width: 40%; padding-left: 15px;">Effect</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
+                                    <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 2</td>
+                                    <td style="padding: 8px;">-60%</td>
+                                    <td style="padding: 8px; color: #ffbc42;">95</td>
+                                    <td style="padding: 8px;">+5.0%</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">—</td>
+                                </tr>
+                                <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
+                                    <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 3</td>
+                                    <td style="padding: 8px;">-60%</td>
+                                    <td style="padding: 8px; color: #ffbc42;">100</td>
+                                    <td style="padding: 8px;">+6.0%</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">—</td>
+                                </tr>
+                                <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
+                                    <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 4</td>
+                                    <td style="padding: 8px;">-60%</td>
+                                    <td style="padding: 8px; color: #ffbc42;">105</td>
+                                    <td style="padding: 8px;">+7.0%</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">—</td>
+                                </tr>
+                                <tr style="text-align: center;">
+                                    <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 5</td>
+                                    <td style="padding: 8px;">-60%</td>
+                                    <td style="padding: 8px; color: #ffbc42;">110</td>
+                                    <td style="padding: 8px;">+8.0%</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">—</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </details>
+                </td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -274,6 +351,43 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                         1 <span style="color:#dbd37b; font-weight:bold;">Block</span><br>
                         When Hit: <span style="color:#bd7513; font-weight:bold;">Counter</span> Once: 95 ACC Base / +20% DMG / +2% CRIT
                     </div>
+                </td>
+            </tr>
+            <!-- COLLAPSABLE DETAILS ROW -->
+            <tr>
+                <td colspan="3" style="padding: 0;">
+                    <details style="width: 100%;">
+                        <summary style="display: flex; justify-content: space-between; align-items: center; padding: 8px 14px; background-color: #1a1a1a; color: #bfa67a; font-weight: bold; cursor: pointer; font-size: 0.95em; outline: none; border-bottom: 1px solid #383830; user-select: none;">
+                            <span style="letter-spacing: 0.5px;">Further levels</span>
+                            <span style="color: #ffbc42; font-size: 0.9em; font-weight: bold;">[Expand/Collapse]</span>
+                        </summary>
+                        <table style="width: 100%; border-collapse: collapse; margin: 0; background-color: #1c1c1c; font-size: 0.95em;">
+                            <thead>
+                                <tr style="background-color: #151515; color: #8c7a5a; font-size: 0.85em; border-bottom: 1px solid #2a2a25; text-transform: uppercase;">
+                                    <th style="padding: 6px; text-align: right; width: 30%;">Level</th>
+                                    <th style="padding: 6px; text-align: left; width: 40%; padding-left: 15px;">Effect</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
+                                    <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 2</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><span style="color:#bd7513; font-weight:bold;">Counter</span> Once: 100 ACC Base / +20% DMG / +3% CRIT</td>
+                                </tr>
+                                <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
+                                    <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 3</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><span style="color:#bd7513; font-weight:bold;">Counter</span> Once: 105 ACC Base / +20% DMG / +4% CRIT</td>
+                                </tr>
+                                <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
+                                    <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 4</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><span style="color:#bd7513; font-weight:bold;">Counter</span> Once: 110 ACC Base / +20% DMG / +5% CRIT</td>
+                                </tr>
+                                <tr style="text-align: center;">
+                                    <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 5</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><span style="color:#bd7513; font-weight:bold;">Counter</span> Once: 115 ACC Base / +20% DMG / +6% CRIT</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </details>
                 </td>
             </tr>
         </tbody>
@@ -321,6 +435,58 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                     <div style="line-height: 1.4; display: block;">
                         <span style="color:#1d6bb3; font-weight:bold;">Forward</span> 3
                     </div>
+                </td>
+            </tr>
+<!-- COLLAPSABLE DETAILS ROW -->
+            <tr>
+                <td colspan="7" style="padding: 0;">
+                    <details style="width: 100%;">
+                        <summary style="display: flex; justify-content: space-between; align-items: center; padding: 8px 14px; background-color: #1a1a1a; color: #bfa67a; font-weight: bold; cursor: pointer; font-size: 0.95em; outline: none; border-bottom: 1px solid #383830; user-select: none;">
+                            <span style="letter-spacing: 0.5px;">Further levels</span>
+                            <span style="color: #ffbc42; font-size: 0.9em; font-weight: bold;">[Expand/Collapse]</span>
+                        </summary>
+                        <table style="width: 100%; border-collapse: collapse; margin: 0; background-color: #1c1c1c; font-size: 0.95em;">
+                            <thead>
+                                <tr style="background-color: #151515; color: #8c7a5a; font-size: 0.85em; border-bottom: 1px solid #2a2a25; text-transform: uppercase;">
+                                    <th style="padding: 6px; text-align: right; width: 30%;">Level</th>
+                                    <th style="padding: 6px; text-align: center; width: 10%;">Damage</th>
+                                    <th style="padding: 6px; text-align: center; width: 10%;">Accuracy</th>
+                                    <th style="padding: 6px; text-align: center; width: 10%;">Crit Mod</th>
+                                    <th style="padding: 6px; text-align: left; width: 40%; padding-left: 15px;">Effect</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
+                                    <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 2</td>
+                                    <td style="padding: 8px;">+10%</td>
+                                    <td style="padding: 8px; color: #ffbc42;">95</td>
+                                    <td style="padding: 8px;">+3.0%</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">—</td>
+                                </tr>
+                                <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
+                                    <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 3</td>
+                                    <td style="padding: 8px;">+10%</td>
+                                    <td style="padding: 8px; color: #ffbc42;">100</td>
+                                    <td style="padding: 8px;">+4.0%</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">—</td>
+                                </tr>
+                                <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
+                                    <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 4</td>
+                                    <td style="padding: 8px;">+10%</td>
+                                    <td style="padding: 8px; color: #ffbc42;">105</td>
+                                    <td style="padding: 8px;">+5.0%</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">—</td>
+                                </tr>
+                                <tr style="text-align: center;">
+                                    <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 5</td>
+                                    <td style="padding: 8px;">+10%</td>
+                                    <td style="padding: 8px; color: #ffbc42;">110</td>
+                                    <td style="padding: 8px;">+6.0%</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">—</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </details>
                 </td>
             </tr>
         </tbody>

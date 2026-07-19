@@ -126,8 +126,6 @@ The **Beastmaster** is a versatile front-line hunter who embodies both the feroc
     </tr>
 </table>
 
-
-
 ### Resistances
 
 <table style="width: 100%; border-collapse: collapse; background-color: #242424; margin-top: 10px;">
@@ -263,7 +261,7 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                     </div>
                 </td>
             </tr>
-            <!-- COLLAPSABLE DETAILS ROW -->
+                        <!-- COLLAPSABLE DETAILS ROW -->
             <tr>
                 <td colspan="7" style="padding: 0;">
                     <details style="width: 100%;">
@@ -274,11 +272,12 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                         <table style="width: 100%; border-collapse: collapse; margin: 0; background-color: #1c1c1c; font-size: 0.95em;">
                             <thead>
                                 <tr style="background-color: #151515; color: #8c7a5a; font-size: 0.85em; border-bottom: 1px solid #2a2a25; text-transform: uppercase;">
-                                    <th style="padding: 6px; text-align: right; width: 30%;">Level</th>
+                                    <th style="padding: 6px; text-align: right; width: 20%;">Level</th>
                                     <th style="padding: 6px; text-align: center; width: 10%;">Damage</th>
                                     <th style="padding: 6px; text-align: center; width: 10%;">Accuracy</th>
                                     <th style="padding: 6px; text-align: center; width: 10%;">Crit Mod</th>
-                                    <th style="padding: 6px; text-align: left; width: 40%; padding-left: 15px;">Effect</th>
+                                    <th style="padding: 6px; text-align: left; width: 25%; padding-left: 15px;">Effect</th>
+                                    <th style="padding: 6px; text-align: left; width: 25%; padding-left: 15px;">Self</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -287,28 +286,32 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                                     <td style="padding: 8px;">-60%</td>
                                     <td style="padding: 8px; color: #ffbc42;">95</td>
                                     <td style="padding: 8px;">+5.0%</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">+6 CRIT vs Beasts</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">+6 CRIT vs Beasts</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
                                 </tr>
                                 <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
                                     <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 3</td>
                                     <td style="padding: 8px;">-60%</td>
                                     <td style="padding: 8px; color: #ffbc42;">100</td>
                                     <td style="padding: 8px;">+6.0%</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">+7 CRIT vs Beasts</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">+7 CRIT vs Beasts</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
                                 </tr>
                                 <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
                                     <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 4</td>
                                     <td style="padding: 8px;">-60%</td>
                                     <td style="padding: 8px; color: #ffbc42;">105</td>
                                     <td style="padding: 8px;">+7.0%</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">+8 CRIT vs Beasts</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">+8 CRIT vs Beasts</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
                                 </tr>
                                 <tr style="text-align: center;">
                                     <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 5</td>
                                     <td style="padding: 8px;">-60%</td>
                                     <td style="padding: 8px; color: #ffbc42;">110</td>
                                     <td style="padding: 8px;">+8.0%</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">+10 CRIT vs Beasts</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">+10 CRIT vs Beasts</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -353,7 +356,7 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                     </div>
                 </td>
             </tr>
-            <!-- COLLAPSABLE DETAILS ROW -->
+                        <!-- COLLAPSABLE DETAILS ROW -->
             <tr>
                 <td colspan="3" style="padding: 0;">
                     <details style="width: 100%;">
@@ -364,26 +367,31 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                         <table style="width: 100%; border-collapse: collapse; margin: 0; background-color: #1c1c1c; font-size: 0.95em;">
                             <thead>
                                 <tr style="background-color: #151515; color: #8c7a5a; font-size: 0.85em; border-bottom: 1px solid #2a2a25; text-transform: uppercase;">
-                                    <th style="padding: 6px; text-align: right; width: 30%;">Level</th>
+                                    <th style="padding: 6px; text-align: right; width: 20%;">Level</th>
                                     <th style="padding: 6px; text-align: left; width: 40%; padding-left: 15px;">Effect</th>
+                                    <th style="padding: 6px; text-align: left; width: 40%; padding-left: 15px;">Self</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
                                     <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 2</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><span style="color:#bd7513; font-weight:bold;">Counter</span> Once: 100 ACC Base / +20% DMG / +3% CRIT</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;"><span style="color:#dbd37b;">Cooldown: 1 rd</span></div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;"><span style="color:#bd7513; font-weight:bold;">Counter</span> Once: 100 ACC Base / +20% DMG / +3% CRIT</div></td>
                                 </tr>
                                 <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
                                     <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 3</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><span style="color:#bd7513; font-weight:bold;">Counter</span> Once: 105 ACC Base / +20% DMG / +4% CRIT</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;"><span style="color:#dbd37b;">Cooldown: 1 rd</span></div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;"><span style="color:#bd7513; font-weight:bold;">Counter</span> Once: 105 ACC Base / +20% DMG / +4% CRIT</div></td>
                                 </tr>
                                 <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
                                     <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 4</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><span style="color:#bd7513; font-weight:bold;">Counter</span> Once: 110 ACC Base / +20% DMG / +5% CRIT</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;"><span style="color:#dbd37b;">Cooldown: 1 rd</span></div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;"><span style="color:#bd7513; font-weight:bold;">Counter</span> Once: 110 ACC Base / +20% DMG / +5% CRIT</div></td>
                                 </tr>
                                 <tr style="text-align: center;">
                                     <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 5</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><span style="color:#bd7513; font-weight:bold;">Counter</span> Once: 115 ACC Base / +20% DMG / +6% CRIT</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;"><span style="color:#dbd37b;">Cooldown: 1 rd</span></div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;"><span style="color:#bd7513; font-weight:bold;">Counter</span> Once: 115 ACC Base / +20% DMG / +6% CRIT</div></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -437,7 +445,7 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                     </div>
                 </td>
             </tr>
-<!-- COLLAPSABLE DETAILS ROW -->
+            <!-- COLLAPSABLE DETAILS ROW -->
             <tr>
                 <td colspan="7" style="padding: 0;">
                     <details style="width: 100%;">
@@ -448,11 +456,12 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                         <table style="width: 100%; border-collapse: collapse; margin: 0; background-color: #1c1c1c; font-size: 0.95em;">
                             <thead>
                                 <tr style="background-color: #151515; color: #8c7a5a; font-size: 0.85em; border-bottom: 1px solid #2a2a25; text-transform: uppercase;">
-                                    <th style="padding: 6px; text-align: right; width: 30%;">Level</th>
+                                    <th style="padding: 6px; text-align: right; width: 20%;">Level</th>
                                     <th style="padding: 6px; text-align: center; width: 10%;">Damage</th>
                                     <th style="padding: 6px; text-align: center; width: 10%;">Accuracy</th>
                                     <th style="padding: 6px; text-align: center; width: 10%;">Crit Mod</th>
-                                    <th style="padding: 6px; text-align: left; width: 40%; padding-left: 15px;">Effect</th>
+                                    <th style="padding: 6px; text-align: left; width: 25%; padding-left: 15px;">Effect</th>
+                                    <th style="padding: 6px; text-align: left; width: 25%; padding-left: 15px;">Self</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -461,28 +470,32 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                                     <td style="padding: 8px;">+10%</td>
                                     <td style="padding: 8px; color: #ffbc42;">95</td>
                                     <td style="padding: 8px;">+3.0%</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">—</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
                                 </tr>
                                 <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
                                     <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 3</td>
                                     <td style="padding: 8px;">+10%</td>
                                     <td style="padding: 8px; color: #ffbc42;">100</td>
                                     <td style="padding: 8px;">+4.0%</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">—</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
                                 </tr>
                                 <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
                                     <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 4</td>
                                     <td style="padding: 8px;">+10%</td>
                                     <td style="padding: 8px; color: #ffbc42;">105</td>
                                     <td style="padding: 8px;">+5.0%</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">—</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
                                 </tr>
                                 <tr style="text-align: center;">
                                     <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 5</td>
                                     <td style="padding: 8px;">+10%</td>
                                     <td style="padding: 8px; color: #ffbc42;">110</td>
                                     <td style="padding: 8px;">+6.0%</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">—</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -536,7 +549,7 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                     </div>
                 </td>
             </tr>
-            <!-- COLLAPSABLE DETAILS ROW -->
+                        <!-- COLLAPSABLE DETAILS ROW -->
             <tr>
                 <td colspan="7" style="padding: 0;">
                     <details style="width: 100%;">
@@ -547,11 +560,12 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                         <table style="width: 100%; border-collapse: collapse; margin: 0; background-color: #1c1c1c; font-size: 0.95em;">
                             <thead>
                                 <tr style="background-color: #151515; color: #8c7a5a; font-size: 0.85em; border-bottom: 1px solid #2a2a25; text-transform: uppercase;">
-                                    <th style="padding: 6px; text-align: right; width: 30%;">Level</th>
+                                    <th style="padding: 6px; text-align: right; width: 20%;">Level</th>
                                     <th style="padding: 6px; text-align: center; width: 10%;">Damage</th>
                                     <th style="padding: 6px; text-align: center; width: 10%;">Accuracy</th>
                                     <th style="padding: 6px; text-align: center; width: 10%;">Crit Mod</th>
-                                    <th style="padding: 6px; text-align: left; width: 40%; padding-left: 15px;">Effect</th>
+                                    <th style="padding: 6px; text-align: left; width: 25%; padding-left: 15px;">Effect</th>
+                                    <th style="padding: 6px; text-align: left; width: 25%; padding-left: 15px;">Self</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -560,28 +574,32 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                                     <td style="padding: 8px;">-40%</td>
                                     <td style="padding: 8px; color: #ffbc42;">90</td>
                                     <td style="padding: 8px;">+2.0%</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><span style="color:#a81919; font-weight:bold;">Bleed</span> (110% Base) 3pts/rd for 2 rds</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;"><span style="color:#a81919; font-weight:bold;">Bleed</span> (110% Base) 3pts/rd for 2 rds</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
                                 </tr>
                                 <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
                                     <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 3</td>
                                     <td style="padding: 8px;">-40%</td>
                                     <td style="padding: 8px; color: #ffbc42;">95</td>
                                     <td style="padding: 8px;">+3.0%</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><span style="color:#a81919; font-weight:bold;">Bleed</span> (120% Base) 4pts/rd for 2 rds</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;"><span style="color:#a81919; font-weight:bold;">Bleed</span> (120% Base) 4pts/rd for 2 rds</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
                                 </tr>
                                 <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
                                     <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 4</td>
                                     <td style="padding: 8px;">-40%</td>
                                     <td style="padding: 8px; color: #ffbc42;">100</td>
                                     <td style="padding: 8px;">+3.0%</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><span style="color:#a81919; font-weight:bold;">Bleed</span> (130% Base) 4pts/rd for 2 rds</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;"><span style="color:#a81919; font-weight:bold;">Bleed</span> (130% Base) 4pts/rd for 2 rds</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
                                 </tr>
                                 <tr style="text-align: center;">
                                     <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 5</td>
                                     <td style="padding: 8px;">-40%</td>
                                     <td style="padding: 8px; color: #ffbc42;">105</td>
                                     <td style="padding: 8px;">+4.0%</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><span style="color:#a81919; font-weight:bold;">Bleed</span> (140% Base) 5pts/rd for 2 rds</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;"><span style="color:#a81919; font-weight:bold;">Bleed</span> (140% Base) 5pts/rd for 2 rds</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -635,7 +653,7 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                     </div>
                 </td>
             </tr>
-            <!-- COLLAPSABLE DETAILS ROW -->
+                        <!-- COLLAPSABLE DETAILS ROW -->
             <tr>
                 <td colspan="7" style="padding: 0;">
                     <details style="width: 100%;">
@@ -646,11 +664,12 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                         <table style="width: 100%; border-collapse: collapse; margin: 0; background-color: #1c1c1c; font-size: 0.95em;">
                             <thead>
                                 <tr style="background-color: #151515; color: #8c7a5a; font-size: 0.85em; border-bottom: 1px solid #2a2a25; text-transform: uppercase;">
-                                    <th style="padding: 6px; text-align: right; width: 30%;">Level</th>
+                                    <th style="padding: 6px; text-align: right; width: 20%;">Level</th>
                                     <th style="padding: 6px; text-align: center; width: 10%;">Damage</th>
                                     <th style="padding: 6px; text-align: center; width: 10%;">Accuracy</th>
                                     <th style="padding: 6px; text-align: center; width: 10%;">Crit Mod</th>
-                                    <th style="padding: 6px; text-align: left; width: 40%; padding-left: 15px;">Effect</th>
+                                    <th style="padding: 6px; text-align: left; width: 25%; padding-left: 15px;">Effect</th>
+                                    <th style="padding: 6px; text-align: left; width: 25%; padding-left: 15px;">Self</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -659,32 +678,48 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                                     <td style="padding: 8px;">-70%</td>
                                     <td style="padding: 8px; color: #ffbc42;">100</td>
                                     <td style="padding: 8px;">+9.0%</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><span style="color:#a81919; font-weight:bold;">Bleed</span> (110% Base) 4pts/rd for 2 rds<br>
-                                    <span style="color:#27c722; font-weight:bold;">Heal</span> 2pts/rd for 2rds</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">
+                                        <div style="line-height: 1.4; display: block;">
+                                            <span style="color:#a81919; font-weight:bold;">Bleed</span> (110% Base) 4pts/rd for 2 rds
+                                        </div>
+                                    </td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;"><span style="color:#27c722; font-weight:bold;">Heal</span> 2pts/rd for 2rds</div></td>
                                 </tr>
                                 <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
                                     <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 3</td>
                                     <td style="padding: 8px;">-70%</td>
                                     <td style="padding: 8px; color: #ffbc42;">110</td>
                                     <td style="padding: 8px;">+10.0%</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><span style="color:#a81919; font-weight:bold;">Bleed</span> (120% Base) 5pts/rd for 2 rds<br>
-                                    <span style="color:#27c722; font-weight:bold;">Heal</span> 3pts/rd for 2rds</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">
+                                        <div style="line-height: 1.4; display: block;">
+                                            <span style="color:#a81919; font-weight:bold;">Bleed</span> (120% Base) 5pts/rd for 2 rds
+                                        </div>
+                                    </td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;"><span style="color:#27c722; font-weight:bold;">Heal</span> 3pts/rd for 2rds</div></td>
                                 </tr>
                                 <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
                                     <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 4</td>
                                     <td style="padding: 8px;">-70%</td>
                                     <td style="padding: 8px; color: #ffbc42;">120</td>
                                     <td style="padding: 8px;">+11.0%</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><span style="color:#a81919; font-weight:bold;">Bleed</span> (130% Base) 5pts/rd for 2 rds<br>
-                                    <span style="color:#27c722; font-weight:bold;">Heal</span> 4pts/rd for 2rds</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">
+                                        <div style="line-height: 1.4; display: block;">
+                                            <span style="color:#a81919; font-weight:bold;">Bleed</span> (130% Base) 5pts/rd for 2 rds
+                                        </div>
+                                    </td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;"><span style="color:#27c722; font-weight:bold;">Heal</span> 4pts/rd for 2rds</div></td>
                                 </tr>
                                 <tr style="text-align: center;">
                                     <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 5</td>
                                     <td style="padding: 8px;">-70%</td>
                                     <td style="padding: 8px; color: #ffbc42;">130</td>
                                     <td style="padding: 8px;">+12.0%</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><span style="color:#a81919; font-weight:bold;">Bleed</span> (140% Base) 6pts/rd for 2 rds<br>
-                                    <span style="color:#27c722; font-weight:bold;">Heal</span> 5pts/rd for 2rds</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">
+                                        <div style="line-height: 1.4; display: block;">
+                                            <span style="color:#a81919; font-weight:bold;">Bleed</span> (140% Base) 6pts/rd for 2 rds
+                                        </div>
+                                    </td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;"><span style="color:#27c722; font-weight:bold;">Heal</span> 5pts/rd for 2rds</div></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -731,7 +766,7 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                     </div>
                 </td>
             </tr>
-            <!-- COLLAPSABLE DETAILS ROW -->
+                        <!-- COLLAPSABLE DETAILS ROW -->
             <tr>
                 <td colspan="4" style="padding: 0;">
                     <details style="width: 100%;">
@@ -742,26 +777,31 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                         <table style="width: 100%; border-collapse: collapse; margin: 0; background-color: #1c1c1c; font-size: 0.95em;">
                             <thead>
                                 <tr style="background-color: #151515; color: #8c7a5a; font-size: 0.85em; border-bottom: 1px solid #2a2a25; text-transform: uppercase;">
-                                    <th style="padding: 6px; text-align: right; width: 30%;">Level</th>
+                                    <th style="padding: 6px; text-align: right; width: 20%;">Level</th>
                                     <th style="padding: 6px; text-align: left; width: 40%; padding-left: 15px;">Effect</th>
+                                    <th style="padding: 6px; text-align: left; width: 40%; padding-left: 15px;">Self</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
                                     <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 2</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">—</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
                                 </tr>
                                 <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
                                     <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 3</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">—</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
                                 </tr>
                                 <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
                                     <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 4</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">—</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
                                 </tr>
                                 <tr style="text-align: center;">
                                     <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 5</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">—</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
                                 </tr>
                             </tbody>
                         </table>

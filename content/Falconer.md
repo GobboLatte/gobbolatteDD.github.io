@@ -50,48 +50,75 @@ A fugitive huntress accompanied by her loyal falcon, the **Falconer** excels at 
 ## Base Stats
 
 <table style="width: 100%; border-collapse: collapse; background-color: #242424; margin-top: 10px; margin-bottom: 24px;">
-    <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
-        <th style="padding: 8px; text-align: left; width: 40%;">Attribute</th>
-        <th style="padding: 8px; text-align: center; width: 30%;">Resolve 1</th>
-        <th style="padding: 8px; text-align: center; width: 30%;">Resolve 5</th>
-    </tr>
-    <tr style="border-bottom: 1px solid #383830;">
-        <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">MAX HP</td>
-        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">23</td>
-        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">43</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #383830;">
-        <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">DODGE</td>
-        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">5%</td>
-        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">25%</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #383830;">
-        <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">PROT</td>
-        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0%</td>
-        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0%</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #383830;">
-        <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">SPD</td>
-        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0</td>
-        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #383830;">
-        <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">ACC MOD</td>
-        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0</td>
-        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #383830;">
-        <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">CRIT</td>
-        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">7%</td>
-        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">11%</td>
-    </tr>
-    <tr>
-        <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">DMG</td>
-        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">4 - 7</td>
-        <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">7 - 11</td>
-    </tr>
+    <thead>
+        <tr style="background-color: #1a1a1a; color: #bfa67a; font-weight: bold; border-bottom: 1px solid #383830;">
+            <th style="padding: 8px; text-align: left; width: 20%;">Attribute</th>
+            <th style="padding: 8px; text-align: center; width: 16%;">Resolve 1</th>
+            <th style="padding: 8px; text-align: center; width: 16%;">Resolve 2</th>
+            <th style="padding: 8px; text-align: center; width: 16%;">Resolve 3</th>
+            <th style="padding: 8px; text-align: center; width: 16%;">Resolve 4</th>
+            <th style="padding: 8px; text-align: center; width: 16%;">Resolve 5</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="border-bottom: 1px solid #383830;">
+            <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">MAX HP</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">23</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">28</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">33</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">38</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">43</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #383830;">
+            <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">DODGE</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">5%</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">10%</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">15%</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">20%</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">25%</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #383830;">
+            <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">PROT</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0%</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0%</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0%</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0%</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0%</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #383830;">
+            <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">SPD</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">5</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">5</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">6</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">6</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">7</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #383830;">
+            <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">ACC MOD</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">0</td>
+        </tr>
+        <tr style="border-bottom: 1px solid #383830;">
+            <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">CRIT</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">7%</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">8%</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">9%</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">10%</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">11%</td>
+        </tr>
+        <tr>
+            <td style="padding: 8px; vertical-align: middle; color: #e2d6b5; font-weight: bold;">DMG</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">4 - 7</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">5 - 8</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">6 - 10</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">6 - 11</td>
+            <td style="padding: 8px; text-align: center; vertical-align: middle; color: #e2d6b5;">7 - 13</td>
+        </tr>
+    </tbody>
 </table>
-<div style="page-break-before: always;"></div>
 
 ### Resistances
 
@@ -192,13 +219,96 @@ The Falconer's combat skills emphasize disruption, positioning, and sustained pr
                 <td style="padding: 10px; text-align: left; vertical-align: middle;">
                     <div style="line-height: 1.4; display: block;">
                         <span style="color:#dbd37b">Skill 1</span><br>
-                        <span style="color:#3ac2de; font-weight:bold;">Buff Self</span>: +2 SPD
+                        <span style="color:#3ac2de; font-weight:bold;">Buff Self</span>: +2 SPD (4 rds)
                     </div>
                 </td>
             </tr>
-        </tbody>
-    </table>
-</div>
+            <!-- COLLAPSABLE DETAILS ROW -->
+            <tr>
+                <td colspan="7" style="padding: 0;">
+                    <details style="width: 100%;">
+                        <summary style="display: flex; justify-content: space-between; align-items: center; padding: 8px 14px; background-color: #1a1a1a; color: #bfa67a; font-weight: bold; cursor: pointer; font-size: 0.95em; outline: none; border-bottom: 1px solid #383830; user-select: none;">
+                            <span style="letter-spacing: 0.5px;">Further levels</span>
+                            <span style="color: #ffbc42; font-size: 0.9em; font-weight: bold;">[Expand/Collapse]</span>
+                        </summary>
+                        <table style="width: 100%; border-collapse: collapse; margin: 0; background-color: #1c1c1c; font-size: 0.95em;">
+                            <thead>
+                                <tr style="background-color: #151515; color: #8c7a5a; font-size: 0.85em; border-bottom: 1px solid #2a2a25; text-transform: uppercase;">
+                                    <th style="padding: 6px; text-align: right; width: 20%;">Level</th>
+                                    <th style="padding: 6px; text-align: center; width: 10%;">Damage</th>
+                                    <th style="padding: 6px; text-align: center; width: 10%;">Accuracy</th>
+                                    <th style="padding: 6px; text-align: center; width: 10%;">Crit Mod</th>
+                                    <th style="padding: 6px; text-align: left; width: 25%; padding-left: 15px;">Effect</th>
+                                    <th style="padding: 6px; text-align: left; width: 25%; padding-left: 15px;">Self</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
+                                    <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 2</td>
+                                    <td style="padding: 8px;">+0%</td>
+                                    <td style="padding: 8px; color: #ffbc42;">95</td>
+                                    <td style="padding: 8px;">+10.0%</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">
+                                        <div style="line-height: 1.4; display: block;">
+                                            +45% DMG vs <span style="color:#b23522; font-weight:bold;">Marked</span><br>
+                                            <span style="color:#dbd37b">Skill 1</span><br>
+                                            <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -11 DODGE (110% Base) / -2 SPD (110% Base)
+                                        </div>
+                                    </td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;"><span style="color:#dbd37b">Skill 2</span><br>
+                                    <span style="color:#3ac2de; font-weight:bold;">Buff Self</span>: +2 SPD (4 rds)</div></td>
+                                </tr>
+                                <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
+                                    <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 3</td>
+                                    <td style="padding: 8px;">+0%</td>
+                                    <td style="padding: 8px; color: #ffbc42;">100</td>
+                                    <td style="padding: 8px;">+11.0%</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">
+                                        <div style="line-height: 1.4; display: block;">
+                                            +55% DMG vs <span style="color:#b23522; font-weight:bold;">Marked</span><br>
+                                            <span style="color:#dbd37b">Skill 1</span><br>
+                                            <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -12 DODGE (120% Base) / -3 SPD (120% Base)
+                                        </div>
+                                    </td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;"><span style="color:#dbd37b">Skill 2</span><br>
+                                    <span style="color:#3ac2de; font-weight:bold;">Buff Self</span>: +3 SPD (4 rds)</div></td>
+                                </tr>
+                                <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
+                                    <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 4</td>
+                                    <td style="padding: 8px;">+0%</td>
+                                    <td style="padding: 8px; color: #ffbc42;">105</td>
+                                    <td style="padding: 8px;">+12.0%</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">
+                                        <div style="line-height: 1.4; display: block;">
+                                            +65% DMG vs <span style="color:#b23522; font-weight:bold;">Marked</span><br>
+                                            <span style="color:#dbd37b">Skill 1</span><br>
+                                            <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -13 DODGE (130% Base) / -3 SPD (130% Base)
+                                        </div>
+                                    </td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;"><span style="color:#dbd37b">Skill 2</span><br>
+                                    <span style="color:#3ac2de; font-weight:bold;">Buff Self</span>: +3 SPD (4 rds)</div></td>
+                                </tr>
+                                <tr style="text-align: center;">
+                                    <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 5</td>
+                                    <td style="padding: 8px;">+0%</td>
+                                    <td style="padding: 8px; color: #ffbc42;">110</td>
+                                    <td style="padding: 8px;">+13.0%</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;">
+                                        <div style="line-height: 1.4; display: block;">
+                                            +75% DMG vs <span style="color:#b23522; font-weight:bold;">Marked</span><br>
+                                            <span style="color:#dbd37b">Skill 1</span><br>
+                                            <span style="color:#d4611e; font-weight:bold;">Debuff Target</span>: -15 DODGE (140% Base) / -4 SPD (140% Base)
+                                        </div>
+                                    </td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;"><span style="color:#dbd37b">Skill 2</span><br>
+                                    <span style="color:#3ac2de; font-weight:bold;">Buff Self</span>: +4 SPD (4 rds)</div></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </details>
+                </td>
+            </tr>
+
 
 ---
 
@@ -244,8 +354,65 @@ The Falconer's combat skills emphasize disruption, positioning, and sustained pr
                 </td>
                 <td style="padding: 10px; text-align: left; vertical-align: middle;">
                     <div style="line-height: 1.4; display: block;">
-                        -
+                        —
                     </div>
+                </td>
+            </tr>
+            <!-- COLLAPSABLE DETAILS ROW -->
+            <tr>
+                <td colspan="7" style="padding: 0;">
+                    <details style="width: 100%;">
+                        <summary style="display: flex; justify-content: space-between; align-items: center; padding: 8px 14px; background-color: #1a1a1a; color: #bfa67a; font-weight: bold; cursor: pointer; font-size: 0.95em; outline: none; border-bottom: 1px solid #383830; user-select: none;">
+                            <span style="letter-spacing: 0.5px;">Further levels</span>
+                            <span style="color: #ffbc42; font-size: 0.9em; font-weight: bold;">[Expand/Collapse]</span>
+                        </summary>
+                        <table style="width: 100%; border-collapse: collapse; margin: 0; background-color: #1c1c1c; font-size: 0.95em;">
+                            <thead>
+                                <tr style="background-color: #151515; color: #8c7a5a; font-size: 0.85em; border-bottom: 1px solid #2a2a25; text-transform: uppercase;">
+                                    <th style="padding: 6px; text-align: right; width: 20%;">Level</th>
+                                    <th style="padding: 6px; text-align: center; width: 10%;">Damage</th>
+                                    <th style="padding: 6px; text-align: center; width: 10%;">Accuracy</th>
+                                    <th style="padding: 6px; text-align: center; width: 10%;">Crit Mod</th>
+                                    <th style="padding: 6px; text-align: left; width: 25%; padding-left: 15px;">Effect</th>
+                                    <th style="padding: 6px; text-align: left; width: 25%; padding-left: 15px;">Self</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
+                                    <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 2</td>
+                                    <td style="padding: 8px;">+10%</td>
+                                    <td style="padding: 8px; color: #ffbc42;">95</td>
+                                    <td style="padding: 8px;">+3.0%</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
+                                </tr>
+                                <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
+                                    <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 3</td>
+                                    <td style="padding: 8px;">+10%</td>
+                                    <td style="padding: 8px; color: #ffbc42;">100</td>
+                                    <td style="padding: 8px;">+4.0%</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
+                                </tr>
+                                <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
+                                    <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 4</td>
+                                    <td style="padding: 8px;">+10%</td>
+                                    <td style="padding: 8px; color: #ffbc42;">105</td>
+                                    <td style="padding: 8px;">+5.0%</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
+                                </tr>
+                                <tr style="text-align: center;">
+                                    <td style="padding: 8px; text-align: right; font-weight: bold; color: #bfa67a;">Level 5</td>
+                                    <td style="padding: 8px;">+10%</td>
+                                    <td style="padding: 8px; color: #ffbc42;">110</td>
+                                    <td style="padding: 8px;">+6.0%</td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </details>
                 </td>
             </tr>
         </tbody>
@@ -295,7 +462,7 @@ The Falconer's combat skills emphasize disruption, positioning, and sustained pr
                 </td>
                 <td style="padding: 10px; text-align: left; vertical-align: middle;">
                     <div style="line-height: 1.4; display: block;">
-                        -
+                        —
                     </div>
                 </td>
             </tr>

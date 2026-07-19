@@ -398,18 +398,17 @@ The Twilight Knight's combat skills emphasize powerful melee attacks, crowd cont
                 <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;">
                     <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span>
                 </td>
-                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;">
-                    <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span> <span style="color:#ffbc42;">●</span>
-                </td>
+                <td style="padding: 10px; font-size: 1.2em; letter-spacing: 2px; vertical-align: middle;"><span style="color:#27c722;">●-●-●-●</span></td>
                 <td style="padding: 10px; text-align: left; vertical-align: middle;">
                     <div style="line-height: 1.4; display: block;">
                         <span style="font-weight:bold;">Stress</span>: -4<br>
-                        <span style="font-weight:bold;">Torch</span>: +5
+                        <span style="font-weight:bold;">Torch</span>: +5<br>
+                        <span style="font-style: italic; opacity: 0.8;">(Effects Don't Apply to Self)</span>
                     </div>
                 </td>
                 <td style="padding: 10px; text-align: left; vertical-align: middle;">
                     <div style="line-height: 1.4; display: block;">
-                        <span style="font-weight:bold;">Stress</span>: +2<br>
+                        <span style="font-weight:bold;">Stress</span>: ~+2<br>
                         <span style="color:#6d35a3; font-weight:bold;">De-Stealth</span><br>
                         <span style="color:#b23522; font-weight:bold;">Mark</span> Target
                     </div>

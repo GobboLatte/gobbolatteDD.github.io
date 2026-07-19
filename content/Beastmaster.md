@@ -470,7 +470,7 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                                     <td style="padding: 8px;">+10%</td>
                                     <td style="padding: 8px; color: #ffbc42;">95</td>
                                     <td style="padding: 8px;">+3.0%</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">+12 ACC vs <span style="color:#6d35a3; font-weight:bold;">Stealthed</span></div></td>
                                     <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
                                 </tr>
                                 <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
@@ -478,7 +478,7 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                                     <td style="padding: 8px;">+10%</td>
                                     <td style="padding: 8px; color: #ffbc42;">100</td>
                                     <td style="padding: 8px;">+4.0%</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">+15 ACC vs <span style="color:#6d35a3; font-weight:bold;">Stealthed</span></div></td>
                                     <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
                                 </tr>
                                 <tr style="border-bottom: 1px solid #2a2a25; text-align: center;">
@@ -486,7 +486,7 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                                     <td style="padding: 8px;">+10%</td>
                                     <td style="padding: 8px; color: #ffbc42;">105</td>
                                     <td style="padding: 8px;">+5.0%</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">+17 ACC vs <span style="color:#6d35a3; font-weight:bold;">Stealthed</span></div></td>
                                     <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
                                 </tr>
                                 <tr style="text-align: center;">
@@ -494,7 +494,7 @@ The Beastmaster's combat skills reward adaptability through a blend of aggressiv
                                     <td style="padding: 8px;">+10%</td>
                                     <td style="padding: 8px; color: #ffbc42;">110</td>
                                     <td style="padding: 8px;">+6.0%</td>
-                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
+                                    <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">+20 ACC vs <span style="color:#6d35a3; font-weight:bold;">Stealthed</span></div></td>
                                     <td style="padding: 8px; text-align: left; padding-left: 15px; font-size: 0.9em; opacity: 0.85;"><div style="line-height: 1.4;">—</div></td>
                                 </tr>
                             </tbody>
@@ -1133,6 +1133,7 @@ The Beastmaster fights with paired hunting blades and ritual tattoos that bind t
 * Cannot develop quirks which are negative vs beast or in Weald.
 * Can't go with other Beastmasters in party.
 
+---
 
 <!-- Lore Comic Section -->
 <div style="text-align: center; background-color: #141414; border: 1px solid #383830; border-radius: 6px; padding: 16px; margin-top: 24px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); page-break-inside: avoid; break-inside: avoid;">
